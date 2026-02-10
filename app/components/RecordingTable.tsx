@@ -9,6 +9,8 @@ const ITEMS_PER_PAGE = 50;
 const RecordingTable: React.FC = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const [minimizedColumns, setMinimizedColumns] = useState<Record<string, boolean>>({});
+  const [minLen, setMinLen] = useState<string>('');
+  const [maxLen, setMaxLen] = useState<string>('');
 
   const toggleColumn = (id: string) => {
     setMinimizedColumns((prev) => ({
@@ -17,10 +19,22 @@ const RecordingTable: React.FC = () => {
     }));
   };
 
+  // Filter speakers based on length
+  const filteredSpeakers = speakers.filter((s) => {
+    const d = s.duration;
+    const min = minLen === '' ? 0 : parseFloat(minLen);
+    const max = maxLen === '' ? Infinity : parseFloat(maxLen);
+    return d >= min && d <= max;
+  });
+
   // Calculate pagination
-  const totalPages = Math.ceil(speakers.length / ITEMS_PER_PAGE);
+  const totalPages = Math.ceil(filteredSpeakers.length / ITEMS_PER_PAGE);
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-  const currentSpeakers = speakers.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+  // Ensure current page is valid after filtering
+  const safeCurrentPage = Math.min(currentPage, Math.max(1, totalPages));
+  const effectiveStartIndex = (safeCurrentPage - 1) * ITEMS_PER_PAGE;
+
+  const currentSpeakers = filteredSpeakers.slice(effectiveStartIndex, effectiveStartIndex + ITEMS_PER_PAGE);
 
   // Get all unique model names to create columns
   const allModelIds = Array.from(
@@ -42,26 +56,52 @@ const RecordingTable: React.FC = () => {
 
   return (
     <div className="w-full space-y-4">
-      {/* Pagination Controls */}
-      <div className="flex justify-between items-center px-4">
-        <span className="text-sm text-gray-700 dark:text-gray-400">
-          Page {currentPage} of {totalPages}
-        </span>
-        <div className="inline-flex mt-2 xs:mt-0">
-          <button
-            onClick={handlePrevious}
-            disabled={currentPage === 1}
-            className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 rounded-s hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
-          >
-            Prev
-          </button>
-          <button
-            onClick={handleNext}
-            disabled={currentPage === totalPages}
-            className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 border-0 border-s border-gray-700 rounded-e hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
-          >
-            Next
-          </button>
+      <div className="flex flex-col md:flex-row justify-between items-center gap-4 px-4 bg-gray-50 dark:bg-gray-800 p-4 rounded-lg border border-gray-200 dark:border-gray-700">
+        <div className="flex items-center gap-4">
+          <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">Length Filter (seconds):</span>
+          <div className="flex items-center gap-2">
+            <input
+              type="number"
+              placeholder="Min"
+              value={minLen}
+              onChange={(e) => { setMinLen(e.target.value); setCurrentPage(1); }}
+              className="w-20 px-2 py-1 text-sm border rounded dark:bg-gray-700 dark:border-gray-600 dark:text-white"
+            />
+            <span className="text-gray-400">-</span>
+            <input
+              type="number"
+              placeholder="Max"
+              value={maxLen}
+              onChange={(e) => { setMaxLen(e.target.value); setCurrentPage(1); }}
+              className="w-20 px-2 py-1 text-sm border rounded dark:bg-gray-700 dark:border-gray-600 dark:text-white"
+            />
+          </div>
+          <span className="text-xs text-gray-500">
+            Showing {filteredSpeakers.length} of {speakers.length} recordings
+          </span>
+        </div>
+
+        {/* Pagination Controls */}
+        <div className="flex items-center gap-4">
+          <span className="text-sm text-gray-700 dark:text-gray-400">
+            Page {safeCurrentPage} of {totalPages || 1}
+          </span>
+          <div className="inline-flex">
+            <button
+              onClick={handlePrevious}
+              disabled={safeCurrentPage === 1}
+              className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 rounded-s hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              Prev
+            </button>
+            <button
+              onClick={handleNext}
+              disabled={safeCurrentPage === totalPages || totalPages === 0}
+              className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 border-0 border-s border-gray-700 rounded-e hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              Next
+            </button>
+          </div>
         </div>
       </div>
       
@@ -176,19 +216,19 @@ const RecordingTable: React.FC = () => {
       {/* Pagination Controls */}
       <div className="flex justify-between items-center px-4">
         <span className="text-sm text-gray-700 dark:text-gray-400">
-          Page {currentPage} of {totalPages}
+          Page {safeCurrentPage} of {totalPages || 1}
         </span>
         <div className="inline-flex mt-2 xs:mt-0">
           <button
             onClick={handlePrevious}
-            disabled={currentPage === 1}
+            disabled={safeCurrentPage === 1}
             className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 rounded-s hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
           >
             Prev
           </button>
           <button
             onClick={handleNext}
-            disabled={currentPage === totalPages}
+            disabled={safeCurrentPage === totalPages || totalPages === 0}
             className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 border-0 border-s border-gray-700 rounded-e hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
           >
             Next
