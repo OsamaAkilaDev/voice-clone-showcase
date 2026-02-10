@@ -58,7 +58,7 @@ const RecordingTable: React.FC = () => {
     <div className="w-full space-y-4">
       <div className="flex flex-col md:flex-row justify-between items-center gap-4 px-4 bg-gray-50 dark:bg-gray-800 p-4 rounded-lg border border-gray-200 dark:border-gray-700">
         <div className="flex items-center gap-4">
-          <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">Length Filter (seconds):</span>
+          <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">Length Filter of Original Recording (seconds):</span>
           <div className="flex items-center gap-2">
             <input
               type="number"
