@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { speakers } from '../data/recordings';
 import AudioPlayer from './AudioPlayer';
 
-const ITEMS_PER_PAGE = 2;
+const ITEMS_PER_PAGE = 50;
 
 const RecordingTable: React.FC = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -34,13 +34,36 @@ const RecordingTable: React.FC = () => {
 
   return (
     <div className="w-full space-y-4">
-      <div className="w-full overflow-x-auto shadow-md sm:rounded-lg">
-        <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400 table-fixed min-w-[1200px]">
+      {/* Pagination Controls */}
+      <div className="flex justify-between items-center px-4">
+        <span className="text-sm text-gray-700 dark:text-gray-400">
+          Page {currentPage} of {totalPages}
+        </span>
+        <div className="inline-flex mt-2 xs:mt-0">
+          <button
+            onClick={handlePrevious}
+            disabled={currentPage === 1}
+            className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 rounded-s hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            Prev
+          </button>
+          <button
+            onClick={handleNext}
+            disabled={currentPage === totalPages}
+            className="flex items-center justify-center px-3 h-8 text-sm font-medium text-white bg-gray-800 border-0 border-s border-gray-700 rounded-e hover:bg-gray-900 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            Next
+          </button>
+        </div>
+      </div>
+      
+      <div className="w-full overflow-x-auto shadow-md sm:rounded-lg border border-gray-200 dark:border-gray-700">
+        <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400 min-w-[1600px] border-collapse">
              <colgroup>
-                <col className="w-15" />
-                <col className="w-50" />
+                <col className="w-[150px]" />
+                <col className="w-[350px]" />
                 {allModelIds.map((modelId) => (
-                  <col key={modelId} className="w-50" />
+                  <col key={modelId} className="w-[300px]" />
                 ))}
             </colgroup>
             <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
@@ -102,7 +125,6 @@ const RecordingTable: React.FC = () => {
           </tbody>
         </table>
       </div>
-
       {/* Pagination Controls */}
       <div className="flex justify-between items-center px-4">
         <span className="text-sm text-gray-700 dark:text-gray-400">
@@ -125,6 +147,7 @@ const RecordingTable: React.FC = () => {
           </button>
         </div>
       </div>
+
     </div>
   );
 };
