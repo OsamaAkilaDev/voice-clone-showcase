@@ -8,6 +8,14 @@ const ITEMS_PER_PAGE = 50;
 
 const RecordingTable: React.FC = () => {
   const [currentPage, setCurrentPage] = useState(1);
+  const [minimizedColumns, setMinimizedColumns] = useState<Record<string, boolean>>({});
+
+  const toggleColumn = (id: string) => {
+    setMinimizedColumns((prev) => ({
+      ...prev,
+      [id]: !prev[id],
+    }));
+  };
 
   // Calculate pagination
   const totalPages = Math.ceil(speakers.length / ITEMS_PER_PAGE);
@@ -58,25 +66,52 @@ const RecordingTable: React.FC = () => {
       </div>
       
       <div className="w-full overflow-x-auto shadow-md sm:rounded-lg border border-gray-200 dark:border-gray-700">
-        <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400 min-w-[1600px] border-collapse">
+        <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400 min-w-full border-collapse">
              <colgroup>
-                <col className="w-[150px]" />
-                <col className="w-[350px]" />
+                <col className={minimizedColumns['speaker'] ? 'w-[60px]' : 'w-[120px]'} />
+                <col className={minimizedColumns['original'] ? 'w-[60px]' : 'w-[280px]'} />
                 {allModelIds.map((modelId) => (
-                  <col key={modelId} className="w-[300px]" />
+                  <col key={modelId} className={minimizedColumns[modelId] ? 'w-[60px]' : 'w-[220px]'} />
                 ))}
             </colgroup>
             <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
             <tr>
-              <th scope="col" className="px-6 py-3">
-                Speaker
+              <th scope="col" className="px-4 py-3 border-r border-gray-200 dark:border-gray-600">
+                <div className="flex items-center justify-between">
+                  {!minimizedColumns['speaker'] && <span className="truncate">Speaker</span>}
+                  <button 
+                    onClick={() => toggleColumn('speaker')}
+                    className="p-1 hover:bg-gray-200 dark:hover:bg-gray-600 rounded text-lg font-bold w-6 h-6 flex items-center justify-center transition-colors"
+                    title={minimizedColumns['speaker'] ? "Expand" : "Minimize"}
+                  >
+                    {minimizedColumns['speaker'] ? '+' : '−'}
+                  </button>
+                </div>
               </th>
-              <th scope="col" className="px-6 py-3">
-                Original Recording
+              <th scope="col" className="px-4 py-3 border-r border-gray-200 dark:border-gray-600">
+                <div className="flex items-center justify-between">
+                  {!minimizedColumns['original'] && <span className="truncate">Original Recording</span>}
+                  <button 
+                    onClick={() => toggleColumn('original')}
+                    className="p-1 hover:bg-gray-200 dark:hover:bg-gray-600 rounded text-lg font-bold w-6 h-6 flex items-center justify-center transition-colors"
+                    title={minimizedColumns['original'] ? "Expand" : "Minimize"}
+                  >
+                    {minimizedColumns['original'] ? '+' : '−'}
+                  </button>
+                </div>
               </th>
               {allModelIds.map((modelId) => (
-                <th key={modelId} scope="col" className="px-6 py-3">
-                  {getModelName(modelId)}
+                <th key={modelId} scope="col" className="px-4 py-3 border-r border-gray-200 dark:border-gray-600 last:border-r-0">
+                  <div className="flex items-center justify-between">
+                    {!minimizedColumns[modelId] && <span className="truncate">{getModelName(modelId)}</span>}
+                    <button 
+                      onClick={() => toggleColumn(modelId)}
+                      className="p-1 hover:bg-gray-200 dark:hover:bg-gray-600 rounded text-lg font-bold w-6 h-6 flex items-center justify-center transition-colors"
+                      title={minimizedColumns[modelId] ? "Expand" : "Minimize"}
+                    >
+                      {minimizedColumns[modelId] ? '+' : '−'}
+                    </button>
+                  </div>
                 </th>
               ))}
             </tr>
@@ -87,32 +122,45 @@ const RecordingTable: React.FC = () => {
                 key={speaker.id}
                 className="bg-white border-b dark:bg-gray-800 dark:border-gray-700"
               >
-                <td className="px-6 py-4 font-medium text-gray-900 dark:text-white align-top">
-                  <div className="break-words">{speaker.name}</div>
-                  <div className="text-xs text-gray-400 mt-1">ID: {speaker.id}</div>
+                <td className="px-4 py-4 font-medium text-gray-900 dark:text-white align-top border-r border-gray-100 dark:border-gray-700">
+                  {!minimizedColumns['speaker'] ? (
+                    <>
+                      <div className="break-words">{speaker.name}</div>
+                      <div className="text-xs text-gray-400 mt-1">ID: {speaker.id}</div>
+                    </>
+                  ) : (
+                    <div className="flex justify-center text-gray-300">...</div>
+                  )}
                 </td>
-                <td className="px-6 py-4 align-top">
-                  <div className="space-y-2">
-                    <p className="text-sm italic text-gray-700 dark:text-gray-300 mb-1 whitespace-pre-wrap break-words">"{speaker.originalText}"</p>
-                    <AudioPlayer src={speaker.originalAudio} />
-                  </div>
+                <td className="px-4 py-4 align-top border-r border-gray-100 dark:border-gray-700">
+                  {!minimizedColumns['original'] ? (
+                    <div className="space-y-2">
+                      <p className="text-sm italic text-gray-700 dark:text-gray-300 mb-1 whitespace-pre-wrap break-words">"{speaker.originalText}"</p>
+                      <AudioPlayer src={speaker.originalAudio} />
+                    </div>
+                  ) : (
+                    <div className="flex justify-center text-gray-300">...</div>
+                  )}
                 </td>
                 {allModelIds.map((modelId) => {
                   const modelData = speaker.models.find((m) => m.modelId === modelId);
+                  const isMinimized = minimizedColumns[modelId];
                   return (
-                    <td key={modelId} className="px-6 py-4 align-top">
-                      {modelData ? (
+                    <td key={modelId} className="px-4 py-4 align-top border-r border-gray-100 dark:border-gray-700 last:border-r-0">
+                      {isMinimized ? (
+                        <div className="flex justify-center text-gray-300 text-xs">...</div>
+                      ) : modelData ? (
                         <div className="space-y-6">
-                          <div>
-                            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wider block mb-2">Cloned (Original Script)</span>
-                            <p className="text-sm italic text-gray-700 dark:text-gray-300 mb-2 whitespace-pre-wrap break-words">"{modelData.clonedOriginalText}"</p>
-                            <AudioPlayer src={modelData.clonedOriginalAudio} />
-                          </div>
-                          <div className="border-t border-gray-200 dark:border-gray-700 pt-4">
-                            <span className="text-xs font-semibold text-gray-500 uppercase tracking-wider block mb-2">Cloned (New Script)</span>
-                            <p className="text-sm italic text-gray-700 dark:text-gray-300 mb-2 whitespace-pre-wrap break-words">"{modelData.clonedNewText}"</p>
-                            <AudioPlayer src={modelData.clonedNewAudio} />
-                          </div>
+                            <div>
+                              <span className="text-xs font-semibold text-gray-500 uppercase tracking-wider block mb-2">Original Script</span>
+                              <p className="text-sm italic text-gray-700 dark:text-gray-300 mb-2 whitespace-pre-wrap break-words">"{modelData.clonedOriginalText}"</p>
+                              <AudioPlayer src={modelData.clonedOriginalAudio} />
+                            </div>
+                            <div className="border-t border-gray-200 dark:border-gray-700 pt-4">
+                              <span className="text-xs font-semibold text-gray-500 uppercase tracking-wider block mb-2">New Script</span>
+                              <p className="text-sm italic text-gray-700 dark:text-gray-300 mb-2 whitespace-pre-wrap break-words">"{modelData.clonedNewText}"</p>
+                              <AudioPlayer src={modelData.clonedNewAudio} />
+                            </div>
                         </div>
                       ) : (
                         <span className="text-xs text-gray-400">Not available</span>
