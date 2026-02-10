@@ -37,10 +37,10 @@ const RecordingTable: React.FC = () => {
       <div className="w-full overflow-x-auto shadow-md sm:rounded-lg">
         <table className="w-full text-sm text-left text-gray-500 dark:text-gray-400 table-fixed min-w-[1200px]">
              <colgroup>
-                <col className="w-48" />
-                <col className="w-80" />
+                <col className="w-15" />
+                <col className="w-50" />
                 {allModelIds.map((modelId) => (
-                  <col key={modelId} className="w-96" />
+                  <col key={modelId} className="w-50" />
                 ))}
             </colgroup>
             <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">

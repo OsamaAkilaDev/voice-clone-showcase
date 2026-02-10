@@ -29,6 +29,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "It's very tough. I didn't have time to read the whole passage. I read one passage in one hour and that is very difficult.",
         "clonedNewAudio": "/audio/qwen/spk-133821-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-133821-fish-original.wav",
+        "clonedOriginalText": "It's very tough. I didn't have time to read the whole passage. I read one passage in one hour and that is very difficult.",
+        "clonedNewAudio": "/audio/fish/spk-133821-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -44,6 +52,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-180823-qwen-original.wav",
         "clonedOriginalText": "Yes, I think I feel fun if I do it, this sport, but I feel lazy so I don't go.",
         "clonedNewAudio": "/audio/qwen/spk-180823-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-180823-fish-original.wav",
+        "clonedOriginalText": "Yes, I think I feel fun if I do it, this sport, but I feel lazy so I don't go.",
+        "clonedNewAudio": "/audio/fish/spk-180823-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -61,6 +77,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "No, we don't have dinner. We are playing a card game and we drink mojito, blue mojito.",
         "clonedNewAudio": "/audio/qwen/spk-185111-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185111-fish-original.wav",
+        "clonedOriginalText": "No, we don't have dinner. We are playing a card game and we drink mojito, blue mojito.",
+        "clonedNewAudio": "/audio/fish/spk-185111-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -76,6 +100,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-102647-qwen-original.wav",
         "clonedOriginalText": "Usually I do with friends to go like resort or out of city to get more relax, no noisy and make barbecue or make food and watch TV or soccer.",
         "clonedNewAudio": "/audio/qwen/spk-102647-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-102647-fish-original.wav",
+        "clonedOriginalText": "Usually I do with friends to go like resort or out of city to get more relax, no noisy and make barbecue or make food and watch TV or soccer.",
+        "clonedNewAudio": "/audio/fish/spk-102647-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -93,6 +125,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I always find information on the internet like apps and booking sites. Additionally, I read customer comments before booking a hotel.",
         "clonedNewAudio": "/audio/qwen/spk-139705-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-139705-fish-original.wav",
+        "clonedOriginalText": "I always find information on the internet like apps and booking sites. Additionally, I read customer comments before booking a hotel.",
+        "clonedNewAudio": "/audio/fish/spk-139705-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -108,6 +148,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-40401-qwen-original.wav",
         "clonedOriginalText": "I take a shower then playing with my baby Faris and after Faris is sleeping I watch TV and make dinner. Then I'm sleeping at 11 pm.",
         "clonedNewAudio": "/audio/qwen/spk-40401-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-40401-fish-original.wav",
+        "clonedOriginalText": "I take a shower then playing with my baby Faris and after Faris is sleeping I watch TV and make dinner. Then I'm sleeping at 11 pm.",
+        "clonedNewAudio": "/audio/fish/spk-40401-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -125,6 +173,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I like my job, but I don't like the position because the work is so hard and the salary is not well.",
         "clonedNewAudio": "/audio/qwen/spk-167035-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-167035-fish-original.wav",
+        "clonedOriginalText": "I like my job, but I don't like the position because the work is so hard and the salary is not well.",
+        "clonedNewAudio": "/audio/fish/spk-167035-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -140,6 +196,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-188505-qwen-original.wav",
         "clonedOriginalText": "When the chief has a meeting with coworkers, he makes a funny story or a simple situation funny to break the ice in the meeting.",
         "clonedNewAudio": "/audio/qwen/spk-188505-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188505-fish-original.wav",
+        "clonedOriginalText": "When the chief has a meeting with coworkers, he makes a funny story or a simple situation funny to break the ice in the meeting.",
+        "clonedNewAudio": "/audio/fish/spk-188505-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -157,6 +221,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I think the best way is that a person needs to commit without fear and just needs to relax and enjoy that with his group.",
         "clonedNewAudio": "/audio/qwen/spk-159175-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-159175-fish-original.wav",
+        "clonedOriginalText": "I think the best way is that a person needs to commit without fear and just needs to relax and enjoy that with his group.",
+        "clonedNewAudio": "/audio/fish/spk-159175-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -172,6 +244,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-187339-qwen-original.wav",
         "clonedOriginalText": "If it is an expense, I trust the application or I already paid from the application, I actually don't read the reviews.",
         "clonedNewAudio": "/audio/qwen/spk-187339-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187339-fish-original.wav",
+        "clonedOriginalText": "If it is an expense, I trust the application or I already paid from the application, I actually don't read the reviews.",
+        "clonedNewAudio": "/audio/fish/spk-187339-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -189,6 +269,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I think the differences are about both types and colors of the toys. Usually girls' toys come in pink and boys' toys come in blue.",
         "clonedNewAudio": "/audio/qwen/spk-151837-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-151837-fish-original.wav",
+        "clonedOriginalText": "I think the differences are about both types and colors of the toys. Usually girls' toys come in pink and boys' toys come in blue.",
+        "clonedNewAudio": "/audio/fish/spk-151837-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -204,6 +292,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-183601-qwen-original.wav",
         "clonedOriginalText": "If the doctor asks me to explain the issue in detail, I would say a long story short, it's easy.",
         "clonedNewAudio": "/audio/qwen/spk-183601-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-183601-fish-original.wav",
+        "clonedOriginalText": "If the doctor asks me to explain the issue in detail, I would say a long story short, it's easy.",
+        "clonedNewAudio": "/audio/fish/spk-183601-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -221,6 +317,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "My colleagues, they don't call me in my busy time because they know I am the busiest employee in my work.",
         "clonedNewAudio": "/audio/qwen/spk-188593-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188593-fish-original.wav",
+        "clonedOriginalText": "My colleagues, they don't call me in my busy time because they know I am the busiest employee in my work.",
+        "clonedNewAudio": "/audio/fish/spk-188593-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -236,6 +340,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-176709-qwen-original.wav",
         "clonedOriginalText": "Now I shop online because I don't have any time because my work until 5 pm and I have too much working after the work because I use online stuff.",
         "clonedNewAudio": "/audio/qwen/spk-176709-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-176709-fish-original.wav",
+        "clonedOriginalText": "Now I shop online because I don't have any time because my work until 5 pm and I have too much working after the work because I use online stuff.",
+        "clonedNewAudio": "/audio/fish/spk-176709-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -253,6 +365,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "That's all. As I said, I like to eat pasta, noodles, sushi, a lot of kind of food.",
         "clonedNewAudio": "/audio/qwen/spk-181479-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-181479-fish-original.wav",
+        "clonedOriginalText": "That's all. As I said, I like to eat pasta, noodles, sushi, a lot of kind of food.",
+        "clonedNewAudio": "/audio/fish/spk-181479-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -268,6 +388,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-135375-qwen-original.wav",
         "clonedOriginalText": "I think it is not related to cooking and English skills, but maybe if I watch videos in YouTube with the recipe in English content.",
         "clonedNewAudio": "/audio/qwen/spk-135375-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-135375-fish-original.wav",
+        "clonedOriginalText": "I think it is not related to cooking and English skills, but maybe if I watch videos in YouTube with the recipe in English content.",
+        "clonedNewAudio": "/audio/fish/spk-135375-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -285,6 +413,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I think how much salary is getting at the end of the month and what's the job and responsibility for the job.",
         "clonedNewAudio": "/audio/qwen/spk-19313-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-19313-fish-original.wav",
+        "clonedOriginalText": "I think how much salary is getting at the end of the month and what's the job and responsibility for the job.",
+        "clonedNewAudio": "/audio/fish/spk-19313-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -300,6 +436,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-124903-qwen-original.wav",
         "clonedOriginalText": "I want to visit the fantasy sculpture and painting festival held yearly in the Global Sculpture Exhibition in Paris, sometimes in London.",
         "clonedNewAudio": "/audio/qwen/spk-124903-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-124903-fish-original.wav",
+        "clonedOriginalText": "I want to visit the fantasy sculpture and painting festival held yearly in the Global Sculpture Exhibition in Paris, sometimes in London.",
+        "clonedNewAudio": "/audio/fish/spk-124903-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -317,6 +461,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I think better to have a job you love because I get better in the job and I go every day to job and I'm so happy and comfortable.",
         "clonedNewAudio": "/audio/qwen/spk-185319-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185319-fish-original.wav",
+        "clonedOriginalText": "I think better to have a job you love because I get better in the job and I go every day to job and I'm so happy and comfortable.",
+        "clonedNewAudio": "/audio/fish/spk-185319-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -332,6 +484,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-132723-qwen-original.wav",
         "clonedOriginalText": "We decided to form a group at the beginning of the semester just to keep track and achieve better scores. I tend to avoid studying with anyone during my final exams.",
         "clonedNewAudio": "/audio/qwen/spk-132723-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.wav",
+        "clonedOriginalText": "We decided to form a group at the beginning of the semester just to keep track and achieve better scores. I tend to avoid studying with anyone during my final exams.",
+        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -349,6 +509,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I prefer eating knafeh at the cafe with Turkish coffee because I like to eat knafeh very hot.",
         "clonedNewAudio": "/audio/qwen/spk-129009-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-129009-fish-original.wav",
+        "clonedOriginalText": "I prefer eating knafeh at the cafe with Turkish coffee because I like to eat knafeh very hot.",
+        "clonedNewAudio": "/audio/fish/spk-129009-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -364,6 +532,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-173225-qwen-original.wav",
         "clonedOriginalText": "To be honest with you, I don't have specific exercise because I don't understand about this kind of exercise. Can you please give me the answer?",
         "clonedNewAudio": "/audio/qwen/spk-173225-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-173225-fish-original.wav",
+        "clonedOriginalText": "To be honest with you, I don't have specific exercise because I don't understand about this kind of exercise. Can you please give me the answer?",
+        "clonedNewAudio": "/audio/fish/spk-173225-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -381,6 +557,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "There are weak people who follow anything and don't have strong beliefs, and others who are strong and their opinion don't change quickly until they believe it.",
         "clonedNewAudio": "/audio/qwen/spk-124285-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-124285-fish-original.wav",
+        "clonedOriginalText": "There are weak people who follow anything and don't have strong beliefs, and others who are strong and their opinion don't change quickly until they believe it.",
+        "clonedNewAudio": "/audio/fish/spk-124285-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -396,6 +580,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-174715-qwen-original.wav",
         "clonedOriginalText": "The traditional food is different from country to country in the name, but it is maybe same rice and chicken but another country different name.",
         "clonedNewAudio": "/audio/qwen/spk-174715-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-174715-fish-original.wav",
+        "clonedOriginalText": "The traditional food is different from country to country in the name, but it is maybe same rice and chicken but another country different name.",
+        "clonedNewAudio": "/audio/fish/spk-174715-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -413,6 +605,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "On the weekend, I usually with my family and I go for lunch and go around in the lake. That's it.",
         "clonedNewAudio": "/audio/qwen/spk-77469-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-77469-fish-original.wav",
+        "clonedOriginalText": "On the weekend, I usually with my family and I go for lunch and go around in the lake. That's it.",
+        "clonedNewAudio": "/audio/fish/spk-77469-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -428,6 +628,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-146499-qwen-original.wav",
         "clonedOriginalText": "We have to start the formal email by the introduction, which we have to mention Dear the name of the person.",
         "clonedNewAudio": "/audio/qwen/spk-146499-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-146499-fish-original.wav",
+        "clonedOriginalText": "We have to start the formal email by the introduction, which we have to mention Dear the name of the person.",
+        "clonedNewAudio": "/audio/fish/spk-146499-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -445,6 +653,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "We tried sushi first, we tried ramen next, we explored the rich traditions, we also made a lot of connections there. I improved my social skills.",
         "clonedNewAudio": "/audio/qwen/spk-174161-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-174161-fish-original.wav",
+        "clonedOriginalText": "We tried sushi first, we tried ramen next, we explored the rich traditions, we also made a lot of connections there. I improved my social skills.",
+        "clonedNewAudio": "/audio/fish/spk-174161-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -460,6 +676,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-185229-qwen-original.wav",
         "clonedOriginalText": "We have a special Islamic holiday. It's called Eid al-Fitr and Eid al-Adha. This is my favorite.",
         "clonedNewAudio": "/audio/qwen/spk-185229-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185229-fish-original.wav",
+        "clonedOriginalText": "We have a special Islamic holiday. It's called Eid al-Fitr and Eid al-Adha. This is my favorite.",
+        "clonedNewAudio": "/audio/fish/spk-185229-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -477,6 +701,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "My uncle is a good example of a generous person. Really I admire him. He is my role model in my life.",
         "clonedNewAudio": "/audio/qwen/spk-184447-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-184447-fish-original.wav",
+        "clonedOriginalText": "My uncle is a good example of a generous person. Really I admire him. He is my role model in my life.",
+        "clonedNewAudio": "/audio/fish/spk-184447-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -492,6 +724,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-188641-qwen-original.wav",
         "clonedOriginalText": "No, I prefer physical stores because I don't like shopping online because the clothes online are not nice and not interesting online.",
         "clonedNewAudio": "/audio/qwen/spk-188641-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188641-fish-original.wav",
+        "clonedOriginalText": "No, I prefer physical stores because I don't like shopping online because the clothes online are not nice and not interesting online.",
+        "clonedNewAudio": "/audio/fish/spk-188641-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -509,6 +749,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "He knowns to have one of the most amazing omelets, so I would like to know how to make this kind of omelet.",
         "clonedNewAudio": "/audio/qwen/spk-186197-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-186197-fish-original.wav",
+        "clonedOriginalText": "He knowns to have one of the most amazing omelets, so I would like to know how to make this kind of omelet.",
+        "clonedNewAudio": "/audio/fish/spk-186197-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -524,6 +772,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-183655-qwen-original.wav",
         "clonedOriginalText": "Well, actually we dance and we eating festivals and play some music, spend time, like we talk with each other and know each other well.",
         "clonedNewAudio": "/audio/qwen/spk-183655-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-183655-fish-original.wav",
+        "clonedOriginalText": "Well, actually we dance and we eating festivals and play some music, spend time, like we talk with each other and know each other well.",
+        "clonedNewAudio": "/audio/fish/spk-183655-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -541,6 +797,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "In fact, I didn't until now research about it, but maybe the capital city of China will be my first direction to China when I visit it.",
         "clonedNewAudio": "/audio/qwen/spk-99867-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-99867-fish-original.wav",
+        "clonedOriginalText": "In fact, I didn't until now research about it, but maybe the capital city of China will be my first direction to China when I visit it.",
+        "clonedNewAudio": "/audio/fish/spk-99867-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -556,6 +820,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-156387-qwen-original.wav",
         "clonedOriginalText": "Yeah, I see. Inside my room, I see everything. I see a peach, I see plants, I see people, children.",
         "clonedNewAudio": "/audio/qwen/spk-156387-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-156387-fish-original.wav",
+        "clonedOriginalText": "Yeah, I see. Inside my room, I see everything. I see a peach, I see plants, I see people, children.",
+        "clonedNewAudio": "/audio/fish/spk-156387-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -573,6 +845,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "If the weather is hot, people prefer to do their activities indoor with an air conditioner. But if the weather is cold, people would prefer doing activities outside.",
         "clonedNewAudio": "/audio/qwen/spk-187491-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187491-fish-original.wav",
+        "clonedOriginalText": "If the weather is hot, people prefer to do their activities indoor with an air conditioner. But if the weather is cold, people would prefer doing activities outside.",
+        "clonedNewAudio": "/audio/fish/spk-187491-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -588,6 +868,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-119223-qwen-original.wav",
         "clonedOriginalText": "The most enjoyable part about walking in the evening is listening to podcasts and walking. It's really a relaxing and exciting time.",
         "clonedNewAudio": "/audio/qwen/spk-119223-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-119223-fish-original.wav",
+        "clonedOriginalText": "The most enjoyable part about walking in the evening is listening to podcasts and walking. It's really a relaxing and exciting time.",
+        "clonedNewAudio": "/audio/fish/spk-119223-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -605,6 +893,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "There are so much food in Qatar like kabsa and thareed and marqooq, so much food.",
         "clonedNewAudio": "/audio/qwen/spk-186345-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-186345-fish-original.wav",
+        "clonedOriginalText": "There are so much food in Qatar like kabsa and thareed and marqooq, so much food.",
+        "clonedNewAudio": "/audio/fish/spk-186345-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -620,6 +916,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-183909-qwen-original.wav",
         "clonedOriginalText": "My favorite season for taking nature photos is spring because the mountain covered with the grass and the flower is grow and opening.",
         "clonedNewAudio": "/audio/qwen/spk-183909-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-183909-fish-original.wav",
+        "clonedOriginalText": "My favorite season for taking nature photos is spring because the mountain covered with the grass and the flower is grow and opening.",
+        "clonedNewAudio": "/audio/fish/spk-183909-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -637,6 +941,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Yes, it has changed. There is a lot of schools, and malls, and a lot of new restaurants, of course.",
         "clonedNewAudio": "/audio/qwen/spk-187971-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187971-fish-original.wav",
+        "clonedOriginalText": "Yes, it has changed. There is a lot of schools, and malls, and a lot of new restaurants, of course.",
+        "clonedNewAudio": "/audio/fish/spk-187971-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -652,6 +964,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-186963-qwen-original.wav",
         "clonedOriginalText": "I prefer to work in the office and handing the files from this employers I check who attend or was absent and provide punishment for employers who did not work well.",
         "clonedNewAudio": "/audio/qwen/spk-186963-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-186963-fish-original.wav",
+        "clonedOriginalText": "I prefer to work in the office and handing the files from this employers I check who attend or was absent and provide punishment for employers who did not work well.",
+        "clonedNewAudio": "/audio/fish/spk-186963-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -669,6 +989,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "It is not respectful to ask your colleagues to open the camera because maybe there is a policy you need to protect.",
         "clonedNewAudio": "/audio/qwen/spk-175103-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-175103-fish-original.wav",
+        "clonedOriginalText": "It is not respectful to ask your colleagues to open the camera because maybe there is a policy you need to protect.",
+        "clonedNewAudio": "/audio/fish/spk-175103-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -684,6 +1012,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-148717-qwen-original.wav",
         "clonedOriginalText": "Most of the time I use my smartphone to watch a video on the YouTube or sometime chatting with my friend.",
         "clonedNewAudio": "/audio/qwen/spk-148717-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-148717-fish-original.wav",
+        "clonedOriginalText": "Most of the time I use my smartphone to watch a video on the YouTube or sometime chatting with my friend.",
+        "clonedNewAudio": "/audio/fish/spk-148717-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -701,6 +1037,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "First, I like to drink lemon juice with fish dish. I like to eat with family because my mother make a better fish dish.",
         "clonedNewAudio": "/audio/qwen/spk-91363-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-91363-fish-original.wav",
+        "clonedOriginalText": "First, I like to drink lemon juice with fish dish. I like to eat with family because my mother make a better fish dish.",
+        "clonedNewAudio": "/audio/fish/spk-91363-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -716,6 +1060,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-179749-qwen-original.wav",
         "clonedOriginalText": "Yes, every morning or every day I walk 10,000 steps and two times every week I go to gym.",
         "clonedNewAudio": "/audio/qwen/spk-179749-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-179749-fish-original.wav",
+        "clonedOriginalText": "Yes, every morning or every day I walk 10,000 steps and two times every week I go to gym.",
+        "clonedNewAudio": "/audio/fish/spk-179749-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -733,6 +1085,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Yes, I hold my chopstick like a pencil and rest the other between my thumb and ring finger. Then move only the top chopstick to pick up food.",
         "clonedNewAudio": "/audio/qwen/spk-163911-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-163911-fish-original.wav",
+        "clonedOriginalText": "Yes, I hold my chopstick like a pencil and rest the other between my thumb and ring finger. Then move only the top chopstick to pick up food.",
+        "clonedNewAudio": "/audio/fish/spk-163911-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -748,6 +1108,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-84329-qwen-original.wav",
         "clonedOriginalText": "Oh no. In fact, we talk about the people there and discussing about what we're going to order. Yeah, and sometimes we talk about daily life.",
         "clonedNewAudio": "/audio/qwen/spk-84329-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-84329-fish-original.wav",
+        "clonedOriginalText": "Oh no. In fact, we talk about the people there and discussing about what we're going to order. Yeah, and sometimes we talk about daily life.",
+        "clonedNewAudio": "/audio/fish/spk-84329-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -765,6 +1133,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "There are a lot of skills of course, but I'm thinking right now it be good speaking at the dialogue with other people.",
         "clonedNewAudio": "/audio/qwen/spk-43223-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-43223-fish-original.wav",
+        "clonedOriginalText": "There are a lot of skills of course, but I'm thinking right now it be good speaking at the dialogue with other people.",
+        "clonedNewAudio": "/audio/fish/spk-43223-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -780,6 +1156,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-182073-qwen-original.wav",
         "clonedOriginalText": "I think what makes the holiday fun for me is the companion with me and the place or the hotel we\u2019re staying.",
         "clonedNewAudio": "/audio/qwen/spk-182073-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-182073-fish-original.wav",
+        "clonedOriginalText": "I think what makes the holiday fun for me is the companion with me and the place or the hotel we\u2019re staying.",
+        "clonedNewAudio": "/audio/fish/spk-182073-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -797,6 +1181,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Well, how do you know my level around B1 or B2? How do you know me around B1, B2?",
         "clonedNewAudio": "/audio/qwen/spk-36727-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-36727-fish-original.wav",
+        "clonedOriginalText": "Well, how do you know my level around B1 or B2? How do you know me around B1, B2?",
+        "clonedNewAudio": "/audio/fish/spk-36727-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -812,6 +1204,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-34567-qwen-original.wav",
         "clonedOriginalText": "I'm not really enjoying to go to the big malls and local market, but the online shopping it's not my thing.",
         "clonedNewAudio": "/audio/qwen/spk-34567-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-34567-fish-original.wav",
+        "clonedOriginalText": "I'm not really enjoying to go to the big malls and local market, but the online shopping it's not my thing.",
+        "clonedNewAudio": "/audio/fish/spk-34567-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -829,6 +1229,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "All I know is that it's a drama, but I don't want to read or know anything before I read the play",
         "clonedNewAudio": "/audio/qwen/spk-187875-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187875-fish-original.wav",
+        "clonedOriginalText": "All I know is that it's a drama, but I don't want to read or know anything before I read the play",
+        "clonedNewAudio": "/audio/fish/spk-187875-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -837,7 +1245,16 @@ export const speakers: Speaker[] = [
     "name": "User 184659",
     "originalText": "Yes, I think this is a background of preparing this section. I mean, we are not needing to do another thing besides this.",
     "originalAudio": "/audio/original/user_184659_29t_0ceff86a.webm",
-    "models": []
+    "models": [
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-184659-fish-original.wav",
+        "clonedOriginalText": "Yes, I think this is a background of preparing this section. I mean, we are not needing to do another thing besides this.",
+        "clonedNewAudio": "/audio/fish/spk-184659-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
   },
   {
     "id": "spk-3705",
@@ -851,6 +1268,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-3705-qwen-original.wav",
         "clonedOriginalText": "Honestly, I think conversation can change a person's life in many ways. For example, meaningful conversation might provide new perspectives or advice.",
         "clonedNewAudio": "/audio/qwen/spk-3705-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.wav",
+        "clonedOriginalText": "Honestly, I think conversation can change a person's life in many ways. For example, meaningful conversation might provide new perspectives or advice.",
+        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -868,6 +1293,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Yeah, I like fries as a side, and salad also if I will eat meat. And yeah, everyone loves some side dish because it's free and yeah.",
         "clonedNewAudio": "/audio/qwen/spk-185203-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185203-fish-original.wav",
+        "clonedOriginalText": "Yeah, I like fries as a side, and salad also if I will eat meat. And yeah, everyone loves some side dish because it's free and yeah.",
+        "clonedNewAudio": "/audio/fish/spk-185203-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -883,6 +1316,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-167729-qwen-original.wav",
         "clonedOriginalText": "The teacher has to be creative not only explain the traditional way. The teacher must be using good tools to explain and remember to memorize.",
         "clonedNewAudio": "/audio/qwen/spk-167729-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-167729-fish-original.wav",
+        "clonedOriginalText": "The teacher has to be creative not only explain the traditional way. The teacher must be using good tools to explain and remember to memorize.",
+        "clonedNewAudio": "/audio/fish/spk-167729-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -900,6 +1341,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "If you want to check for your health, you have to do a test and receive the medical report from the clinic.",
         "clonedNewAudio": "/audio/qwen/spk-145253-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-145253-fish-original.wav",
+        "clonedOriginalText": "If you want to check for your health, you have to do a test and receive the medical report from the clinic.",
+        "clonedNewAudio": "/audio/fish/spk-145253-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -908,7 +1357,16 @@ export const speakers: Speaker[] = [
     "name": "User 153409",
     "originalText": "What is success and how do you define it? Use this word, mean different things at achieving my goals, financial outcome.",
     "originalAudio": "/audio/original/user_153409_27t_a950f619.webm",
-    "models": []
+    "models": [
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-153409-fish-original.wav",
+        "clonedOriginalText": "What is success and how do you define it? Use this word, mean different things at achieving my goals, financial outcome.",
+        "clonedNewAudio": "/audio/fish/spk-153409-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
   },
   {
     "id": "spk-151403",
@@ -922,6 +1380,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-151403-qwen-original.wav",
         "clonedOriginalText": "When I want to change my habits and enjoy my time, I need to change my place and the people I'm with.",
         "clonedNewAudio": "/audio/qwen/spk-151403-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-151403-fish-original.wav",
+        "clonedOriginalText": "When I want to change my habits and enjoy my time, I need to change my place and the people I'm with.",
+        "clonedNewAudio": "/audio/fish/spk-151403-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -939,6 +1405,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Actually, I think it depends on the person. For me, I started studying again after I finished university study for about ten years.",
         "clonedNewAudio": "/audio/qwen/spk-164631-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-164631-fish-original.wav",
+        "clonedOriginalText": "Actually, I think it depends on the person. For me, I started studying again after I finished university study for about ten years.",
+        "clonedNewAudio": "/audio/fish/spk-164631-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -954,6 +1428,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-109173-qwen-original.wav",
         "clonedOriginalText": "Sometime I usually reservation from app, but when the app have different price I prefer call the hotel and make my reservation.",
         "clonedNewAudio": "/audio/qwen/spk-109173-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-109173-fish-original.wav",
+        "clonedOriginalText": "Sometime I usually reservation from app, but when the app have different price I prefer call the hotel and make my reservation.",
+        "clonedNewAudio": "/audio/fish/spk-109173-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -971,6 +1453,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Some actors are paid extremely high salary because the popularity and influence that can attract a large number of audience that help the films to earn a lot of money.",
         "clonedNewAudio": "/audio/qwen/spk-128331-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-128331-fish-original.wav",
+        "clonedOriginalText": "Some actors are paid extremely high salary because the popularity and influence that can attract a large number of audience that help the films to earn a lot of money.",
+        "clonedNewAudio": "/audio/fish/spk-128331-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -986,6 +1476,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-144167-qwen-original.wav",
         "clonedOriginalText": "I would choose Burj Khalifa because it's the tallest building in the world, also because it has the best view of Dubai.",
         "clonedNewAudio": "/audio/qwen/spk-144167-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-144167-fish-original.wav",
+        "clonedOriginalText": "I would choose Burj Khalifa because it's the tallest building in the world, also because it has the best view of Dubai.",
+        "clonedNewAudio": "/audio/fish/spk-144167-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1003,6 +1501,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I want to improve my language learning especially English and Chinese because it is very old languages and very very spread ubiquitous and you know it is very reliable in the future.",
         "clonedNewAudio": "/audio/qwen/spk-188747-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188747-fish-original.wav",
+        "clonedOriginalText": "I want to improve my language learning especially English and Chinese because it is very old languages and very very spread ubiquitous and you know it is very reliable in the future.",
+        "clonedNewAudio": "/audio/fish/spk-188747-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1018,6 +1524,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-182389-qwen-original.wav",
         "clonedOriginalText": "My favorite dish to cook I think chicken with indomie, I love cook because that easy ingredient and that recipe is so easy also.",
         "clonedNewAudio": "/audio/qwen/spk-182389-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-182389-fish-original.wav",
+        "clonedOriginalText": "My favorite dish to cook I think chicken with indomie, I love cook because that easy ingredient and that recipe is so easy also.",
+        "clonedNewAudio": "/audio/fish/spk-182389-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1035,6 +1549,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Any country I will go to Japan because I love Japan. I watching a lot of anime so I know a little bit of this country so I want to visit.",
         "clonedNewAudio": "/audio/qwen/spk-181575-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-181575-fish-original.wav",
+        "clonedOriginalText": "Any country I will go to Japan because I love Japan. I watching a lot of anime so I know a little bit of this country so I want to visit.",
+        "clonedNewAudio": "/audio/fish/spk-181575-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1050,6 +1572,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-187855-qwen-original.wav",
         "clonedOriginalText": "And I prefer to drink cold coffee on a hot day. And I make it as V60 way, if you know it.",
         "clonedNewAudio": "/audio/qwen/spk-187855-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187855-fish-original.wav",
+        "clonedOriginalText": "And I prefer to drink cold coffee on a hot day. And I make it as V60 way, if you know it.",
+        "clonedNewAudio": "/audio/fish/spk-187855-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1067,6 +1597,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Yes, I have stood in a long queue to enter a museum, and I felt a little upset and tired.",
         "clonedNewAudio": "/audio/qwen/spk-175125-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-175125-fish-original.wav",
+        "clonedOriginalText": "Yes, I have stood in a long queue to enter a museum, and I felt a little upset and tired.",
+        "clonedNewAudio": "/audio/fish/spk-175125-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1082,6 +1620,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-37003-qwen-original.wav",
         "clonedOriginalText": "I had been thinking about finishing my homework and chores. After I checked these things, I decided to go outside with my friends.",
         "clonedNewAudio": "/audio/qwen/spk-37003-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-37003-fish-original.wav",
+        "clonedOriginalText": "I had been thinking about finishing my homework and chores. After I checked these things, I decided to go outside with my friends.",
+        "clonedNewAudio": "/audio/fish/spk-37003-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1099,6 +1645,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "In my opinion, important qualities for a good athlete are waking up early to exercise, going to a park or forest, and eating healthy food.",
         "clonedNewAudio": "/audio/qwen/spk-186887-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-186887-fish-original.wav",
+        "clonedOriginalText": "In my opinion, important qualities for a good athlete are waking up early to exercise, going to a park or forest, and eating healthy food.",
+        "clonedNewAudio": "/audio/fish/spk-186887-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1114,6 +1668,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-162345-qwen-original.wav",
         "clonedOriginalText": "Actually I like to be fitness, and with some of exercise I like it or I enjoyed it like CrossFit and horse riding.",
         "clonedNewAudio": "/audio/qwen/spk-162345-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-162345-fish-original.wav",
+        "clonedOriginalText": "Actually I like to be fitness, and with some of exercise I like it or I enjoyed it like CrossFit and horse riding.",
+        "clonedNewAudio": "/audio/fish/spk-162345-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1131,6 +1693,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I think when your group works together should be allowed to explain your opinion, how to do this work perfectly and so on.",
         "clonedNewAudio": "/audio/qwen/spk-168395-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-168395-fish-original.wav",
+        "clonedOriginalText": "I think when your group works together should be allowed to explain your opinion, how to do this work perfectly and so on.",
+        "clonedNewAudio": "/audio/fish/spk-168395-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1146,6 +1716,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-168975-qwen-original.wav",
         "clonedOriginalText": "I prefer spending my leisure time with myself, watching anime and eating something such as burger or chocolate, or maybe sometimes drinking soda.",
         "clonedNewAudio": "/audio/qwen/spk-168975-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-168975-fish-original.wav",
+        "clonedOriginalText": "I prefer spending my leisure time with myself, watching anime and eating something such as burger or chocolate, or maybe sometimes drinking soda.",
+        "clonedNewAudio": "/audio/fish/spk-168975-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1163,6 +1741,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Surely, I have bought an ancient handy gadget. I don't know what it's called, but it's like a pod.",
         "clonedNewAudio": "/audio/qwen/spk-139811-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-139811-fish-original.wav",
+        "clonedOriginalText": "Surely, I have bought an ancient handy gadget. I don't know what it's called, but it's like a pod.",
+        "clonedNewAudio": "/audio/fish/spk-139811-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1178,6 +1764,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-24911-qwen-original.wav",
         "clonedOriginalText": "I've planned a small barbecue with my family and my friends and maybe swimming. I had a great weekend because I went to a gym.",
         "clonedNewAudio": "/audio/qwen/spk-24911-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-24911-fish-original.wav",
+        "clonedOriginalText": "I've planned a small barbecue with my family and my friends and maybe swimming. I had a great weekend because I went to a gym.",
+        "clonedNewAudio": "/audio/fish/spk-24911-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1195,6 +1789,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I prefer sport with the cardio at the gym. Like, I like to walk for half an hour or one hour and ride a bicycle.",
         "clonedNewAudio": "/audio/qwen/spk-185037-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185037-fish-original.wav",
+        "clonedOriginalText": "I prefer sport with the cardio at the gym. Like, I like to walk for half an hour or one hour and ride a bicycle.",
+        "clonedNewAudio": "/audio/fish/spk-185037-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1210,6 +1812,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-148381-qwen-original.wav",
         "clonedOriginalText": "Yes, of course. I made a curry from Indian food. It's a soup with meat and some spice like turmeric and pepper.",
         "clonedNewAudio": "/audio/qwen/spk-148381-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-148381-fish-original.wav",
+        "clonedOriginalText": "Yes, of course. I made a curry from Indian food. It's a soup with meat and some spice like turmeric and pepper.",
+        "clonedNewAudio": "/audio/fish/spk-148381-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1227,6 +1837,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Yes, of course, you should talk with any person like your mother because your mother tries to understand your feelings.",
         "clonedNewAudio": "/audio/qwen/spk-92377-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-92377-fish-original.wav",
+        "clonedOriginalText": "Yes, of course, you should talk with any person like your mother because your mother tries to understand your feelings.",
+        "clonedNewAudio": "/audio/fish/spk-92377-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1242,6 +1860,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-167305-qwen-original.wav",
         "clonedOriginalText": "It's near to the cafe and I like to walk in the park after I buy coffee and sit a little minute and take some air.",
         "clonedNewAudio": "/audio/qwen/spk-167305-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-167305-fish-original.wav",
+        "clonedOriginalText": "It's near to the cafe and I like to walk in the park after I buy coffee and sit a little minute and take some air.",
+        "clonedNewAudio": "/audio/fish/spk-167305-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1259,6 +1885,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "No, the Kabsa for bread because all of the people of Saudi Arabia eat the Kabsa with rice, not bread.",
         "clonedNewAudio": "/audio/qwen/spk-139099-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-139099-fish-original.wav",
+        "clonedOriginalText": "No, the Kabsa for bread because all of the people of Saudi Arabia eat the Kabsa with rice, not bread.",
+        "clonedNewAudio": "/audio/fish/spk-139099-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1274,6 +1908,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-159039-qwen-original.wav",
         "clonedOriginalText": "When I was in high school, I took a chemistry test. My answers were awful because the test was hard and stressful.",
         "clonedNewAudio": "/audio/qwen/spk-159039-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-159039-fish-original.wav",
+        "clonedOriginalText": "When I was in high school, I took a chemistry test. My answers were awful because the test was hard and stressful.",
+        "clonedNewAudio": "/audio/fish/spk-159039-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1291,6 +1933,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I don't know, but maybe the friend who shows up when you feel lonely and feel sad and is trying to cheer you up, that's a high-quality of friend.",
         "clonedNewAudio": "/audio/qwen/spk-184353-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-184353-fish-original.wav",
+        "clonedOriginalText": "I don't know, but maybe the friend who shows up when you feel lonely and feel sad and is trying to cheer you up, that's a high-quality of friend.",
+        "clonedNewAudio": "/audio/fish/spk-184353-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1306,6 +1956,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-165947-qwen-original.wav",
         "clonedOriginalText": "First you said \"I walk on the path.\" The second sentence is \"The ground is soft.\" And the third sentence is \"I live in the district.\"",
         "clonedNewAudio": "/audio/qwen/spk-165947-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-165947-fish-original.wav",
+        "clonedOriginalText": "First you said \"I walk on the path.\" The second sentence is \"The ground is soft.\" And the third sentence is \"I live in the district.\"",
+        "clonedNewAudio": "/audio/fish/spk-165947-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1323,6 +1981,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Actually, in the place where I live there are a lot of salons around us, so no need to wait too much to make an appointment, just walk in.",
         "clonedNewAudio": "/audio/qwen/spk-173363-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-173363-fish-original.wav",
+        "clonedOriginalText": "Actually, in the place where I live there are a lot of salons around us, so no need to wait too much to make an appointment, just walk in.",
+        "clonedNewAudio": "/audio/fish/spk-173363-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1338,6 +2004,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-61251-qwen-original.wav",
         "clonedOriginalText": "There's no drawing and that I study English too, I can have a job and I can travel to study art.",
         "clonedNewAudio": "/audio/qwen/spk-61251-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-61251-fish-original.wav",
+        "clonedOriginalText": "There's no drawing and that I study English too, I can have a job and I can travel to study art.",
+        "clonedNewAudio": "/audio/fish/spk-61251-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1355,6 +2029,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I'm really enjoy in a nature place because I like to go hiking also we like to doing some exercise in the forests.",
         "clonedNewAudio": "/audio/qwen/spk-182321-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-182321-fish-original.wav",
+        "clonedOriginalText": "I'm really enjoy in a nature place because I like to go hiking also we like to doing some exercise in the forests.",
+        "clonedNewAudio": "/audio/fish/spk-182321-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1370,6 +2052,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-187475-qwen-original.wav",
         "clonedOriginalText": "I live in a small town and I think the best thing about it is being a small town so that you can go anywhere in 10 minutes.",
         "clonedNewAudio": "/audio/qwen/spk-187475-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187475-fish-original.wav",
+        "clonedOriginalText": "I live in a small town and I think the best thing about it is being a small town so that you can go anywhere in 10 minutes.",
+        "clonedNewAudio": "/audio/fish/spk-187475-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1387,6 +2077,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Fish is the healthy food I like the most because it's good for the body. I try to eat it regularly.",
         "clonedNewAudio": "/audio/qwen/spk-130459-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-130459-fish-original.wav",
+        "clonedOriginalText": "Fish is the healthy food I like the most because it's good for the body. I try to eat it regularly.",
+        "clonedNewAudio": "/audio/fish/spk-130459-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1402,6 +2100,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-142731-qwen-original.wav",
         "clonedOriginalText": "I usually prepare for public speaking while studying the topic perfectly and from all perspectives so I can be ready to have a conversation with other people to speak well and useful.",
         "clonedNewAudio": "/audio/qwen/spk-142731-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-142731-fish-original.wav",
+        "clonedOriginalText": "I usually prepare for public speaking while studying the topic perfectly and from all perspectives so I can be ready to have a conversation with other people to speak well and useful.",
+        "clonedNewAudio": "/audio/fish/spk-142731-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1419,6 +2125,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Normally, after this routine, I feel relaxed. I take a light meal before going to bed and prepare for another day.",
         "clonedNewAudio": "/audio/qwen/spk-181317-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.wav",
+        "clonedOriginalText": "Normally, after this routine, I feel relaxed. I take a light meal before going to bed and prepare for another day.",
+        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1434,6 +2148,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-123207-qwen-original.wav",
         "clonedOriginalText": "No, actually most of her songs are slow ballads. She sang her song, sorry, most of them about love.",
         "clonedNewAudio": "/audio/qwen/spk-123207-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-123207-fish-original.wav",
+        "clonedOriginalText": "No, actually most of her songs are slow ballads. She sang her song, sorry, most of them about love.",
+        "clonedNewAudio": "/audio/fish/spk-123207-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1451,6 +2173,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Of course, I'm from a different generation than my children, as well as my parents are from a different generation than me.",
         "clonedNewAudio": "/audio/qwen/spk-151197-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-151197-fish-original.wav",
+        "clonedOriginalText": "Of course, I'm from a different generation than my children, as well as my parents are from a different generation than me.",
+        "clonedNewAudio": "/audio/fish/spk-151197-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1466,6 +2196,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-158995-qwen-original.wav",
         "clonedOriginalText": "My age is 29, so I'm still working for my achievements, a lot of achievements actually, something in my work, something in my health.",
         "clonedNewAudio": "/audio/qwen/spk-158995-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-158995-fish-original.wav",
+        "clonedOriginalText": "My age is 29, so I'm still working for my achievements, a lot of achievements actually, something in my work, something in my health.",
+        "clonedNewAudio": "/audio/fish/spk-158995-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1483,6 +2221,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Opportunities like programs helps you to speak with native, I think it's helpful because it builds your confidence and helps you to get used to natural conversation.",
         "clonedNewAudio": "/audio/qwen/spk-32947-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-32947-fish-original.wav",
+        "clonedOriginalText": "Opportunities like programs helps you to speak with native, I think it's helpful because it builds your confidence and helps you to get used to natural conversation.",
+        "clonedNewAudio": "/audio/fish/spk-32947-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1498,6 +2244,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-166863-qwen-original.wav",
         "clonedOriginalText": "Yes, I helped a lot of friends who were going through hardships, but some of them, they didn't deserve what I did for them.",
         "clonedNewAudio": "/audio/qwen/spk-166863-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-166863-fish-original.wav",
+        "clonedOriginalText": "Yes, I helped a lot of friends who were going through hardships, but some of them, they didn't deserve what I did for them.",
+        "clonedNewAudio": "/audio/fish/spk-166863-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1515,6 +2269,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Honestly none, but what I always do is throwing the waste in the trash bin. Many people throw it on the streets and parks",
         "clonedNewAudio": "/audio/qwen/spk-152199-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-152199-fish-original.wav",
+        "clonedOriginalText": "Honestly none, but what I always do is throwing the waste in the trash bin. Many people throw it on the streets and parks",
+        "clonedNewAudio": "/audio/fish/spk-152199-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1530,6 +2292,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-75941-qwen-original.wav",
         "clonedOriginalText": "Hello Shakespeare, how are you? How's it going? Everything is good? I'm good, thanks. How about you?",
         "clonedNewAudio": "/audio/qwen/spk-75941-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-75941-fish-original.wav",
+        "clonedOriginalText": "Hello Shakespeare, how are you? How's it going? Everything is good? I'm good, thanks. How about you?",
+        "clonedNewAudio": "/audio/fish/spk-75941-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1547,6 +2317,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Some people say the English is easy and some people say the English is not easy. Actually the English is not easy. It takes many time.",
         "clonedNewAudio": "/audio/qwen/spk-169787-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-169787-fish-original.wav",
+        "clonedOriginalText": "Some people say the English is easy and some people say the English is not easy. Actually the English is not easy. It takes many time.",
+        "clonedNewAudio": "/audio/fish/spk-169787-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1562,6 +2340,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-162591-qwen-original.wav",
         "clonedOriginalText": "It gives me more energy and I can tell you about the strength. I think that the more practice strength do me more flexibility to make any practice in the gym.",
         "clonedNewAudio": "/audio/qwen/spk-162591-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-162591-fish-original.wav",
+        "clonedOriginalText": "It gives me more energy and I can tell you about the strength. I think that the more practice strength do me more flexibility to make any practice in the gym.",
+        "clonedNewAudio": "/audio/fish/spk-162591-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1579,6 +2365,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "The oldest daughter is 25 years old. You ask me about my project. It's a normal project to everybody. I need a good style life and good health.",
         "clonedNewAudio": "/audio/qwen/spk-188185-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188185-fish-original.wav",
+        "clonedOriginalText": "The oldest daughter is 25 years old. You ask me about my project. It's a normal project to everybody. I need a good style life and good health.",
+        "clonedNewAudio": "/audio/fish/spk-188185-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1594,6 +2388,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-188547-qwen-original.wav",
         "clonedOriginalText": "My age 25 years old. My job I work to a company. My education is accounting, and my work is accounting.",
         "clonedNewAudio": "/audio/qwen/spk-188547-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188547-fish-original.wav",
+        "clonedOriginalText": "My age 25 years old. My job I work to a company. My education is accounting, and my work is accounting.",
+        "clonedNewAudio": "/audio/fish/spk-188547-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1611,6 +2413,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Sleep well, eating healthy. Do exercise every day and make your brain active and do some exercise and take a break and meditate or imagine.",
         "clonedNewAudio": "/audio/qwen/spk-72573-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-72573-fish-original.wav",
+        "clonedOriginalText": "Sleep well, eating healthy. Do exercise every day and make your brain active and do some exercise and take a break and meditate or imagine.",
+        "clonedNewAudio": "/audio/fish/spk-72573-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1626,6 +2436,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-145073-qwen-original.wav",
         "clonedOriginalText": "When I want to say something to anyone politely, I could use \"could you please?\" This phrase is very or the most useful.",
         "clonedNewAudio": "/audio/qwen/spk-145073-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-145073-fish-original.wav",
+        "clonedOriginalText": "When I want to say something to anyone politely, I could use \"could you please?\" This phrase is very or the most useful.",
+        "clonedNewAudio": "/audio/fish/spk-145073-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1643,6 +2461,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "My favorite thing is going to the gym and lifting weights. One of my hobbies is wanting to buy a new car.",
         "clonedNewAudio": "/audio/qwen/spk-188011-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188011-fish-original.wav",
+        "clonedOriginalText": "My favorite thing is going to the gym and lifting weights. One of my hobbies is wanting to buy a new car.",
+        "clonedNewAudio": "/audio/fish/spk-188011-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1658,6 +2484,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-170769-qwen-original.wav",
         "clonedOriginalText": "Yes, eight years ago, I visited Spain and there were many historic sites such as Granada, C\u00f3rdoba, Sevilla, and Madrid.",
         "clonedNewAudio": "/audio/qwen/spk-170769-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-170769-fish-original.wav",
+        "clonedOriginalText": "Yes, eight years ago, I visited Spain and there were many historic sites such as Granada, C\u00f3rdoba, Sevilla, and Madrid.",
+        "clonedNewAudio": "/audio/fish/spk-170769-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1675,6 +2509,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "I can give advice about improving family relationships: Speak to them every day and spend as much as possible you can.",
         "clonedNewAudio": "/audio/qwen/spk-173789-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-173789-fish-original.wav",
+        "clonedOriginalText": "I can give advice about improving family relationships: Speak to them every day and spend as much as possible you can.",
+        "clonedNewAudio": "/audio/fish/spk-173789-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1690,6 +2532,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-188109-qwen-original.wav",
         "clonedOriginalText": "That question very interesting. Let me think, to begin with, I remember when I am born in my city Saudi Arabia, specifically my city",
         "clonedNewAudio": "/audio/qwen/spk-188109-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188109-fish-original.wav",
+        "clonedOriginalText": "That question very interesting. Let me think, to begin with, I remember when I am born in my city Saudi Arabia, specifically my city",
+        "clonedNewAudio": "/audio/fish/spk-188109-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1707,6 +2557,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "My favorite activity during the National Day is fireworks and dancing and eat the old food or talk with my grandfather and grandmother.",
         "clonedNewAudio": "/audio/qwen/spk-144817-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-144817-fish-original.wav",
+        "clonedOriginalText": "My favorite activity during the National Day is fireworks and dancing and eat the old food or talk with my grandfather and grandmother.",
+        "clonedNewAudio": "/audio/fish/spk-144817-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1722,6 +2580,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-144847-qwen-original.wav",
         "clonedOriginalText": "The most thing I like it I have time with my family, we can talk with each other, sharing our ideas and enjoy our time and also relaxing.",
         "clonedNewAudio": "/audio/qwen/spk-144847-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-144847-fish-original.wav",
+        "clonedOriginalText": "The most thing I like it I have time with my family, we can talk with each other, sharing our ideas and enjoy our time and also relaxing.",
+        "clonedNewAudio": "/audio/fish/spk-144847-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1739,6 +2605,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Or if any member of my family gets very sick, I can delay everything and drive them to the nearest hospital or clinic to get medicine and a checkup.",
         "clonedNewAudio": "/audio/qwen/spk-175673-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-175673-fish-original.wav",
+        "clonedOriginalText": "Or if any member of my family gets very sick, I can delay everything and drive them to the nearest hospital or clinic to get medicine and a checkup.",
+        "clonedNewAudio": "/audio/fish/spk-175673-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1754,6 +2628,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-175111-qwen-original.wav",
         "clonedOriginalText": "Yeah I like outdoors so I can feel the atmosphere around me and get fresh air. And usually I'm doing cycling that time.",
         "clonedNewAudio": "/audio/qwen/spk-175111-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-175111-fish-original.wav",
+        "clonedOriginalText": "Yeah I like outdoors so I can feel the atmosphere around me and get fresh air. And usually I'm doing cycling that time.",
+        "clonedNewAudio": "/audio/fish/spk-175111-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1771,6 +2653,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "No, most of them prefer to go quite slowly, like a valley. Near the mountain, there is a valley, and people like to stay there.",
         "clonedNewAudio": "/audio/qwen/spk-181359-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-181359-fish-original.wav",
+        "clonedOriginalText": "No, most of them prefer to go quite slowly, like a valley. Near the mountain, there is a valley, and people like to stay there.",
+        "clonedNewAudio": "/audio/fish/spk-181359-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1786,6 +2676,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-84133-qwen-original.wav",
         "clonedOriginalText": "The first reason is the people you know, your family, your memories. Sometimes you adapt to living in this city.",
         "clonedNewAudio": "/audio/qwen/spk-84133-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-84133-fish-original.wav",
+        "clonedOriginalText": "The first reason is the people you know, your family, your memories. Sometimes you adapt to living in this city.",
+        "clonedNewAudio": "/audio/fish/spk-84133-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1803,6 +2701,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "When it's easy to understand, I better to watch them without subtitles, but when it's hard to understand, I prefer to watch it with subtitles.",
         "clonedNewAudio": "/audio/qwen/spk-182817-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-182817-fish-original.wav",
+        "clonedOriginalText": "When it's easy to understand, I better to watch them without subtitles, but when it's hard to understand, I prefer to watch it with subtitles.",
+        "clonedNewAudio": "/audio/fish/spk-182817-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1818,6 +2724,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-185091-qwen-original.wav",
         "clonedOriginalText": "When I have free time, usually I like to go have run or walk or sometimes have a ride in my car.",
         "clonedNewAudio": "/audio/qwen/spk-185091-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185091-fish-original.wav",
+        "clonedOriginalText": "When I have free time, usually I like to go have run or walk or sometimes have a ride in my car.",
+        "clonedNewAudio": "/audio/fish/spk-185091-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1835,6 +2749,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "Helping a lot. When you will be confident, you will know how to speaking with... don't be afraid or something, and you will know how to...",
         "clonedNewAudio": "/audio/qwen/spk-145729-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-145729-fish-original.wav",
+        "clonedOriginalText": "Helping a lot. When you will be confident, you will know how to speaking with... don't be afraid or something, and you will know how to...",
+        "clonedNewAudio": "/audio/fish/spk-145729-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1850,6 +2772,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-132925-qwen-original.wav",
         "clonedOriginalText": "I told you I want from you every single question, just the feedback, the all feedback, and the next question in one message.",
         "clonedNewAudio": "/audio/qwen/spk-132925-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-132925-fish-original.wav",
+        "clonedOriginalText": "I told you I want from you every single question, just the feedback, the all feedback, and the next question in one message.",
+        "clonedNewAudio": "/audio/fish/spk-132925-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1867,6 +2797,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "In the weekend I prefer to sleep more, and I go out time with my friends, and sometimes I go to a restaurant with my family.",
         "clonedNewAudio": "/audio/qwen/spk-155889-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-155889-fish-original.wav",
+        "clonedOriginalText": "In the weekend I prefer to sleep more, and I go out time with my friends, and sometimes I go to a restaurant with my family.",
+        "clonedNewAudio": "/audio/fish/spk-155889-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1882,6 +2820,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-171281-qwen-original.wav",
         "clonedOriginalText": "I recommended to watch the Plan Date show because it's many programs and you can watch every time and love him and love with people.",
         "clonedNewAudio": "/audio/qwen/spk-171281-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-171281-fish-original.wav",
+        "clonedOriginalText": "I recommended to watch the Plan Date show because it's many programs and you can watch every time and love him and love with people.",
+        "clonedNewAudio": "/audio/fish/spk-171281-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1899,6 +2845,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalText": "It's a strong certificate that contain every skills that I needed and there's some exams to ensure that I am ready to carriers and so on.",
         "clonedNewAudio": "/audio/qwen/spk-187593-qwen-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187593-fish-original.wav",
+        "clonedOriginalText": "It's a strong certificate that contain every skills that I needed and there's some exams to ensure that I am ready to carriers and so on.",
+        "clonedNewAudio": "/audio/fish/spk-187593-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
   },
@@ -1914,6 +2868,14 @@ export const speakers: Speaker[] = [
         "clonedOriginalAudio": "/audio/qwen/spk-23589-qwen-original.wav",
         "clonedOriginalText": "Oh, I think the weather affect and change our mood. If the weather is sunny and very hot and change to cloudy and rain, I feel happy.",
         "clonedNewAudio": "/audio/qwen/spk-23589-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-23589-fish-original.wav",
+        "clonedOriginalText": "Oh, I think the weather affect and change our mood. If the weather is sunny and very hot and change to cloudy and rain, I feel happy.",
+        "clonedNewAudio": "/audio/fish/spk-23589-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
