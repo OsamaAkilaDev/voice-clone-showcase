@@ -966,9 +966,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.mp3",
+        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.wav",
         "clonedOriginalText": "We decided to form a group at the beginning of the semester just to keep track and achieve better scores. I tend to avoid studying with anyone during my final exams.",
-        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.mp3",
+        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -981,7 +981,7 @@ export const speakers: Speaker[] = [
       },
       {
         "modelId": "eleven-flash",
-        "modelName": "elevenlabs flash",
+        "modelName": "eleven (flash)",
         "clonedOriginalAudio": "/audio/eleven_flash/spk-132723-eleven-original.mp3",
         "clonedOriginalText": "We decided to form a group at the beginning of the semester just to keep track and achieve better scores. I tend to avoid studying with anyone during my final exams.",
         "clonedNewAudio": "/audio/eleven_flash/spk-132723-eleven-new.mp3",
@@ -2575,9 +2575,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.mp3",
+        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.wav",
         "clonedOriginalText": "Honestly, I think conversation can change a person's life in many ways. For example, meaningful conversation might provide new perspectives or advice.",
-        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.mp3",
+        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2590,7 +2590,7 @@ export const speakers: Speaker[] = [
       },
       {
         "modelId": "eleven-flash",
-        "modelName": "elevenlabs flash",
+        "modelName": "eleven (flash)",
         "clonedOriginalAudio": "/audio/eleven_flash/spk-3705-eleven-original.mp3",
         "clonedOriginalText": "Honestly, I think conversation can change a person's life in many ways. For example, meaningful conversation might provide new perspectives or advice.",
         "clonedNewAudio": "/audio/eleven_flash/spk-3705-eleven-new.mp3",
@@ -4331,9 +4331,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.mp3",
+        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.wav",
         "clonedOriginalText": "Normally, after this routine, I feel relaxed. I take a light meal before going to bed and prepare for another day.",
-        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.mp3",
+        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.wav",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4346,7 +4346,7 @@ export const speakers: Speaker[] = [
       },
       {
         "modelId": "eleven-flash",
-        "modelName": "elevenlabs flash",
+        "modelName": "eleven (flash)",
         "clonedOriginalAudio": "/audio/eleven_flash/spk-181317-eleven-original.mp3",
         "clonedOriginalText": "Normally, after this routine, I feel relaxed. I take a light meal before going to bed and prepare for another day.",
         "clonedNewAudio": "/audio/eleven_flash/spk-181317-eleven-new.mp3",
@@ -5880,5 +5880,1460 @@ export const speakers: Speaker[] = [
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
+  },
+  {
+    "id": "spk-153293",
+    "name": "User 153293",
+    "originalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
+    "originalAudio": "/audio/original/user_153293_65t_d4ca3af8.webm",
+    "duration": 44.58,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-153293-qwen-original.wav",
+        "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
+        "clonedNewAudio": "/audio/qwen/spk-153293-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-153293-fish-original.wav",
+        "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
+        "clonedNewAudio": "/audio/fish/spk-153293-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-153293-eleven-original.mp3",
+        "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-153293-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-153293-eleven-original.mp3",
+        "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
+        "clonedNewAudio": "/audio/eleven/spk-153293-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-153293-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
+        "clonedNewAudio": "/audio/resemble/spk-153293-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-185885",
+    "name": "User 185885",
+    "originalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
+    "originalAudio": "/audio/original/user_185885_72t_333e845a.webm",
+    "duration": 53.21,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-185885-qwen-original.wav",
+        "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
+        "clonedNewAudio": "/audio/qwen/spk-185885-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185885-fish-original.wav",
+        "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
+        "clonedNewAudio": "/audio/fish/spk-185885-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-185885-eleven-original.mp3",
+        "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-185885-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-185885-eleven-original.mp3",
+        "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
+        "clonedNewAudio": "/audio/eleven/spk-185885-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-185885-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
+        "clonedNewAudio": "/audio/resemble/spk-185885-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-173685",
+    "name": "User 173685",
+    "originalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
+    "originalAudio": "/audio/original/user_173685_59t_49f8e87d.webm",
+    "duration": 39.05,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-173685-qwen-original.wav",
+        "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
+        "clonedNewAudio": "/audio/qwen/spk-173685-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-173685-fish-original.wav",
+        "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
+        "clonedNewAudio": "/audio/fish/spk-173685-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-173685-eleven-original.mp3",
+        "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-173685-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-173685-eleven-original.mp3",
+        "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
+        "clonedNewAudio": "/audio/eleven/spk-173685-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-173685-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
+        "clonedNewAudio": "/audio/resemble/spk-173685-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-112547",
+    "name": "User 112547",
+    "originalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
+    "originalAudio": "/audio/original/user_112547_51t_8dd98ae1.webm",
+    "duration": 26.5,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-112547-qwen-original.wav",
+        "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
+        "clonedNewAudio": "/audio/qwen/spk-112547-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-112547-fish-original.wav",
+        "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
+        "clonedNewAudio": "/audio/fish/spk-112547-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-112547-eleven-original.mp3",
+        "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-112547-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-112547-eleven-original.mp3",
+        "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
+        "clonedNewAudio": "/audio/eleven/spk-112547-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-112547-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
+        "clonedNewAudio": "/audio/resemble/spk-112547-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-158899",
+    "name": "User 158899",
+    "originalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
+    "originalAudio": "/audio/original/user_158899_50t_dbb0f96c.webm",
+    "duration": 24.94,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-158899-qwen-original.wav",
+        "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
+        "clonedNewAudio": "/audio/qwen/spk-158899-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-158899-fish-original.wav",
+        "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
+        "clonedNewAudio": "/audio/fish/spk-158899-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-158899-eleven-original.mp3",
+        "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-158899-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-158899-eleven-original.mp3",
+        "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
+        "clonedNewAudio": "/audio/eleven/spk-158899-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-158899-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
+        "clonedNewAudio": "/audio/resemble/spk-158899-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-34505",
+    "name": "User 34505",
+    "originalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
+    "originalAudio": "/audio/original/user_34505_64t_66319db7.m4a",
+    "duration": 26.168889,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-34505-qwen-original.wav",
+        "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
+        "clonedNewAudio": "/audio/qwen/spk-34505-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-34505-fish-original.wav",
+        "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
+        "clonedNewAudio": "/audio/fish/spk-34505-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-34505-eleven-original.mp3",
+        "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-34505-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-34505-eleven-original.mp3",
+        "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
+        "clonedNewAudio": "/audio/eleven/spk-34505-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-34505-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
+        "clonedNewAudio": "/audio/resemble/spk-34505-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-188127",
+    "name": "User 188127",
+    "originalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
+    "originalAudio": "/audio/original/user_188127_65t_0e4fe432.webm",
+    "duration": 28.73,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-188127-qwen-original.wav",
+        "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
+        "clonedNewAudio": "/audio/qwen/spk-188127-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188127-fish-original.wav",
+        "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
+        "clonedNewAudio": "/audio/fish/spk-188127-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-188127-eleven-original.mp3",
+        "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-188127-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-188127-eleven-original.mp3",
+        "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
+        "clonedNewAudio": "/audio/eleven/spk-188127-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-188127-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
+        "clonedNewAudio": "/audio/resemble/spk-188127-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-182175",
+    "name": "User 182175",
+    "originalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
+    "originalAudio": "/audio/original/user_182175_61t_fb28d95a.webm",
+    "duration": 38.09,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-182175-qwen-original.wav",
+        "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
+        "clonedNewAudio": "/audio/qwen/spk-182175-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-182175-fish-original.wav",
+        "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
+        "clonedNewAudio": "/audio/fish/spk-182175-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-182175-eleven-original.mp3",
+        "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-182175-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-182175-eleven-original.mp3",
+        "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
+        "clonedNewAudio": "/audio/eleven/spk-182175-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-182175-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
+        "clonedNewAudio": "/audio/resemble/spk-182175-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-18511",
+    "name": "User 18511",
+    "originalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
+    "originalAudio": "/audio/original/user_18511_78t_9836ab20.m4a",
+    "duration": 37.589333,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-18511-qwen-original.wav",
+        "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
+        "clonedNewAudio": "/audio/qwen/spk-18511-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-18511-fish-original.wav",
+        "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
+        "clonedNewAudio": "/audio/fish/spk-18511-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-18511-eleven-original.mp3",
+        "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-18511-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-18511-eleven-original.mp3",
+        "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
+        "clonedNewAudio": "/audio/eleven/spk-18511-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-18511-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
+        "clonedNewAudio": "/audio/resemble/spk-18511-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-66259",
+    "name": "User 66259",
+    "originalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
+    "originalAudio": "/audio/original/user_66259_78t_d7fc9288.webm",
+    "duration": 53.7,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-66259-qwen-original.wav",
+        "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
+        "clonedNewAudio": "/audio/qwen/spk-66259-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-66259-fish-original.wav",
+        "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
+        "clonedNewAudio": "/audio/fish/spk-66259-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-66259-eleven-original.mp3",
+        "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-66259-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-66259-eleven-original.mp3",
+        "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
+        "clonedNewAudio": "/audio/eleven/spk-66259-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-66259-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
+        "clonedNewAudio": "/audio/resemble/spk-66259-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-185603",
+    "name": "User 185603",
+    "originalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
+    "originalAudio": "/audio/original/user_185603_68t_a1c498c3.webm",
+    "duration": 30.65,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-185603-qwen-original.wav",
+        "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
+        "clonedNewAudio": "/audio/qwen/spk-185603-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-185603-fish-original.wav",
+        "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
+        "clonedNewAudio": "/audio/fish/spk-185603-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-185603-eleven-original.mp3",
+        "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-185603-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-185603-eleven-original.mp3",
+        "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
+        "clonedNewAudio": "/audio/eleven/spk-185603-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-185603-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
+        "clonedNewAudio": "/audio/resemble/spk-185603-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-187901",
+    "name": "User 187901",
+    "originalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
+    "originalAudio": "/audio/original/user_187901_50t_88eceed5.webm",
+    "duration": 23.75,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-187901-qwen-original.wav",
+        "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
+        "clonedNewAudio": "/audio/qwen/spk-187901-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-187901-fish-original.wav",
+        "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
+        "clonedNewAudio": "/audio/fish/spk-187901-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-187901-eleven-original.mp3",
+        "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-187901-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-187901-eleven-original.mp3",
+        "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
+        "clonedNewAudio": "/audio/eleven/spk-187901-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-187901-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
+        "clonedNewAudio": "/audio/resemble/spk-187901-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-180719",
+    "name": "User 180719",
+    "originalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
+    "originalAudio": "/audio/original/user_180719_53t_01d30b99.webm",
+    "duration": 30.13,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-180719-qwen-original.wav",
+        "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
+        "clonedNewAudio": "/audio/qwen/spk-180719-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-180719-fish-original.wav",
+        "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
+        "clonedNewAudio": "/audio/fish/spk-180719-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-180719-eleven-original.mp3",
+        "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-180719-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-180719-eleven-original.mp3",
+        "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
+        "clonedNewAudio": "/audio/eleven/spk-180719-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-180719-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
+        "clonedNewAudio": "/audio/resemble/spk-180719-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-3705",
+    "name": "User 3705",
+    "originalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
+    "originalAudio": "/audio/original/user_3705_59t_f38dc819.webm",
+    "duration": 31.85,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-3705-qwen-original.wav",
+        "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
+        "clonedNewAudio": "/audio/qwen/spk-3705-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.wav",
+        "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
+        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-3705-eleven-original.mp3",
+        "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-3705-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-3705-eleven-original.mp3",
+        "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
+        "clonedNewAudio": "/audio/eleven/spk-3705-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-3705-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
+        "clonedNewAudio": "/audio/resemble/spk-3705-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-153953",
+    "name": "User 153953",
+    "originalText": "Well, I don't think government will continue funding these projects because they cost an arm and a leg. So it's better to spend the money on projects that can help the city or the country. Anyway, besides, you are not sure about these projects is working because space is really mysterious and it is really risk to spend this money on projects that you are not sure.",
+    "originalAudio": "/audio/original/user_153953_75t_6c9b1097.webm",
+    "duration": 60.94,
+    "models": [
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-153953-fish-original.wav",
+        "clonedOriginalText": "Well, I don't think government will continue funding these projects because they cost an arm and a leg. So it's better to spend the money on projects that can help the city or the country. Anyway, besides, you are not sure about these projects is working because space is really mysterious and it is really risk to spend this money on projects that you are not sure.",
+        "clonedNewAudio": "/audio/fish/spk-153953-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-153953-eleven-original.mp3",
+        "clonedOriginalText": "Well, I don't think government will continue funding these projects because they cost an arm and a leg. So it's better to spend the money on projects that can help the city or the country. Anyway, besides, you are not sure about these projects is working because space is really mysterious and it is really risk to spend this money on projects that you are not sure.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-153953-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-153953-eleven-original.mp3",
+        "clonedOriginalText": "Well, I don't think government will continue funding these projects because they cost an arm and a leg. So it's better to spend the money on projects that can help the city or the country. Anyway, besides, you are not sure about these projects is working because space is really mysterious and it is really risk to spend this money on projects that you are not sure.",
+        "clonedNewAudio": "/audio/eleven/spk-153953-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-153953-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Well, I don't think government will continue funding these projects because they cost an arm and a leg. So it's better to spend the money on projects that can help the city or the country. Anyway, besides, you are not sure about these projects is working because space is really mysterious and it is really risk to spend this money on projects that you are not sure.",
+        "clonedNewAudio": "/audio/resemble/spk-153953-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-151265",
+    "name": "User 151265",
+    "originalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
+    "originalAudio": "/audio/original/user_151265_57t_88906e49.webm",
+    "duration": 50.16,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-151265-qwen-original.wav",
+        "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
+        "clonedNewAudio": "/audio/qwen/spk-151265-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-151265-fish-original.wav",
+        "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
+        "clonedNewAudio": "/audio/fish/spk-151265-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-151265-eleven-original.mp3",
+        "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-151265-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-151265-eleven-original.mp3",
+        "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
+        "clonedNewAudio": "/audio/eleven/spk-151265-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-151265-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
+        "clonedNewAudio": "/audio/resemble/spk-151265-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-183715",
+    "name": "User 183715",
+    "originalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
+    "originalAudio": "/audio/original/user_183715_63t_caab2013.webm",
+    "duration": 22.25,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-183715-qwen-original.wav",
+        "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
+        "clonedNewAudio": "/audio/qwen/spk-183715-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-183715-fish-original.wav",
+        "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
+        "clonedNewAudio": "/audio/fish/spk-183715-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-183715-eleven-original.mp3",
+        "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-183715-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-183715-eleven-original.mp3",
+        "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
+        "clonedNewAudio": "/audio/eleven/spk-183715-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-183715-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
+        "clonedNewAudio": "/audio/resemble/spk-183715-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-169145",
+    "name": "User 169145",
+    "originalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
+    "originalAudio": "/audio/original/user_169145_69t_eadd37d7.webm",
+    "duration": 25.8,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-169145-qwen-original.wav",
+        "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
+        "clonedNewAudio": "/audio/qwen/spk-169145-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-169145-fish-original.wav",
+        "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
+        "clonedNewAudio": "/audio/fish/spk-169145-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-169145-eleven-original.mp3",
+        "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-169145-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-169145-eleven-original.mp3",
+        "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
+        "clonedNewAudio": "/audio/eleven/spk-169145-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-169145-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
+        "clonedNewAudio": "/audio/resemble/spk-169145-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-133787",
+    "name": "User 133787",
+    "originalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
+    "originalAudio": "/audio/original/user_133787_51t_dd4ca6c5.webm",
+    "duration": 50.29,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-133787-qwen-original.wav",
+        "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
+        "clonedNewAudio": "/audio/qwen/spk-133787-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-133787-fish-original.wav",
+        "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
+        "clonedNewAudio": "/audio/fish/spk-133787-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-133787-eleven-original.mp3",
+        "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-133787-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-133787-eleven-original.mp3",
+        "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
+        "clonedNewAudio": "/audio/eleven/spk-133787-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-133787-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
+        "clonedNewAudio": "/audio/resemble/spk-133787-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-131135",
+    "name": "User 131135",
+    "originalText": "I usually listen to podcasts and videos in English. Also, every day I try to learn with Shakespeare. Sometimes I speak with my friends and my family in English. I think this improves my skills in English and you strengthen my skills and will I can speak English well.",
+    "originalAudio": "/audio/original/user_131135_56t_6b7feeb4.webm",
+    "duration": 66.59,
+    "models": [
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-131135-fish-original.wav",
+        "clonedOriginalText": "I usually listen to podcasts and videos in English. Also, every day I try to learn with Shakespeare. Sometimes I speak with my friends and my family in English. I think this improves my skills in English and you strengthen my skills and will I can speak English well.",
+        "clonedNewAudio": "/audio/fish/spk-131135-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-131135-eleven-original.mp3",
+        "clonedOriginalText": "I usually listen to podcasts and videos in English. Also, every day I try to learn with Shakespeare. Sometimes I speak with my friends and my family in English. I think this improves my skills in English and you strengthen my skills and will I can speak English well.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-131135-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-131135-eleven-original.mp3",
+        "clonedOriginalText": "I usually listen to podcasts and videos in English. Also, every day I try to learn with Shakespeare. Sometimes I speak with my friends and my family in English. I think this improves my skills in English and you strengthen my skills and will I can speak English well.",
+        "clonedNewAudio": "/audio/eleven/spk-131135-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-131135-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I usually listen to podcasts and videos in English. Also, every day I try to learn with Shakespeare. Sometimes I speak with my friends and my family in English. I think this improves my skills in English and you strengthen my skills and will I can speak English well.",
+        "clonedNewAudio": "/audio/resemble/spk-131135-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-186439",
+    "name": "User 186439",
+    "originalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
+    "originalAudio": "/audio/original/user_186439_55t_26c2340a.webm",
+    "duration": 50.34,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-186439-qwen-original.wav",
+        "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
+        "clonedNewAudio": "/audio/qwen/spk-186439-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-186439-fish-original.wav",
+        "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
+        "clonedNewAudio": "/audio/fish/spk-186439-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-186439-eleven-original.mp3",
+        "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-186439-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-186439-eleven-original.mp3",
+        "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
+        "clonedNewAudio": "/audio/eleven/spk-186439-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-186439-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
+        "clonedNewAudio": "/audio/resemble/spk-186439-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-132723",
+    "name": "User 132723",
+    "originalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
+    "originalAudio": "/audio/original/user_132723_67t_7717c228.m4a",
+    "duration": 47.402667,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-132723-qwen-original.wav",
+        "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
+        "clonedNewAudio": "/audio/qwen/spk-132723-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.wav",
+        "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
+        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-132723-eleven-original.mp3",
+        "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-132723-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-132723-eleven-original.mp3",
+        "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
+        "clonedNewAudio": "/audio/eleven/spk-132723-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-132723-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
+        "clonedNewAudio": "/audio/resemble/spk-132723-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-9241",
+    "name": "User 9241",
+    "originalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
+    "originalAudio": "/audio/original/user_9241_50t_9361bc79.webm",
+    "duration": 25.31,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-9241-qwen-original.wav",
+        "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
+        "clonedNewAudio": "/audio/qwen/spk-9241-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-9241-fish-original.wav",
+        "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
+        "clonedNewAudio": "/audio/fish/spk-9241-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-9241-eleven-original.mp3",
+        "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-9241-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-9241-eleven-original.mp3",
+        "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
+        "clonedNewAudio": "/audio/eleven/spk-9241-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-9241-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
+        "clonedNewAudio": "/audio/resemble/spk-9241-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-7377",
+    "name": "User 7377",
+    "originalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
+    "originalAudio": "/audio/original/user_7377_59t_2fd4ba05.webm",
+    "duration": 24.47,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-7377-qwen-original.wav",
+        "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
+        "clonedNewAudio": "/audio/qwen/spk-7377-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-7377-fish-original.wav",
+        "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
+        "clonedNewAudio": "/audio/fish/spk-7377-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-7377-eleven-original.mp3",
+        "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-7377-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-7377-eleven-original.mp3",
+        "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
+        "clonedNewAudio": "/audio/eleven/spk-7377-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-7377-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
+        "clonedNewAudio": "/audio/resemble/spk-7377-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-164353",
+    "name": "User 164353",
+    "originalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
+    "originalAudio": "/audio/original/user_164353_55t_4d8516b9.webm",
+    "duration": 21.18,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-164353-qwen-original.wav",
+        "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
+        "clonedNewAudio": "/audio/qwen/spk-164353-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-164353-fish-original.wav",
+        "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
+        "clonedNewAudio": "/audio/fish/spk-164353-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-164353-eleven-original.mp3",
+        "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
+        "clonedNewAudio": "/audio/eleven_flash/spk-164353-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-164353-eleven-original.mp3",
+        "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
+        "clonedNewAudio": "/audio/eleven/spk-164353-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-164353-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
+        "clonedNewAudio": "/audio/resemble/spk-164353-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-181317",
+    "name": "User 181317",
+    "originalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
+    "originalAudio": "/audio/original/user_181317_72t_34dd38fd.webm",
+    "duration": 55.01,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-181317-qwen-original.wav",
+        "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
+        "clonedNewAudio": "/audio/qwen/spk-181317-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.wav",
+        "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
+        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-181317-eleven-original.mp3",
+        "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
+        "clonedNewAudio": "/audio/eleven_flash/spk-181317-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-181317-eleven-original.mp3",
+        "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
+        "clonedNewAudio": "/audio/eleven/spk-181317-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-181317-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
+        "clonedNewAudio": "/audio/resemble/spk-181317-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-180387",
+    "name": "User 180387",
+    "originalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
+    "originalAudio": "/audio/original/user_180387_63t_fc20e511.webm",
+    "duration": 51.83,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-180387-qwen-original.wav",
+        "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
+        "clonedNewAudio": "/audio/qwen/spk-180387-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-180387-fish-original.wav",
+        "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
+        "clonedNewAudio": "/audio/fish/spk-180387-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-180387-eleven-original.mp3",
+        "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-180387-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-180387-eleven-original.mp3",
+        "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
+        "clonedNewAudio": "/audio/eleven/spk-180387-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-180387-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
+        "clonedNewAudio": "/audio/resemble/spk-180387-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-182875",
+    "name": "User 182875",
+    "originalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
+    "originalAudio": "/audio/original/user_182875_75t_1983adb0.webm",
+    "duration": 23.15,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-182875-qwen-original.wav",
+        "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
+        "clonedNewAudio": "/audio/qwen/spk-182875-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-182875-fish-original.wav",
+        "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
+        "clonedNewAudio": "/audio/fish/spk-182875-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-182875-eleven-original.mp3",
+        "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-182875-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-182875-eleven-original.mp3",
+        "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
+        "clonedNewAudio": "/audio/eleven/spk-182875-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-182875-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
+        "clonedNewAudio": "/audio/resemble/spk-182875-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-188827",
+    "name": "User 188827",
+    "originalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
+    "originalAudio": "/audio/original/user_188827_62t_fae28762.m4a",
+    "duration": 41.984,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-188827-qwen-original.wav",
+        "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
+        "clonedNewAudio": "/audio/qwen/spk-188827-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-188827-fish-original.wav",
+        "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
+        "clonedNewAudio": "/audio/fish/spk-188827-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-188827-eleven-original.mp3",
+        "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-188827-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-188827-eleven-original.mp3",
+        "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
+        "clonedNewAudio": "/audio/eleven/spk-188827-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-188827-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
+        "clonedNewAudio": "/audio/resemble/spk-188827-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
+  },
+  {
+    "id": "spk-169275",
+    "name": "User 169275",
+    "originalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
+    "originalAudio": "/audio/original/user_169275_71t_2027d099.webm",
+    "duration": 33.76,
+    "models": [
+      {
+        "modelId": "qwen",
+        "modelName": "Qwen3 Engine",
+        "clonedOriginalAudio": "/audio/qwen/spk-169275-qwen-original.wav",
+        "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
+        "clonedNewAudio": "/audio/qwen/spk-169275-qwen-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "fish",
+        "modelName": "Fish Audio",
+        "clonedOriginalAudio": "/audio/fish/spk-169275-fish-original.wav",
+        "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
+        "clonedNewAudio": "/audio/fish/spk-169275-fish-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven-flash",
+        "modelName": "eleven (flash)",
+        "clonedOriginalAudio": "/audio/eleven_flash/spk-169275-eleven-original.mp3",
+        "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
+        "clonedNewAudio": "/audio/eleven_flash/spk-169275-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "eleven",
+        "modelName": "ElevenLabs",
+        "clonedOriginalAudio": "/audio/eleven/spk-169275-eleven-original.mp3",
+        "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
+        "clonedNewAudio": "/audio/eleven/spk-169275-eleven-new.mp3",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      },
+      {
+        "modelId": "resemble-chatterbox",
+        "modelName": "Resemble Chatterbox",
+        "clonedOriginalAudio": "/audio/resemble/spk-169275-resemble-chatterbox-original.wav",
+        "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
+        "clonedNewAudio": "/audio/resemble/spk-169275-resemble-chatterbox-new.wav",
+        "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
+      }
+    ]
   }
 ];
+
