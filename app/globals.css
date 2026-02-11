@@ -1,21 +1,32 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #ffffff; /* Pure white for maximum brightness */
+  --foreground: #022c22; /* High contrast emerald text */
+  --primary-gold: #fcc21b; /* Vibrant Sunflower Gold */
+  --accent-gold: #fbbf24; /* Radiant Amber */
+  --card-bg: #ffffff;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-gold-primary: var(--primary-gold);
+  --color-gold-accent: var(--accent-gold);
+  --color-card-bg: var(--card-bg);
+  --color-forest-dark: #064e3b; /* Brighter forest emerald */
+  --color-forest-light: #f0fdf4; /* Bright mint tint */
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #000000; /* Pure black for maximum pop */
+    --foreground: #f0fdfa;
+    --primary-gold: #fbbf24; /* Radiant Amber in dark mode */
+    --accent-gold: #fde68a; /* Soft luminous gold */
+    --card-bg: #022c22; /* Deep but clear emerald card */
   }
 }
 
@@ -23,4 +34,38 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+@keyframes blob {
+  0% { transform: translate(0px, 0px) scale(1); }
+  33% { transform: translate(30px, -50px) scale(1.1); }
+  66% { transform: translate(-20px, 20px) scale(0.9); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+.animate-blob {
+  animation: blob 7s infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.6s ease-out forwards;
 }

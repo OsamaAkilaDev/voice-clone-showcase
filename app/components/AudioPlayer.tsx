@@ -6,7 +6,7 @@ interface AudioPlayerProps {
 
 const AudioPlayer: React.FC<AudioPlayerProps> = ({ src }) => {
   return (
-    <div className="w-full min-w-[200px] mt-4">
+    <div className="w-full mt-2">
       <audio
         controls
         className="w-full h-8 block"
