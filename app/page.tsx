@@ -1,33 +1,50 @@
+"use client";
+
+import React, { useEffect, useState } from "react";
 import Hero from "./components/Hero";
 import FeatureCard from "./components/FeatureCard";
 
 export default function Home() {
+  const [votes, setVotes] = useState<Record<string, number>>({});
+
+  useEffect(() => {
+    fetch("/api/votes")
+      .then((res) => res.json())
+      .then((data) => setVotes(data))
+      .catch((err) => console.error("Error fetching votes:", err));
+  }, []);
+
   const models = [
     {
+      id: "qwen",
       title: "Qwen",
       description: "Advanced multilingual voice cloning optimized for natural prosody and emotional depth across various languages.",
       icon: "/logos/Qwen_logo.png",
       color: "bg-gradient-to-br from-indigo-500 via-indigo-600 to-blue-700 shadow-indigo-500/40"
     },
     {
+      id: "fish",
       title: "Fish Audio",
       description: "High-performance TTS with exceptional clarity and low latency, perfect for real-time applications and expressive clones.",
       icon: "/logos/fish-audio-logo.png",
       color: "bg-gradient-to-br from-rose-500 via-rose-600 to-pink-700 shadow-rose-500/40"
     },
     {
+      id: "eleven-normal",
       title: "ElevenLabs (v2.5)",
       description: "The gold standard in realism. Our normal model delivers unparalleled human-like quality with subtle vocal nuances.",
       icon: "/logos/eleven-labs-logo.png",
       color: "bg-gradient-to-br from-amber-400 via-amber-500 to-orange-600 shadow-amber-500/40"
     },
     {
+      id: "eleven-flash",
       title: "ElevenLabs (Flash)",
       description: "Speed meets quality. Optimized for instant responses without sacrificing the signature ElevenLabs authenticity.",
       icon: "/logos/eleven-labs-logo.png",
       color: "bg-gradient-to-br from-cyan-400 via-cyan-500 to-blue-600 shadow-cyan-500/40"
     },
     {
+      id: "resemble",
       title: "Resemble.ai",
       description: "Chatterbox technology specialized for consistent voice identity and dynamic range across diverse speech patterns.",
       icon: "/logos/resembleai_logo.jpeg",
@@ -40,18 +57,21 @@ export default function Home() {
       <main className="max-w-6xl mx-auto px-6 pb-20">
         <Hero />
         
-        <section className="mt-16">
+        <section id="models" className="mt-16">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-5xl font-black mb-4 text-foreground tracking-tighter">AI Models</h2>
+            <h2 className="text-3xl md:text-5xl font-black mb-4 text-foreground tracking-tighter">AI Models Votes</h2>
             <p className="text-foreground/80 text-lg max-w-xl mx-auto font-medium leading-relaxed">
-              We've benchmarked the industry's leading TTS cloners.<br/>Explore how each model interprets the same voice fingerprint
+              We've benchmarked the industry's leading TTS cloners.<br/>Please Vote for the best model after cloning your own voice.
             </p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {models.map((model, index) => (
               <div key={index} className="animate-fade-in-up" style={{ animationDelay: `${index * 100}ms` }}>
-                <FeatureCard {...model} />
+                <FeatureCard 
+                  {...model} 
+                  voteCount={votes[model.id]}
+                />
               </div>
             ))}
           </div>
@@ -75,10 +95,6 @@ export default function Home() {
           </div>
         </section>
       </main>
-      
-      {/* <footer className="py-16 mt-32 text-center text-foreground/50 font-black border-t border-foreground/5 bg-white/30 dark:bg-transparent backdrop-blur-sm">
-        <p className="text-lg">&copy; {new Date().getFullYear()} Voice Clone Showcase. Elite Synthetic Speech.</p>
-      </footer> */}
     </div>
   );
 }

@@ -135,8 +135,8 @@ const RecordingTable: React.FC = () => {
                     </button>
                   </div>
                 </th>
-                {allModelIds.map((modelId) => (
-                  <th key={modelId} scope="col" className="px-4 py-3 bg-emerald-950">
+                {allModelIds.map((modelId, colIndex) => (
+                  <th key={modelId} scope="col" className={`px-4 py-3 ${colIndex % 2 === 0 ? 'bg-emerald-950' : 'bg-emerald-900'}`}>
                     <div className="flex items-center justify-between gap-1">
                       {!minimizedColumns[modelId] && <span className="truncate">{getModelName(modelId)}</span>}
                       <button 
@@ -177,11 +177,11 @@ const RecordingTable: React.FC = () => {
                       <div className="flex justify-center text-gray-300">...</div>
                     )}
                   </td>
-                  {allModelIds.map((modelId) => {
+                  {allModelIds.map((modelId, colIndex) => {
                     const modelData = speaker.models.find((m) => m.modelId === modelId);
                     const isMinimized = minimizedColumns[modelId];
                     return (
-                      <td key={modelId} className="px-4 py-4 align-top">
+                      <td key={modelId} className={`px-4 py-4 align-top ${colIndex % 2 === 0 ? 'bg-emerald-50/50 dark:bg-emerald-950/30' : 'bg-emerald-100/40 dark:bg-emerald-900/20'}`}>
                         {isMinimized ? (
                           <div className="flex justify-center text-gray-300 text-[10px]">...</div>
                         ) : modelData ? (
