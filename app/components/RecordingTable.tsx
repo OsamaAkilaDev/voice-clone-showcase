@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { speakers } from '../data/recordings';
 import AudioPlayer from './AudioPlayer';
 
-const ITEMS_PER_PAGE = 50;
+const ITEMS_PER_PAGE = 20;
 
 const RecordingTable: React.FC = () => {
   const [currentPage, setCurrentPage] = useState(1);
