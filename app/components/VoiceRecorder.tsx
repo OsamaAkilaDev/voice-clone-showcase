@@ -130,7 +130,7 @@ export default function VoiceRecorder({ onConfirm }: VoiceRecorderProps) {
     /* RIFF identifier */
     writeString(view, 0, 'RIFF');
     /* file length */
-    view.setUint32(4, 32 + samples.length * 2, true);
+    view.setUint32(4, 36 + samples.length * 2, true);
     /* RIFF type */
     writeString(view, 8, 'WAVE');
     /* format chunk identifier */
@@ -156,7 +156,7 @@ export default function VoiceRecorder({ onConfirm }: VoiceRecorderProps) {
 
     floatTo16BitPCM(view, 44, samples);
 
-    return new Blob([view], { type: 'audio/wav' });
+    return new Blob([view.buffer], { type: 'audio/wav' });
   }
 
   function floatTo16BitPCM(output: DataView, offset: number, input: Float32Array) {

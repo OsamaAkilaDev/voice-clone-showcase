@@ -15,12 +15,14 @@ const CLONE_SCRIPTS = [
 
 const OUTPUT_TEXT = "Welcome to the future of voice technology. This isn't just a recording; it's a seamless blend of clarity and character, designed to bring your words to life in under fifteen seconds.";
 
+const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:3001";
+
 const MODELS = [
-  { id: "qwen", name: "Qwen", endpoint: "/api/clone/qwen", icon: "/logos/Qwen_logo.png", gradient: "from-indigo-500 via-indigo-600 to-blue-700", shadow: "shadow-indigo-500/30" },
-  { id: "fish", name: "Fish Audio", endpoint: "/api/clone/fish", icon: "/logos/fish-audio-logo.png", gradient: "from-rose-500 via-rose-600 to-pink-700", shadow: "shadow-rose-500/30" },
-  { id: "eleven-normal", name: "ElevenLabs (v2.5)", endpoint: "/api/clone/eleven-normal", icon: "/logos/eleven-labs-logo.png", gradient: "from-amber-400 via-amber-500 to-orange-600", shadow: "shadow-amber-500/30" },
-  { id: "eleven-flash", name: "ElevenLabs (Flash)", endpoint: "/api/clone/eleven-flash", icon: "/logos/eleven-labs-logo.png", gradient: "from-cyan-400 via-cyan-500 to-blue-600", shadow: "shadow-cyan-500/30" },
-  { id: "resemble", name: "Resemble.ai", endpoint: "/api/clone/resemble", icon: "/logos/resembleai_logo.jpeg", gradient: "from-emerald-500 via-emerald-600 to-teal-700", shadow: "shadow-emerald-500/30" },
+  { id: "qwen", name: "Qwen", endpoint: `${BACKEND_URL}/api/clone/qwen`, icon: "/logos/Qwen_logo.png", gradient: "from-indigo-500 via-indigo-600 to-blue-700", shadow: "shadow-indigo-500/30" },
+  { id: "fish", name: "Fish Audio", endpoint: `${BACKEND_URL}/api/clone/fish`, icon: "/logos/fish-audio-logo.png", gradient: "from-rose-500 via-rose-600 to-pink-700", shadow: "shadow-rose-500/30" },
+  { id: "eleven-normal", name: "ElevenLabs (v2.5)", endpoint: `${BACKEND_URL}/api/clone/eleven-normal`, icon: "/logos/eleven-labs-logo.png", gradient: "from-amber-400 via-amber-500 to-orange-600", shadow: "shadow-amber-500/30" },
+  { id: "eleven-flash", name: "ElevenLabs (Flash)", endpoint: `${BACKEND_URL}/api/clone/eleven-flash`, icon: "/logos/eleven-labs-logo.png", gradient: "from-cyan-400 via-cyan-500 to-blue-600", shadow: "shadow-cyan-500/30" },
+  { id: "resemble", name: "Resemble.ai", endpoint: `${BACKEND_URL}/api/clone/resemble`, icon: "/logos/resembleai_logo.jpeg", gradient: "from-emerald-500 via-emerald-600 to-teal-700", shadow: "shadow-emerald-500/30" },
 ];
 
 /** Convert a webm/ogg audio blob to WAV using Web Audio API */
