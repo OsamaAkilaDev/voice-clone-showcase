@@ -5,3 +5,7 @@ pages_build_output_dir = ".vercel/output/static"
 [[kv_namespaces]]
 binding = "VOTES"
 id = "fba90fd25a414c029e22ddc876a2a79c"
+
+[assets]
+directory = ".cloudflare"
+binding = "ASSETS"
