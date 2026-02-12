@@ -5,8 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "preview": "npx @opennextjs/cloudflare",
-    "deploy": "npx @opennextjs/cloudflare && wrangler pages deploy .worker-next"
+    "start": "next start",
+    "lint": "eslint"
   },
   "dependencies": {
     "@msgpack/msgpack": "^3.1.3",
