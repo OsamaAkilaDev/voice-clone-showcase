@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getVotes, incrementVote } from '../../lib/db';
 
 export const dynamic = 'force-dynamic';
+export const runtime = 'edge';
 
 export async function GET() {
   try {

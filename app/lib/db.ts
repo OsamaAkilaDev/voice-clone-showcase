@@ -1,7 +1,4 @@
-import fs from 'fs';
-import path from 'path';
-
-const VOTES_FILE = path.join(process.cwd(), 'app/data/votes.json');
+import { getRequestContext } from '@cloudflare/next-on-pages';
 
 export type VoteCounts = {
   qwen: number;
@@ -21,27 +18,27 @@ const DEFAULT_VOTES: VoteCounts = {
 
 export async function getVotes(): Promise<VoteCounts> {
   try {
-    if (!fs.existsSync(VOTES_FILE)) {
-      return DEFAULT_VOTES;
-    }
-    const data = fs.readFileSync(VOTES_FILE, 'utf-8');
-    return JSON.parse(data);
+    const env = getRequestContext().env;
+    const votes = await env.VOTES.get('votes', 'json');
+    return (votes as VoteCounts) || DEFAULT_VOTES;
   } catch (error) {
-    console.error('Error reading votes:', error);
+    console.error('Error reading votes from KV:', error);
     return DEFAULT_VOTES;
   }
 }
 
 export async function incrementVote(modelId: string): Promise<VoteCounts> {
   try {
+    const env = getRequestContext().env;
     const votes = await getVotes();
+    
     if (modelId in votes) {
       votes[modelId as keyof VoteCounts] += 1;
-      fs.writeFileSync(VOTES_FILE, JSON.stringify(votes, null, 2));
+      await env.VOTES.put('votes', JSON.stringify(votes));
     }
     return votes;
   } catch (error) {
-    console.error('Error updating votes:', error);
+    console.error('Error updating votes in KV:', error);
     throw error;
   }
 }
