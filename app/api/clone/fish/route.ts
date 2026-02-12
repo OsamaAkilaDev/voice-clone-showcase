@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Buffer } from "buffer";
-import { toMonoWav } from "../../../lib/audioUtils";
 import { encode } from "@msgpack/msgpack";
 
 // ─── Fish Audio Voice Cloning Route ───
@@ -39,8 +38,8 @@ export async function POST(request: NextRequest) {
     // Fish Audio accepts a JSON body with base64 reference audio
     const rawAudioBuffer = Buffer.from(await audioFile.arrayBuffer());
     
-    // Ensure clean 16kHz WAV format (Mono, 16-bit)
-    const cleanWavBuffer = await toMonoWav(rawAudioBuffer); // defaults to 16000
+    // 42. WAV is already 16kHz Mono from frontend!
+    const cleanWavBuffer = rawAudioBuffer;
     
     // MsgPack supports binary data (Uint8Array/Buffer) natively.
     // Fish Audio expects raw bytes for efficiency when using MsgPack.

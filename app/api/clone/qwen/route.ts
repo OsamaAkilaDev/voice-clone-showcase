@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Buffer } from "buffer";
 import WebSocket, { RawData } from "ws"; 
-import { toMonoWav, ffmpegProcess } from "../../../lib/audioUtils";
+import { pcmToWav, applyVolumeGain } from "../../../lib/audioUtils";
 
 // ─── Qwen (DashScope) Voice Cloning Route ───
 const BASE_URL = "https://dashscope-intl.aliyuncs.com/api/v1";
@@ -29,9 +29,8 @@ export async function POST(request: NextRequest) {
     console.log(`🎤 Qwen: Starting Enrollment...`);
     const rawAudioBuffer = Buffer.from(await audioFile.arrayBuffer());
     
-    // 1. Convert to 16kHz Mono WAV (Strict Requirement for Enrollment)
-    const enrollmentWavBuffer = await toMonoWav(rawAudioBuffer, 16000);
-    const dataUri = `data:audio/wav;base64,${enrollmentWavBuffer.toString("base64")}`;
+    // 1. WAV is already 16kHz Mono from frontend!
+    const dataUri = `data:audio/wav;base64,${rawAudioBuffer.toString("base64")}`;
 
     // 2. Generate Alphanumeric Name (No hyphens allowed)
     const uniqueName = `qwen${Date.now().toString().slice(-10)}`; 
@@ -213,20 +212,14 @@ export async function POST(request: NextRequest) {
 
     console.log(`🔊 Processing ${rawPcmChunks.length} chunks...`);
 
-    // ─── PHASE 3: Output (FFmpeg) ───
+    // ─── PHASE 3: Output (Pure JS) ───
     const combinedPcm = Buffer.concat(rawPcmChunks);
     
-    // FFmpeg: Raw PCM (24k) -> WAV Container (24k)
-    // Filters: Speed 1.1x, Vol 4.5x
-    const wavBuffer = await ffmpegProcess(
-      combinedPcm,
-      ["-f", "s16le", "-ar", "24000", "-ac", "1"], 
-      [
-        "-af", "atempo=1.1,volume=4.5",
-        "-f", "wav",
-        "-acodec", "pcm_s16le"
-      ]
-    );
+    // Apply 4.5x volume gain in pure JS
+    const boostedPcm = applyVolumeGain(combinedPcm, 4.5);
+    
+    // Create WAV header in pure JS
+    const wavBuffer = pcmToWav(boostedPcm, 24000, 1, 16);
 
     return new NextResponse(new Uint8Array(wavBuffer), {
       status: 200,

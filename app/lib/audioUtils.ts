@@ -1,71 +1,8 @@
-import { spawn } from "child_process";
 import { Buffer } from "buffer";
 
 /**
- * Process audio buffer with FFmpeg
- * @param inputBuffer - Input audio buffer
- * @param inputArgs - FFmpeg arguments before input (e.g. format for raw data). Default []
- * @param outputArgs - FFmpeg arguments after input (e.g. filters, format). Default []
- * @returns Promise<Buffer> - Processed audio buffer
- */
-export async function ffmpegProcess(
-  inputBuffer: Buffer,
-  inputArgs: string[] = [],
-  outputArgs: string[] = []
-): Promise<Buffer> {
-  return new Promise((resolve, reject) => {
-    // Command: ffmpeg [inputArgs] -i pipe:0 [outputArgs] pipe:1
-    const args = [...inputArgs, "-i", "pipe:0", ...outputArgs, "pipe:1"];
-    console.log(`🎵 FFmpeg Process: Input ${inputBuffer.length} bytes. Args: ${args.join(" ")}`);
-    
-    const ffmpeg = spawn("ffmpeg", args);
-    const chunks: Buffer[] = [];
-
-    ffmpeg.stdout.on("data", (chunk) => chunks.push(chunk));
-    ffmpeg.stderr.on("data", (data) => {
-        // Uncomment to debug FFmpeg stderr
-        // console.log("ffmpeg stderr:", data.toString()); 
-    });
-
-    ffmpeg.on("close", (code) => {
-      if (code === 0) {
-        const result = Buffer.concat(chunks);
-        console.log(`✅ FFmpeg Success: Output ${result.length} bytes`);
-        resolve(result);
-      } else {
-        console.error(`❌ FFmpeg Failed with code ${code}`);
-        reject(new Error(`FFmpeg process exited with code ${code}`));
-      }
-    });
-
-    ffmpeg.stdin.on('error', (err) => {
-        if ((err as any).code !== 'EPIPE') console.error('ffmpeg stdin error:', err);
-    });
-
-    ffmpeg.stdin.write(inputBuffer);
-    ffmpeg.stdin.end();
-  });
-}
-
-/**
- * Convert any audio buffer to Mono 16-bit WAV at specified sample rate
- * Uses raw PCM intermediate to ensure valid WAV header structure
- * Default sampleRate: 16000 (standard), Qwen requires 24000
- */
-export async function toMonoWav(inputBuffer: Buffer, sampleRate: number = 16000): Promise<Buffer> {
-  const pcmBuffer = await ffmpegProcess(inputBuffer, [], [
-    "-ac", "1",
-    "-ar", sampleRate.toString(),
-    "-f", "s16le", // Output raw PCM
-    "-acodec", "pcm_s16le"
-  ]);
-  
-  return pcmToWav(pcmBuffer, sampleRate, 1, 16);
-}
-
-/** 
  * Convert raw PCM bytes to a valid WAV file buffer 
- * Ensures correct file size in header, which ffmpeg pipes often miss
+ * Ensures correct file size in header.
  */
 export function pcmToWav(
   pcm: Buffer,
@@ -93,4 +30,32 @@ export function pcmToWav(
   header.writeUInt32LE(dataSize, 40);
 
   return Buffer.concat([header, pcm]);
+}
+
+/**
+ * Apply volume gain to raw 16-bit PCM data in pure Javascript.
+ * @param pcm - Buffer containing 16-bit PCM data
+ * @param factor - Gain factor (e.g. 2.0 for double volume)
+ * @returns Buffer - PCM data with gain applied
+ */
+export function applyVolumeGain(pcm: Buffer, factor: number): Buffer {
+  const output = Buffer.alloc(pcm.length);
+  
+  for (let i = 0; i < pcm.length; i += 2) {
+    if (i + 1 >= pcm.length) break;
+    
+    // Read 16-bit signed integer
+    let sample = pcm.readInt16LE(i);
+    
+    // Apply gain
+    sample = Math.round(sample * factor);
+    
+    // Clamp to 16-bit range
+    sample = Math.max(-32768, Math.min(32767, sample));
+    
+    // Write back
+    output.writeInt16LE(sample, i);
+  }
+  
+  return output;
 }

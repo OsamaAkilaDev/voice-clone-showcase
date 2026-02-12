@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 import { Buffer } from "buffer";
-import { toMonoWav } from "../../../lib/audioUtils";
 
 // ─── Resemble.ai Chatterbox Voice Cloning Route ───
 // Flow: auto-find/create project → create rapid voice → upload recording → build → poll → generate clip → delete voice
@@ -137,9 +136,9 @@ export async function POST(request: NextRequest) {
     let audioData: Uint8Array | null = null;
 
     try {
-      // 2. Upload recording to the voice (Multipart Form Data per docs)
+      // 2. Audio is already 16kHz Mono WAV from frontend!
       const rawAudioBuffer = Buffer.from(await audioFile.arrayBuffer());
-      const cleanWavBuffer = await toMonoWav(rawAudioBuffer); // 16kHz default
+      const cleanWavBuffer = rawAudioBuffer;
       
       const uploadFormData = new FormData();
       uploadFormData.append("name", "browser_recording");
