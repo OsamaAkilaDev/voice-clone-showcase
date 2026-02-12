@@ -27,9 +27,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-133821-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-133821-qwen-original.mp3",
         "clonedOriginalText": "It's very tough. I didn't have time to read the whole passage. I read one passage in one hour and that is very difficult.",
-        "clonedNewAudio": "/audio/qwen/spk-133821-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-133821-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -59,9 +59,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-133821-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-133821-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "It's very tough. I didn't have time to read the whole passage. I read one passage in one hour and that is very difficult.",
-        "clonedNewAudio": "/audio/resemble/spk-133821-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-133821-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -76,9 +76,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-180823-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-180823-qwen-original.mp3",
         "clonedOriginalText": "Yes, I think I feel fun if I do it, this sport, but I feel lazy so I don't go.",
-        "clonedNewAudio": "/audio/qwen/spk-180823-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-180823-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -108,9 +108,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-180823-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-180823-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, I think I feel fun if I do it, this sport, but I feel lazy so I don't go.",
-        "clonedNewAudio": "/audio/resemble/spk-180823-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-180823-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -125,9 +125,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-185111-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185111-qwen-original.mp3",
         "clonedOriginalText": "No, we don't have dinner. We are playing a card game and we drink mojito, blue mojito.",
-        "clonedNewAudio": "/audio/qwen/spk-185111-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185111-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -157,9 +157,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185111-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185111-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "No, we don't have dinner. We are playing a card game and we drink mojito, blue mojito.",
-        "clonedNewAudio": "/audio/resemble/spk-185111-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185111-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -174,9 +174,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-102647-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-102647-qwen-original.mp3",
         "clonedOriginalText": "Usually I do with friends to go like resort or out of city to get more relax, no noisy and make barbecue or make food and watch TV or soccer.",
-        "clonedNewAudio": "/audio/qwen/spk-102647-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-102647-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -206,9 +206,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-102647-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-102647-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Usually I do with friends to go like resort or out of city to get more relax, no noisy and make barbecue or make food and watch TV or soccer.",
-        "clonedNewAudio": "/audio/resemble/spk-102647-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-102647-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -223,9 +223,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-139705-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-139705-qwen-original.mp3",
         "clonedOriginalText": "I always find information on the internet like apps and booking sites. Additionally, I read customer comments before booking a hotel.",
-        "clonedNewAudio": "/audio/qwen/spk-139705-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-139705-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -255,9 +255,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-139705-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-139705-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I always find information on the internet like apps and booking sites. Additionally, I read customer comments before booking a hotel.",
-        "clonedNewAudio": "/audio/resemble/spk-139705-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-139705-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -272,9 +272,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-40401-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-40401-qwen-original.mp3",
         "clonedOriginalText": "I take a shower then playing with my baby Faris and after Faris is sleeping I watch TV and make dinner. Then I'm sleeping at 11 pm.",
-        "clonedNewAudio": "/audio/qwen/spk-40401-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-40401-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -304,9 +304,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-40401-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-40401-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I take a shower then playing with my baby Faris and after Faris is sleeping I watch TV and make dinner. Then I'm sleeping at 11 pm.",
-        "clonedNewAudio": "/audio/resemble/spk-40401-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-40401-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -321,9 +321,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-167035-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-167035-qwen-original.mp3",
         "clonedOriginalText": "I like my job, but I don't like the position because the work is so hard and the salary is not well.",
-        "clonedNewAudio": "/audio/qwen/spk-167035-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-167035-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -353,9 +353,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-167035-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-167035-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I like my job, but I don't like the position because the work is so hard and the salary is not well.",
-        "clonedNewAudio": "/audio/resemble/spk-167035-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-167035-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -370,9 +370,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188505-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188505-qwen-original.mp3",
         "clonedOriginalText": "When the chief has a meeting with coworkers, he makes a funny story or a simple situation funny to break the ice in the meeting.",
-        "clonedNewAudio": "/audio/qwen/spk-188505-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188505-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -402,9 +402,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188505-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188505-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "When the chief has a meeting with coworkers, he makes a funny story or a simple situation funny to break the ice in the meeting.",
-        "clonedNewAudio": "/audio/resemble/spk-188505-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188505-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -419,9 +419,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-159175-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-159175-qwen-original.mp3",
         "clonedOriginalText": "I think the best way is that a person needs to commit without fear and just needs to relax and enjoy that with his group.",
-        "clonedNewAudio": "/audio/qwen/spk-159175-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-159175-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -451,9 +451,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-159175-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-159175-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think the best way is that a person needs to commit without fear and just needs to relax and enjoy that with his group.",
-        "clonedNewAudio": "/audio/resemble/spk-159175-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-159175-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -468,9 +468,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-187339-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187339-qwen-original.mp3",
         "clonedOriginalText": "If it is an expense, I trust the application or I already paid from the application, I actually don't read the reviews.",
-        "clonedNewAudio": "/audio/qwen/spk-187339-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187339-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -500,9 +500,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187339-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187339-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "If it is an expense, I trust the application or I already paid from the application, I actually don't read the reviews.",
-        "clonedNewAudio": "/audio/resemble/spk-187339-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187339-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -517,9 +517,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-151837-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-151837-qwen-original.mp3",
         "clonedOriginalText": "I think the differences are about both types and colors of the toys. Usually girls' toys come in pink and boys' toys come in blue.",
-        "clonedNewAudio": "/audio/qwen/spk-151837-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-151837-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -549,9 +549,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-151837-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-151837-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think the differences are about both types and colors of the toys. Usually girls' toys come in pink and boys' toys come in blue.",
-        "clonedNewAudio": "/audio/resemble/spk-151837-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-151837-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -566,9 +566,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-183601-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-183601-qwen-original.mp3",
         "clonedOriginalText": "If the doctor asks me to explain the issue in detail, I would say a long story short, it's easy.",
-        "clonedNewAudio": "/audio/qwen/spk-183601-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-183601-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -598,9 +598,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-183601-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-183601-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "If the doctor asks me to explain the issue in detail, I would say a long story short, it's easy.",
-        "clonedNewAudio": "/audio/resemble/spk-183601-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-183601-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -615,9 +615,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188593-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188593-qwen-original.mp3",
         "clonedOriginalText": "My colleagues, they don't call me in my busy time because they know I am the busiest employee in my work.",
-        "clonedNewAudio": "/audio/qwen/spk-188593-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188593-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -647,9 +647,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188593-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188593-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My colleagues, they don't call me in my busy time because they know I am the busiest employee in my work.",
-        "clonedNewAudio": "/audio/resemble/spk-188593-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188593-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -664,9 +664,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-176709-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-176709-qwen-original.mp3",
         "clonedOriginalText": "Now I shop online because I don't have any time because my work until 5 pm and I have too much working after the work because I use online stuff.",
-        "clonedNewAudio": "/audio/qwen/spk-176709-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-176709-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -696,9 +696,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-176709-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-176709-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Now I shop online because I don't have any time because my work until 5 pm and I have too much working after the work because I use online stuff.",
-        "clonedNewAudio": "/audio/resemble/spk-176709-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-176709-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -713,9 +713,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-181479-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-181479-qwen-original.mp3",
         "clonedOriginalText": "That's all. As I said, I like to eat pasta, noodles, sushi, a lot of kind of food.",
-        "clonedNewAudio": "/audio/qwen/spk-181479-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-181479-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -745,9 +745,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-181479-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-181479-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "That's all. As I said, I like to eat pasta, noodles, sushi, a lot of kind of food.",
-        "clonedNewAudio": "/audio/resemble/spk-181479-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-181479-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -762,9 +762,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-135375-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-135375-qwen-original.mp3",
         "clonedOriginalText": "I think it is not related to cooking and English skills, but maybe if I watch videos in YouTube with the recipe in English content.",
-        "clonedNewAudio": "/audio/qwen/spk-135375-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-135375-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -794,9 +794,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-135375-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-135375-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think it is not related to cooking and English skills, but maybe if I watch videos in YouTube with the recipe in English content.",
-        "clonedNewAudio": "/audio/resemble/spk-135375-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-135375-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -811,9 +811,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-19313-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-19313-qwen-original.mp3",
         "clonedOriginalText": "I think how much salary is getting at the end of the month and what's the job and responsibility for the job.",
-        "clonedNewAudio": "/audio/qwen/spk-19313-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-19313-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -843,9 +843,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-19313-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-19313-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think how much salary is getting at the end of the month and what's the job and responsibility for the job.",
-        "clonedNewAudio": "/audio/resemble/spk-19313-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-19313-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -860,9 +860,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-124903-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-124903-qwen-original.mp3",
         "clonedOriginalText": "I want to visit the fantasy sculpture and painting festival held yearly in the Global Sculpture Exhibition in Paris, sometimes in London.",
-        "clonedNewAudio": "/audio/qwen/spk-124903-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-124903-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -892,9 +892,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-124903-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-124903-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I want to visit the fantasy sculpture and painting festival held yearly in the Global Sculpture Exhibition in Paris, sometimes in London.",
-        "clonedNewAudio": "/audio/resemble/spk-124903-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-124903-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -909,9 +909,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-185319-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185319-qwen-original.mp3",
         "clonedOriginalText": "I think better to have a job you love because I get better in the job and I go every day to job and I'm so happy and comfortable.",
-        "clonedNewAudio": "/audio/qwen/spk-185319-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185319-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -941,9 +941,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185319-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185319-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think better to have a job you love because I get better in the job and I go every day to job and I'm so happy and comfortable.",
-        "clonedNewAudio": "/audio/resemble/spk-185319-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185319-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -958,17 +958,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-132723-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-132723-qwen-original.mp3",
         "clonedOriginalText": "We decided to form a group at the beginning of the semester just to keep track and achieve better scores. I tend to avoid studying with anyone during my final exams.",
-        "clonedNewAudio": "/audio/qwen/spk-132723-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-132723-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.mp3",
         "clonedOriginalText": "We decided to form a group at the beginning of the semester just to keep track and achieve better scores. I tend to avoid studying with anyone during my final exams.",
-        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -990,9 +990,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-132723-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-132723-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "We decided to form a group at the beginning of the semester just to keep track and achieve better scores. I tend to avoid studying with anyone during my final exams.",
-        "clonedNewAudio": "/audio/resemble/spk-132723-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-132723-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1007,9 +1007,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-129009-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-129009-qwen-original.mp3",
         "clonedOriginalText": "I prefer eating knafeh at the cafe with Turkish coffee because I like to eat knafeh very hot.",
-        "clonedNewAudio": "/audio/qwen/spk-129009-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-129009-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1039,9 +1039,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-129009-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-129009-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I prefer eating knafeh at the cafe with Turkish coffee because I like to eat knafeh very hot.",
-        "clonedNewAudio": "/audio/resemble/spk-129009-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-129009-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1056,9 +1056,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-173225-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-173225-qwen-original.mp3",
         "clonedOriginalText": "To be honest with you, I don't have specific exercise because I don't understand about this kind of exercise. Can you please give me the answer?",
-        "clonedNewAudio": "/audio/qwen/spk-173225-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-173225-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1088,9 +1088,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-173225-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-173225-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "To be honest with you, I don't have specific exercise because I don't understand about this kind of exercise. Can you please give me the answer?",
-        "clonedNewAudio": "/audio/resemble/spk-173225-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-173225-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1105,9 +1105,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-124285-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-124285-qwen-original.mp3",
         "clonedOriginalText": "There are weak people who follow anything and don't have strong beliefs, and others who are strong and their opinion don't change quickly until they believe it.",
-        "clonedNewAudio": "/audio/qwen/spk-124285-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-124285-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1137,9 +1137,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-124285-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-124285-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "There are weak people who follow anything and don't have strong beliefs, and others who are strong and their opinion don't change quickly until they believe it.",
-        "clonedNewAudio": "/audio/resemble/spk-124285-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-124285-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1154,9 +1154,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-174715-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-174715-qwen-original.mp3",
         "clonedOriginalText": "The traditional food is different from country to country in the name, but it is maybe same rice and chicken but another country different name.",
-        "clonedNewAudio": "/audio/qwen/spk-174715-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-174715-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1186,9 +1186,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-174715-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-174715-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "The traditional food is different from country to country in the name, but it is maybe same rice and chicken but another country different name.",
-        "clonedNewAudio": "/audio/resemble/spk-174715-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-174715-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1203,9 +1203,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-77469-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-77469-qwen-original.mp3",
         "clonedOriginalText": "On the weekend, I usually with my family and I go for lunch and go around in the lake. That's it.",
-        "clonedNewAudio": "/audio/qwen/spk-77469-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-77469-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1235,9 +1235,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-77469-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-77469-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "On the weekend, I usually with my family and I go for lunch and go around in the lake. That's it.",
-        "clonedNewAudio": "/audio/resemble/spk-77469-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-77469-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1252,9 +1252,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-146499-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-146499-qwen-original.mp3",
         "clonedOriginalText": "We have to start the formal email by the introduction, which we have to mention Dear the name of the person.",
-        "clonedNewAudio": "/audio/qwen/spk-146499-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-146499-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1284,9 +1284,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-146499-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-146499-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "We have to start the formal email by the introduction, which we have to mention Dear the name of the person.",
-        "clonedNewAudio": "/audio/resemble/spk-146499-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-146499-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1301,9 +1301,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-174161-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-174161-qwen-original.mp3",
         "clonedOriginalText": "We tried sushi first, we tried ramen next, we explored the rich traditions, we also made a lot of connections there. I improved my social skills.",
-        "clonedNewAudio": "/audio/qwen/spk-174161-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-174161-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1333,9 +1333,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-174161-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-174161-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "We tried sushi first, we tried ramen next, we explored the rich traditions, we also made a lot of connections there. I improved my social skills.",
-        "clonedNewAudio": "/audio/resemble/spk-174161-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-174161-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1350,9 +1350,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-185229-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185229-qwen-original.mp3",
         "clonedOriginalText": "We have a special Islamic holiday. It's called Eid al-Fitr and Eid al-Adha. This is my favorite.",
-        "clonedNewAudio": "/audio/qwen/spk-185229-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185229-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1382,9 +1382,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185229-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185229-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "We have a special Islamic holiday. It's called Eid al-Fitr and Eid al-Adha. This is my favorite.",
-        "clonedNewAudio": "/audio/resemble/spk-185229-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185229-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1399,9 +1399,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-184447-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-184447-qwen-original.mp3",
         "clonedOriginalText": "My uncle is a good example of a generous person. Really I admire him. He is my role model in my life.",
-        "clonedNewAudio": "/audio/qwen/spk-184447-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-184447-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1431,9 +1431,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-184447-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-184447-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My uncle is a good example of a generous person. Really I admire him. He is my role model in my life.",
-        "clonedNewAudio": "/audio/resemble/spk-184447-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-184447-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1448,9 +1448,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188641-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188641-qwen-original.mp3",
         "clonedOriginalText": "No, I prefer physical stores because I don't like shopping online because the clothes online are not nice and not interesting online.",
-        "clonedNewAudio": "/audio/qwen/spk-188641-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188641-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1480,9 +1480,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188641-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188641-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "No, I prefer physical stores because I don't like shopping online because the clothes online are not nice and not interesting online.",
-        "clonedNewAudio": "/audio/resemble/spk-188641-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188641-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1497,9 +1497,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-186197-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-186197-qwen-original.mp3",
         "clonedOriginalText": "He knowns to have one of the most amazing omelets, so I would like to know how to make this kind of omelet.",
-        "clonedNewAudio": "/audio/qwen/spk-186197-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-186197-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1529,9 +1529,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-186197-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-186197-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "He knowns to have one of the most amazing omelets, so I would like to know how to make this kind of omelet.",
-        "clonedNewAudio": "/audio/resemble/spk-186197-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-186197-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1546,9 +1546,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-183655-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-183655-qwen-original.mp3",
         "clonedOriginalText": "Well, actually we dance and we eating festivals and play some music, spend time, like we talk with each other and know each other well.",
-        "clonedNewAudio": "/audio/qwen/spk-183655-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-183655-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1578,9 +1578,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-183655-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-183655-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Well, actually we dance and we eating festivals and play some music, spend time, like we talk with each other and know each other well.",
-        "clonedNewAudio": "/audio/resemble/spk-183655-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-183655-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1595,9 +1595,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-99867-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-99867-qwen-original.mp3",
         "clonedOriginalText": "In fact, I didn't until now research about it, but maybe the capital city of China will be my first direction to China when I visit it.",
-        "clonedNewAudio": "/audio/qwen/spk-99867-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-99867-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1627,9 +1627,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-99867-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-99867-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "In fact, I didn't until now research about it, but maybe the capital city of China will be my first direction to China when I visit it.",
-        "clonedNewAudio": "/audio/resemble/spk-99867-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-99867-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1644,9 +1644,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-156387-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-156387-qwen-original.mp3",
         "clonedOriginalText": "Yeah, I see. Inside my room, I see everything. I see a peach, I see plants, I see people, children.",
-        "clonedNewAudio": "/audio/qwen/spk-156387-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-156387-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1676,9 +1676,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-156387-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-156387-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yeah, I see. Inside my room, I see everything. I see a peach, I see plants, I see people, children.",
-        "clonedNewAudio": "/audio/resemble/spk-156387-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-156387-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1693,9 +1693,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-187491-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187491-qwen-original.mp3",
         "clonedOriginalText": "If the weather is hot, people prefer to do their activities indoor with an air conditioner. But if the weather is cold, people would prefer doing activities outside.",
-        "clonedNewAudio": "/audio/qwen/spk-187491-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187491-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1725,9 +1725,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187491-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187491-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "If the weather is hot, people prefer to do their activities indoor with an air conditioner. But if the weather is cold, people would prefer doing activities outside.",
-        "clonedNewAudio": "/audio/resemble/spk-187491-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187491-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1742,9 +1742,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-119223-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-119223-qwen-original.mp3",
         "clonedOriginalText": "The most enjoyable part about walking in the evening is listening to podcasts and walking. It's really a relaxing and exciting time.",
-        "clonedNewAudio": "/audio/qwen/spk-119223-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-119223-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1774,9 +1774,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-119223-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-119223-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "The most enjoyable part about walking in the evening is listening to podcasts and walking. It's really a relaxing and exciting time.",
-        "clonedNewAudio": "/audio/resemble/spk-119223-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-119223-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1791,9 +1791,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-186345-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-186345-qwen-original.mp3",
         "clonedOriginalText": "There are so much food in Qatar like kabsa and thareed and marqooq, so much food.",
-        "clonedNewAudio": "/audio/qwen/spk-186345-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-186345-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1823,9 +1823,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-186345-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-186345-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "There are so much food in Qatar like kabsa and thareed and marqooq, so much food.",
-        "clonedNewAudio": "/audio/resemble/spk-186345-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-186345-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1840,9 +1840,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-183909-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-183909-qwen-original.mp3",
         "clonedOriginalText": "My favorite season for taking nature photos is spring because the mountain covered with the grass and the flower is grow and opening.",
-        "clonedNewAudio": "/audio/qwen/spk-183909-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-183909-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1872,9 +1872,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-183909-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-183909-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My favorite season for taking nature photos is spring because the mountain covered with the grass and the flower is grow and opening.",
-        "clonedNewAudio": "/audio/resemble/spk-183909-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-183909-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1889,9 +1889,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-187971-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187971-qwen-original.mp3",
         "clonedOriginalText": "Yes, it has changed. There is a lot of schools, and malls, and a lot of new restaurants, of course.",
-        "clonedNewAudio": "/audio/qwen/spk-187971-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187971-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1921,9 +1921,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187971-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187971-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, it has changed. There is a lot of schools, and malls, and a lot of new restaurants, of course.",
-        "clonedNewAudio": "/audio/resemble/spk-187971-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187971-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1938,9 +1938,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-186963-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-186963-qwen-original.mp3",
         "clonedOriginalText": "I prefer to work in the office and handing the files from this employers I check who attend or was absent and provide punishment for employers who did not work well.",
-        "clonedNewAudio": "/audio/qwen/spk-186963-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-186963-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -1970,9 +1970,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-186963-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-186963-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I prefer to work in the office and handing the files from this employers I check who attend or was absent and provide punishment for employers who did not work well.",
-        "clonedNewAudio": "/audio/resemble/spk-186963-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-186963-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -1987,9 +1987,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-175103-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-175103-qwen-original.mp3",
         "clonedOriginalText": "It is not respectful to ask your colleagues to open the camera because maybe there is a policy you need to protect.",
-        "clonedNewAudio": "/audio/qwen/spk-175103-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-175103-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2019,9 +2019,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-175103-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-175103-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "It is not respectful to ask your colleagues to open the camera because maybe there is a policy you need to protect.",
-        "clonedNewAudio": "/audio/resemble/spk-175103-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-175103-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2036,9 +2036,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-148717-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-148717-qwen-original.mp3",
         "clonedOriginalText": "Most of the time I use my smartphone to watch a video on the YouTube or sometime chatting with my friend.",
-        "clonedNewAudio": "/audio/qwen/spk-148717-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-148717-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2068,9 +2068,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-148717-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-148717-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Most of the time I use my smartphone to watch a video on the YouTube or sometime chatting with my friend.",
-        "clonedNewAudio": "/audio/resemble/spk-148717-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-148717-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2085,9 +2085,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-91363-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-91363-qwen-original.mp3",
         "clonedOriginalText": "First, I like to drink lemon juice with fish dish. I like to eat with family because my mother make a better fish dish.",
-        "clonedNewAudio": "/audio/qwen/spk-91363-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-91363-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2117,9 +2117,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-91363-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-91363-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "First, I like to drink lemon juice with fish dish. I like to eat with family because my mother make a better fish dish.",
-        "clonedNewAudio": "/audio/resemble/spk-91363-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-91363-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2134,9 +2134,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-179749-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-179749-qwen-original.mp3",
         "clonedOriginalText": "Yes, every morning or every day I walk 10,000 steps and two times every week I go to gym.",
-        "clonedNewAudio": "/audio/qwen/spk-179749-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-179749-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2166,9 +2166,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-179749-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-179749-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, every morning or every day I walk 10,000 steps and two times every week I go to gym.",
-        "clonedNewAudio": "/audio/resemble/spk-179749-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-179749-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2183,9 +2183,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-163911-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-163911-qwen-original.mp3",
         "clonedOriginalText": "Yes, I hold my chopstick like a pencil and rest the other between my thumb and ring finger. Then move only the top chopstick to pick up food.",
-        "clonedNewAudio": "/audio/qwen/spk-163911-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-163911-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2215,9 +2215,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-163911-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-163911-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, I hold my chopstick like a pencil and rest the other between my thumb and ring finger. Then move only the top chopstick to pick up food.",
-        "clonedNewAudio": "/audio/resemble/spk-163911-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-163911-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2232,9 +2232,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-84329-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-84329-qwen-original.mp3",
         "clonedOriginalText": "Oh no. In fact, we talk about the people there and discussing about what we're going to order. Yeah, and sometimes we talk about daily life.",
-        "clonedNewAudio": "/audio/qwen/spk-84329-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-84329-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2264,9 +2264,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-84329-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-84329-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Oh no. In fact, we talk about the people there and discussing about what we're going to order. Yeah, and sometimes we talk about daily life.",
-        "clonedNewAudio": "/audio/resemble/spk-84329-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-84329-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2281,9 +2281,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-43223-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-43223-qwen-original.mp3",
         "clonedOriginalText": "There are a lot of skills of course, but I'm thinking right now it be good speaking at the dialogue with other people.",
-        "clonedNewAudio": "/audio/qwen/spk-43223-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-43223-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2313,9 +2313,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-43223-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-43223-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "There are a lot of skills of course, but I'm thinking right now it be good speaking at the dialogue with other people.",
-        "clonedNewAudio": "/audio/resemble/spk-43223-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-43223-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2330,9 +2330,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-182073-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-182073-qwen-original.mp3",
         "clonedOriginalText": "I think what makes the holiday fun for me is the companion with me and the place or the hotel we\u2019re staying.",
-        "clonedNewAudio": "/audio/qwen/spk-182073-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-182073-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2362,9 +2362,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-182073-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-182073-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think what makes the holiday fun for me is the companion with me and the place or the hotel we\u2019re staying.",
-        "clonedNewAudio": "/audio/resemble/spk-182073-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-182073-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2379,9 +2379,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-36727-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-36727-qwen-original.mp3",
         "clonedOriginalText": "Well, how do you know my level around B1 or B2? How do you know me around B1, B2?",
-        "clonedNewAudio": "/audio/qwen/spk-36727-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-36727-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2411,9 +2411,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-36727-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-36727-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Well, how do you know my level around B1 or B2? How do you know me around B1, B2?",
-        "clonedNewAudio": "/audio/resemble/spk-36727-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-36727-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2428,9 +2428,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-34567-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-34567-qwen-original.mp3",
         "clonedOriginalText": "I'm not really enjoying to go to the big malls and local market, but the online shopping it's not my thing.",
-        "clonedNewAudio": "/audio/qwen/spk-34567-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-34567-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2460,9 +2460,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-34567-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-34567-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I'm not really enjoying to go to the big malls and local market, but the online shopping it's not my thing.",
-        "clonedNewAudio": "/audio/resemble/spk-34567-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-34567-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2477,9 +2477,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-187875-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187875-qwen-original.mp3",
         "clonedOriginalText": "All I know is that it's a drama, but I don't want to read or know anything before I read the play",
-        "clonedNewAudio": "/audio/qwen/spk-187875-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187875-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2509,9 +2509,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187875-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187875-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "All I know is that it's a drama, but I don't want to read or know anything before I read the play",
-        "clonedNewAudio": "/audio/resemble/spk-187875-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187875-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2550,9 +2550,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-184659-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-184659-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, I think this is a background of preparing this section. I mean, we are not needing to do another thing besides this.",
-        "clonedNewAudio": "/audio/resemble/spk-184659-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-184659-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2567,17 +2567,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-3705-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-3705-qwen-original.mp3",
         "clonedOriginalText": "Honestly, I think conversation can change a person's life in many ways. For example, meaningful conversation might provide new perspectives or advice.",
-        "clonedNewAudio": "/audio/qwen/spk-3705-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-3705-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.mp3",
         "clonedOriginalText": "Honestly, I think conversation can change a person's life in many ways. For example, meaningful conversation might provide new perspectives or advice.",
-        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2599,9 +2599,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-3705-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-3705-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Honestly, I think conversation can change a person's life in many ways. For example, meaningful conversation might provide new perspectives or advice.",
-        "clonedNewAudio": "/audio/resemble/spk-3705-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-3705-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2616,9 +2616,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-185203-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185203-qwen-original.mp3",
         "clonedOriginalText": "Yeah, I like fries as a side, and salad also if I will eat meat. And yeah, everyone loves some side dish because it's free and yeah.",
-        "clonedNewAudio": "/audio/qwen/spk-185203-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185203-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2648,9 +2648,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185203-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185203-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yeah, I like fries as a side, and salad also if I will eat meat. And yeah, everyone loves some side dish because it's free and yeah.",
-        "clonedNewAudio": "/audio/resemble/spk-185203-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185203-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2665,9 +2665,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-167729-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-167729-qwen-original.mp3",
         "clonedOriginalText": "The teacher has to be creative not only explain the traditional way. The teacher must be using good tools to explain and remember to memorize.",
-        "clonedNewAudio": "/audio/qwen/spk-167729-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-167729-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2697,9 +2697,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-167729-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-167729-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "The teacher has to be creative not only explain the traditional way. The teacher must be using good tools to explain and remember to memorize.",
-        "clonedNewAudio": "/audio/resemble/spk-167729-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-167729-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2714,9 +2714,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-145253-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-145253-qwen-original.mp3",
         "clonedOriginalText": "If you want to check for your health, you have to do a test and receive the medical report from the clinic.",
-        "clonedNewAudio": "/audio/qwen/spk-145253-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-145253-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2746,9 +2746,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-145253-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-145253-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "If you want to check for your health, you have to do a test and receive the medical report from the clinic.",
-        "clonedNewAudio": "/audio/resemble/spk-145253-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-145253-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2787,9 +2787,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-153409-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-153409-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "What is success and how do you define it? Use this word, mean different things at achieving my goals, financial outcome.",
-        "clonedNewAudio": "/audio/resemble/spk-153409-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-153409-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2804,9 +2804,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-151403-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-151403-qwen-original.mp3",
         "clonedOriginalText": "When I want to change my habits and enjoy my time, I need to change my place and the people I'm with.",
-        "clonedNewAudio": "/audio/qwen/spk-151403-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-151403-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2836,9 +2836,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-151403-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-151403-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "When I want to change my habits and enjoy my time, I need to change my place and the people I'm with.",
-        "clonedNewAudio": "/audio/resemble/spk-151403-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-151403-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2853,9 +2853,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-164631-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-164631-qwen-original.mp3",
         "clonedOriginalText": "Actually, I think it depends on the person. For me, I started studying again after I finished university study for about ten years.",
-        "clonedNewAudio": "/audio/qwen/spk-164631-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-164631-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2885,9 +2885,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-164631-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-164631-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Actually, I think it depends on the person. For me, I started studying again after I finished university study for about ten years.",
-        "clonedNewAudio": "/audio/resemble/spk-164631-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-164631-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2902,9 +2902,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-109173-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-109173-qwen-original.mp3",
         "clonedOriginalText": "Sometime I usually reservation from app, but when the app have different price I prefer call the hotel and make my reservation.",
-        "clonedNewAudio": "/audio/qwen/spk-109173-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-109173-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2934,9 +2934,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-109173-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-109173-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Sometime I usually reservation from app, but when the app have different price I prefer call the hotel and make my reservation.",
-        "clonedNewAudio": "/audio/resemble/spk-109173-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-109173-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -2951,9 +2951,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-128331-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-128331-qwen-original.mp3",
         "clonedOriginalText": "Some actors are paid extremely high salary because the popularity and influence that can attract a large number of audience that help the films to earn a lot of money.",
-        "clonedNewAudio": "/audio/qwen/spk-128331-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-128331-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -2983,9 +2983,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-128331-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-128331-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Some actors are paid extremely high salary because the popularity and influence that can attract a large number of audience that help the films to earn a lot of money.",
-        "clonedNewAudio": "/audio/resemble/spk-128331-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-128331-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3000,9 +3000,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-144167-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-144167-qwen-original.mp3",
         "clonedOriginalText": "I would choose Burj Khalifa because it's the tallest building in the world, also because it has the best view of Dubai.",
-        "clonedNewAudio": "/audio/qwen/spk-144167-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-144167-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3032,9 +3032,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-144167-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-144167-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I would choose Burj Khalifa because it's the tallest building in the world, also because it has the best view of Dubai.",
-        "clonedNewAudio": "/audio/resemble/spk-144167-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-144167-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3049,9 +3049,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188747-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188747-qwen-original.mp3",
         "clonedOriginalText": "I want to improve my language learning especially English and Chinese because it is very old languages and very very spread ubiquitous and you know it is very reliable in the future.",
-        "clonedNewAudio": "/audio/qwen/spk-188747-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188747-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3081,9 +3081,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188747-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188747-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I want to improve my language learning especially English and Chinese because it is very old languages and very very spread ubiquitous and you know it is very reliable in the future.",
-        "clonedNewAudio": "/audio/resemble/spk-188747-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188747-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3098,9 +3098,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-182389-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-182389-qwen-original.mp3",
         "clonedOriginalText": "My favorite dish to cook I think chicken with indomie, I love cook because that easy ingredient and that recipe is so easy also.",
-        "clonedNewAudio": "/audio/qwen/spk-182389-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-182389-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3130,9 +3130,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-182389-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-182389-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My favorite dish to cook I think chicken with indomie, I love cook because that easy ingredient and that recipe is so easy also.",
-        "clonedNewAudio": "/audio/resemble/spk-182389-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-182389-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3147,9 +3147,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-181575-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-181575-qwen-original.mp3",
         "clonedOriginalText": "Any country I will go to Japan because I love Japan. I watching a lot of anime so I know a little bit of this country so I want to visit.",
-        "clonedNewAudio": "/audio/qwen/spk-181575-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-181575-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3179,9 +3179,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-181575-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-181575-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Any country I will go to Japan because I love Japan. I watching a lot of anime so I know a little bit of this country so I want to visit.",
-        "clonedNewAudio": "/audio/resemble/spk-181575-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-181575-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3196,9 +3196,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-187855-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187855-qwen-original.mp3",
         "clonedOriginalText": "And I prefer to drink cold coffee on a hot day. And I make it as V60 way, if you know it.",
-        "clonedNewAudio": "/audio/qwen/spk-187855-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187855-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3228,9 +3228,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187855-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187855-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "And I prefer to drink cold coffee on a hot day. And I make it as V60 way, if you know it.",
-        "clonedNewAudio": "/audio/resemble/spk-187855-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187855-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3245,9 +3245,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-175125-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-175125-qwen-original.mp3",
         "clonedOriginalText": "Yes, I have stood in a long queue to enter a museum, and I felt a little upset and tired.",
-        "clonedNewAudio": "/audio/qwen/spk-175125-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-175125-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3277,9 +3277,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-175125-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-175125-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, I have stood in a long queue to enter a museum, and I felt a little upset and tired.",
-        "clonedNewAudio": "/audio/resemble/spk-175125-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-175125-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3294,9 +3294,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-37003-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-37003-qwen-original.mp3",
         "clonedOriginalText": "I had been thinking about finishing my homework and chores. After I checked these things, I decided to go outside with my friends.",
-        "clonedNewAudio": "/audio/qwen/spk-37003-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-37003-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3326,9 +3326,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-37003-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-37003-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I had been thinking about finishing my homework and chores. After I checked these things, I decided to go outside with my friends.",
-        "clonedNewAudio": "/audio/resemble/spk-37003-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-37003-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3343,9 +3343,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-186887-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-186887-qwen-original.mp3",
         "clonedOriginalText": "In my opinion, important qualities for a good athlete are waking up early to exercise, going to a park or forest, and eating healthy food.",
-        "clonedNewAudio": "/audio/qwen/spk-186887-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-186887-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3375,9 +3375,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-186887-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-186887-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "In my opinion, important qualities for a good athlete are waking up early to exercise, going to a park or forest, and eating healthy food.",
-        "clonedNewAudio": "/audio/resemble/spk-186887-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-186887-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3392,9 +3392,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-162345-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-162345-qwen-original.mp3",
         "clonedOriginalText": "Actually I like to be fitness, and with some of exercise I like it or I enjoyed it like CrossFit and horse riding.",
-        "clonedNewAudio": "/audio/qwen/spk-162345-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-162345-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3424,9 +3424,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-162345-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-162345-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Actually I like to be fitness, and with some of exercise I like it or I enjoyed it like CrossFit and horse riding.",
-        "clonedNewAudio": "/audio/resemble/spk-162345-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-162345-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3441,9 +3441,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-168395-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-168395-qwen-original.mp3",
         "clonedOriginalText": "I think when your group works together should be allowed to explain your opinion, how to do this work perfectly and so on.",
-        "clonedNewAudio": "/audio/qwen/spk-168395-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-168395-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3473,9 +3473,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-168395-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-168395-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think when your group works together should be allowed to explain your opinion, how to do this work perfectly and so on.",
-        "clonedNewAudio": "/audio/resemble/spk-168395-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-168395-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3490,9 +3490,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-168975-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-168975-qwen-original.mp3",
         "clonedOriginalText": "I prefer spending my leisure time with myself, watching anime and eating something such as burger or chocolate, or maybe sometimes drinking soda.",
-        "clonedNewAudio": "/audio/qwen/spk-168975-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-168975-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3522,9 +3522,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-168975-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-168975-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I prefer spending my leisure time with myself, watching anime and eating something such as burger or chocolate, or maybe sometimes drinking soda.",
-        "clonedNewAudio": "/audio/resemble/spk-168975-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-168975-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3539,9 +3539,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-139811-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-139811-qwen-original.mp3",
         "clonedOriginalText": "Surely, I have bought an ancient handy gadget. I don't know what it's called, but it's like a pod.",
-        "clonedNewAudio": "/audio/qwen/spk-139811-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-139811-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3571,9 +3571,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-139811-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-139811-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Surely, I have bought an ancient handy gadget. I don't know what it's called, but it's like a pod.",
-        "clonedNewAudio": "/audio/resemble/spk-139811-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-139811-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3588,9 +3588,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-24911-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-24911-qwen-original.mp3",
         "clonedOriginalText": "I've planned a small barbecue with my family and my friends and maybe swimming. I had a great weekend because I went to a gym.",
-        "clonedNewAudio": "/audio/qwen/spk-24911-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-24911-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3620,9 +3620,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-24911-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-24911-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I've planned a small barbecue with my family and my friends and maybe swimming. I had a great weekend because I went to a gym.",
-        "clonedNewAudio": "/audio/resemble/spk-24911-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-24911-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3637,9 +3637,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-185037-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185037-qwen-original.mp3",
         "clonedOriginalText": "I prefer sport with the cardio at the gym. Like, I like to walk for half an hour or one hour and ride a bicycle.",
-        "clonedNewAudio": "/audio/qwen/spk-185037-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185037-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3669,9 +3669,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185037-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185037-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I prefer sport with the cardio at the gym. Like, I like to walk for half an hour or one hour and ride a bicycle.",
-        "clonedNewAudio": "/audio/resemble/spk-185037-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185037-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3686,9 +3686,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-148381-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-148381-qwen-original.mp3",
         "clonedOriginalText": "Yes, of course. I made a curry from Indian food. It's a soup with meat and some spice like turmeric and pepper.",
-        "clonedNewAudio": "/audio/qwen/spk-148381-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-148381-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3718,9 +3718,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-148381-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-148381-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, of course. I made a curry from Indian food. It's a soup with meat and some spice like turmeric and pepper.",
-        "clonedNewAudio": "/audio/resemble/spk-148381-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-148381-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3735,9 +3735,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-92377-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-92377-qwen-original.mp3",
         "clonedOriginalText": "Yes, of course, you should talk with any person like your mother because your mother tries to understand your feelings.",
-        "clonedNewAudio": "/audio/qwen/spk-92377-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-92377-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3767,9 +3767,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-92377-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-92377-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, of course, you should talk with any person like your mother because your mother tries to understand your feelings.",
-        "clonedNewAudio": "/audio/resemble/spk-92377-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-92377-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3784,9 +3784,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-167305-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-167305-qwen-original.mp3",
         "clonedOriginalText": "It's near to the cafe and I like to walk in the park after I buy coffee and sit a little minute and take some air.",
-        "clonedNewAudio": "/audio/qwen/spk-167305-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-167305-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3816,9 +3816,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-167305-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-167305-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "It's near to the cafe and I like to walk in the park after I buy coffee and sit a little minute and take some air.",
-        "clonedNewAudio": "/audio/resemble/spk-167305-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-167305-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3833,9 +3833,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-139099-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-139099-qwen-original.mp3",
         "clonedOriginalText": "No, the Kabsa for bread because all of the people of Saudi Arabia eat the Kabsa with rice, not bread.",
-        "clonedNewAudio": "/audio/qwen/spk-139099-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-139099-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3865,9 +3865,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-139099-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-139099-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "No, the Kabsa for bread because all of the people of Saudi Arabia eat the Kabsa with rice, not bread.",
-        "clonedNewAudio": "/audio/resemble/spk-139099-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-139099-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3882,9 +3882,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-159039-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-159039-qwen-original.mp3",
         "clonedOriginalText": "When I was in high school, I took a chemistry test. My answers were awful because the test was hard and stressful.",
-        "clonedNewAudio": "/audio/qwen/spk-159039-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-159039-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3914,9 +3914,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-159039-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-159039-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "When I was in high school, I took a chemistry test. My answers were awful because the test was hard and stressful.",
-        "clonedNewAudio": "/audio/resemble/spk-159039-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-159039-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3931,9 +3931,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-184353-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-184353-qwen-original.mp3",
         "clonedOriginalText": "I don't know, but maybe the friend who shows up when you feel lonely and feel sad and is trying to cheer you up, that's a high-quality of friend.",
-        "clonedNewAudio": "/audio/qwen/spk-184353-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-184353-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -3963,9 +3963,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-184353-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-184353-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I don't know, but maybe the friend who shows up when you feel lonely and feel sad and is trying to cheer you up, that's a high-quality of friend.",
-        "clonedNewAudio": "/audio/resemble/spk-184353-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-184353-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -3980,9 +3980,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-165947-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-165947-qwen-original.mp3",
         "clonedOriginalText": "First you said \"I walk on the path.\" The second sentence is \"The ground is soft.\" And the third sentence is \"I live in the district.\"",
-        "clonedNewAudio": "/audio/qwen/spk-165947-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-165947-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4012,9 +4012,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-165947-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-165947-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "First you said \"I walk on the path.\" The second sentence is \"The ground is soft.\" And the third sentence is \"I live in the district.\"",
-        "clonedNewAudio": "/audio/resemble/spk-165947-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-165947-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4029,9 +4029,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-173363-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-173363-qwen-original.mp3",
         "clonedOriginalText": "Actually, in the place where I live there are a lot of salons around us, so no need to wait too much to make an appointment, just walk in.",
-        "clonedNewAudio": "/audio/qwen/spk-173363-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-173363-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4061,9 +4061,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-173363-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-173363-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Actually, in the place where I live there are a lot of salons around us, so no need to wait too much to make an appointment, just walk in.",
-        "clonedNewAudio": "/audio/resemble/spk-173363-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-173363-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4078,9 +4078,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-61251-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-61251-qwen-original.mp3",
         "clonedOriginalText": "There's no drawing and that I study English too, I can have a job and I can travel to study art.",
-        "clonedNewAudio": "/audio/qwen/spk-61251-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-61251-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4110,9 +4110,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-61251-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-61251-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "There's no drawing and that I study English too, I can have a job and I can travel to study art.",
-        "clonedNewAudio": "/audio/resemble/spk-61251-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-61251-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4127,9 +4127,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-182321-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-182321-qwen-original.mp3",
         "clonedOriginalText": "I'm really enjoy in a nature place because I like to go hiking also we like to doing some exercise in the forests.",
-        "clonedNewAudio": "/audio/qwen/spk-182321-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-182321-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4159,9 +4159,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-182321-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-182321-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I'm really enjoy in a nature place because I like to go hiking also we like to doing some exercise in the forests.",
-        "clonedNewAudio": "/audio/resemble/spk-182321-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-182321-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4176,9 +4176,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-187475-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187475-qwen-original.mp3",
         "clonedOriginalText": "I live in a small town and I think the best thing about it is being a small town so that you can go anywhere in 10 minutes.",
-        "clonedNewAudio": "/audio/qwen/spk-187475-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187475-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4208,9 +4208,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187475-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187475-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I live in a small town and I think the best thing about it is being a small town so that you can go anywhere in 10 minutes.",
-        "clonedNewAudio": "/audio/resemble/spk-187475-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187475-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4225,9 +4225,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-130459-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-130459-qwen-original.mp3",
         "clonedOriginalText": "Fish is the healthy food I like the most because it's good for the body. I try to eat it regularly.",
-        "clonedNewAudio": "/audio/qwen/spk-130459-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-130459-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4257,9 +4257,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-130459-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-130459-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Fish is the healthy food I like the most because it's good for the body. I try to eat it regularly.",
-        "clonedNewAudio": "/audio/resemble/spk-130459-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-130459-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4274,9 +4274,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-142731-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-142731-qwen-original.mp3",
         "clonedOriginalText": "I usually prepare for public speaking while studying the topic perfectly and from all perspectives so I can be ready to have a conversation with other people to speak well and useful.",
-        "clonedNewAudio": "/audio/qwen/spk-142731-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-142731-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4306,9 +4306,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-142731-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-142731-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I usually prepare for public speaking while studying the topic perfectly and from all perspectives so I can be ready to have a conversation with other people to speak well and useful.",
-        "clonedNewAudio": "/audio/resemble/spk-142731-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-142731-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4323,17 +4323,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-181317-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-181317-qwen-original.mp3",
         "clonedOriginalText": "Normally, after this routine, I feel relaxed. I take a light meal before going to bed and prepare for another day.",
-        "clonedNewAudio": "/audio/qwen/spk-181317-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-181317-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.mp3",
         "clonedOriginalText": "Normally, after this routine, I feel relaxed. I take a light meal before going to bed and prepare for another day.",
-        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4355,9 +4355,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-181317-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-181317-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Normally, after this routine, I feel relaxed. I take a light meal before going to bed and prepare for another day.",
-        "clonedNewAudio": "/audio/resemble/spk-181317-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-181317-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4372,9 +4372,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-123207-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-123207-qwen-original.mp3",
         "clonedOriginalText": "No, actually most of her songs are slow ballads. She sang her song, sorry, most of them about love.",
-        "clonedNewAudio": "/audio/qwen/spk-123207-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-123207-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4404,9 +4404,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-123207-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-123207-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "No, actually most of her songs are slow ballads. She sang her song, sorry, most of them about love.",
-        "clonedNewAudio": "/audio/resemble/spk-123207-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-123207-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4421,9 +4421,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-151197-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-151197-qwen-original.mp3",
         "clonedOriginalText": "Of course, I'm from a different generation than my children, as well as my parents are from a different generation than me.",
-        "clonedNewAudio": "/audio/qwen/spk-151197-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-151197-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4453,9 +4453,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-151197-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-151197-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Of course, I'm from a different generation than my children, as well as my parents are from a different generation than me.",
-        "clonedNewAudio": "/audio/resemble/spk-151197-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-151197-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4470,9 +4470,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-158995-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-158995-qwen-original.mp3",
         "clonedOriginalText": "My age is 29, so I'm still working for my achievements, a lot of achievements actually, something in my work, something in my health.",
-        "clonedNewAudio": "/audio/qwen/spk-158995-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-158995-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4502,9 +4502,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-158995-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-158995-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My age is 29, so I'm still working for my achievements, a lot of achievements actually, something in my work, something in my health.",
-        "clonedNewAudio": "/audio/resemble/spk-158995-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-158995-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4519,9 +4519,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-32947-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-32947-qwen-original.mp3",
         "clonedOriginalText": "Opportunities like programs helps you to speak with native, I think it's helpful because it builds your confidence and helps you to get used to natural conversation.",
-        "clonedNewAudio": "/audio/qwen/spk-32947-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-32947-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4551,9 +4551,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-32947-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-32947-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Opportunities like programs helps you to speak with native, I think it's helpful because it builds your confidence and helps you to get used to natural conversation.",
-        "clonedNewAudio": "/audio/resemble/spk-32947-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-32947-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4568,9 +4568,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-166863-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-166863-qwen-original.mp3",
         "clonedOriginalText": "Yes, I helped a lot of friends who were going through hardships, but some of them, they didn't deserve what I did for them.",
-        "clonedNewAudio": "/audio/qwen/spk-166863-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-166863-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4600,9 +4600,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-166863-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-166863-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, I helped a lot of friends who were going through hardships, but some of them, they didn't deserve what I did for them.",
-        "clonedNewAudio": "/audio/resemble/spk-166863-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-166863-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4617,9 +4617,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-152199-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-152199-qwen-original.mp3",
         "clonedOriginalText": "Honestly none, but what I always do is throwing the waste in the trash bin. Many people throw it on the streets and parks",
-        "clonedNewAudio": "/audio/qwen/spk-152199-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-152199-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4649,9 +4649,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-152199-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-152199-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Honestly none, but what I always do is throwing the waste in the trash bin. Many people throw it on the streets and parks",
-        "clonedNewAudio": "/audio/resemble/spk-152199-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-152199-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4666,9 +4666,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-75941-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-75941-qwen-original.mp3",
         "clonedOriginalText": "Hello Shakespeare, how are you? How's it going? Everything is good? I'm good, thanks. How about you?",
-        "clonedNewAudio": "/audio/qwen/spk-75941-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-75941-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4698,9 +4698,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-75941-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-75941-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Hello Shakespeare, how are you? How's it going? Everything is good? I'm good, thanks. How about you?",
-        "clonedNewAudio": "/audio/resemble/spk-75941-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-75941-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4715,9 +4715,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-169787-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-169787-qwen-original.mp3",
         "clonedOriginalText": "Some people say the English is easy and some people say the English is not easy. Actually the English is not easy. It takes many time.",
-        "clonedNewAudio": "/audio/qwen/spk-169787-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-169787-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4747,9 +4747,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-169787-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-169787-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Some people say the English is easy and some people say the English is not easy. Actually the English is not easy. It takes many time.",
-        "clonedNewAudio": "/audio/resemble/spk-169787-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-169787-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4764,9 +4764,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-162591-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-162591-qwen-original.mp3",
         "clonedOriginalText": "It gives me more energy and I can tell you about the strength. I think that the more practice strength do me more flexibility to make any practice in the gym.",
-        "clonedNewAudio": "/audio/qwen/spk-162591-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-162591-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4796,9 +4796,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-162591-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-162591-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "It gives me more energy and I can tell you about the strength. I think that the more practice strength do me more flexibility to make any practice in the gym.",
-        "clonedNewAudio": "/audio/resemble/spk-162591-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-162591-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4813,9 +4813,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188185-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188185-qwen-original.mp3",
         "clonedOriginalText": "The oldest daughter is 25 years old. You ask me about my project. It's a normal project to everybody. I need a good style life and good health.",
-        "clonedNewAudio": "/audio/qwen/spk-188185-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188185-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4845,9 +4845,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188185-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188185-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "The oldest daughter is 25 years old. You ask me about my project. It's a normal project to everybody. I need a good style life and good health.",
-        "clonedNewAudio": "/audio/resemble/spk-188185-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188185-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4862,9 +4862,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188547-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188547-qwen-original.mp3",
         "clonedOriginalText": "My age 25 years old. My job I work to a company. My education is accounting, and my work is accounting.",
-        "clonedNewAudio": "/audio/qwen/spk-188547-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188547-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4894,9 +4894,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188547-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188547-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My age 25 years old. My job I work to a company. My education is accounting, and my work is accounting.",
-        "clonedNewAudio": "/audio/resemble/spk-188547-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188547-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4911,9 +4911,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-72573-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-72573-qwen-original.mp3",
         "clonedOriginalText": "Sleep well, eating healthy. Do exercise every day and make your brain active and do some exercise and take a break and meditate or imagine.",
-        "clonedNewAudio": "/audio/qwen/spk-72573-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-72573-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4943,9 +4943,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-72573-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-72573-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Sleep well, eating healthy. Do exercise every day and make your brain active and do some exercise and take a break and meditate or imagine.",
-        "clonedNewAudio": "/audio/resemble/spk-72573-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-72573-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -4960,9 +4960,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-145073-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-145073-qwen-original.mp3",
         "clonedOriginalText": "When I want to say something to anyone politely, I could use \"could you please?\" This phrase is very or the most useful.",
-        "clonedNewAudio": "/audio/qwen/spk-145073-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-145073-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -4992,9 +4992,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-145073-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-145073-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "When I want to say something to anyone politely, I could use \"could you please?\" This phrase is very or the most useful.",
-        "clonedNewAudio": "/audio/resemble/spk-145073-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-145073-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5009,9 +5009,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188011-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188011-qwen-original.mp3",
         "clonedOriginalText": "My favorite thing is going to the gym and lifting weights. One of my hobbies is wanting to buy a new car.",
-        "clonedNewAudio": "/audio/qwen/spk-188011-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188011-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5041,9 +5041,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188011-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188011-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My favorite thing is going to the gym and lifting weights. One of my hobbies is wanting to buy a new car.",
-        "clonedNewAudio": "/audio/resemble/spk-188011-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188011-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5058,9 +5058,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-170769-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-170769-qwen-original.mp3",
         "clonedOriginalText": "Yes, eight years ago, I visited Spain and there were many historic sites such as Granada, C\u00f3rdoba, Sevilla, and Madrid.",
-        "clonedNewAudio": "/audio/qwen/spk-170769-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-170769-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5090,9 +5090,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-170769-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-170769-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, eight years ago, I visited Spain and there were many historic sites such as Granada, C\u00f3rdoba, Sevilla, and Madrid.",
-        "clonedNewAudio": "/audio/resemble/spk-170769-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-170769-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5107,9 +5107,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-173789-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-173789-qwen-original.mp3",
         "clonedOriginalText": "I can give advice about improving family relationships: Speak to them every day and spend as much as possible you can.",
-        "clonedNewAudio": "/audio/qwen/spk-173789-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-173789-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5139,9 +5139,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-173789-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-173789-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I can give advice about improving family relationships: Speak to them every day and spend as much as possible you can.",
-        "clonedNewAudio": "/audio/resemble/spk-173789-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-173789-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5156,9 +5156,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-188109-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188109-qwen-original.mp3",
         "clonedOriginalText": "That question very interesting. Let me think, to begin with, I remember when I am born in my city Saudi Arabia, specifically my city",
-        "clonedNewAudio": "/audio/qwen/spk-188109-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188109-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5188,9 +5188,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188109-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188109-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "That question very interesting. Let me think, to begin with, I remember when I am born in my city Saudi Arabia, specifically my city",
-        "clonedNewAudio": "/audio/resemble/spk-188109-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188109-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5205,9 +5205,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-144817-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-144817-qwen-original.mp3",
         "clonedOriginalText": "My favorite activity during the National Day is fireworks and dancing and eat the old food or talk with my grandfather and grandmother.",
-        "clonedNewAudio": "/audio/qwen/spk-144817-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-144817-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5237,9 +5237,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-144817-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-144817-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "My favorite activity during the National Day is fireworks and dancing and eat the old food or talk with my grandfather and grandmother.",
-        "clonedNewAudio": "/audio/resemble/spk-144817-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-144817-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5254,9 +5254,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-144847-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-144847-qwen-original.mp3",
         "clonedOriginalText": "The most thing I like it I have time with my family, we can talk with each other, sharing our ideas and enjoy our time and also relaxing.",
-        "clonedNewAudio": "/audio/qwen/spk-144847-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-144847-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5286,9 +5286,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-144847-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-144847-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "The most thing I like it I have time with my family, we can talk with each other, sharing our ideas and enjoy our time and also relaxing.",
-        "clonedNewAudio": "/audio/resemble/spk-144847-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-144847-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5303,9 +5303,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-175673-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-175673-qwen-original.mp3",
         "clonedOriginalText": "Or if any member of my family gets very sick, I can delay everything and drive them to the nearest hospital or clinic to get medicine and a checkup.",
-        "clonedNewAudio": "/audio/qwen/spk-175673-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-175673-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5335,9 +5335,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-175673-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-175673-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Or if any member of my family gets very sick, I can delay everything and drive them to the nearest hospital or clinic to get medicine and a checkup.",
-        "clonedNewAudio": "/audio/resemble/spk-175673-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-175673-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5352,9 +5352,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-175111-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-175111-qwen-original.mp3",
         "clonedOriginalText": "Yeah I like outdoors so I can feel the atmosphere around me and get fresh air. And usually I'm doing cycling that time.",
-        "clonedNewAudio": "/audio/qwen/spk-175111-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-175111-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5384,9 +5384,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-175111-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-175111-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yeah I like outdoors so I can feel the atmosphere around me and get fresh air. And usually I'm doing cycling that time.",
-        "clonedNewAudio": "/audio/resemble/spk-175111-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-175111-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5401,9 +5401,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-181359-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-181359-qwen-original.mp3",
         "clonedOriginalText": "No, most of them prefer to go quite slowly, like a valley. Near the mountain, there is a valley, and people like to stay there.",
-        "clonedNewAudio": "/audio/qwen/spk-181359-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-181359-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5433,9 +5433,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-181359-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-181359-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "No, most of them prefer to go quite slowly, like a valley. Near the mountain, there is a valley, and people like to stay there.",
-        "clonedNewAudio": "/audio/resemble/spk-181359-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-181359-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5450,9 +5450,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-84133-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-84133-qwen-original.mp3",
         "clonedOriginalText": "The first reason is the people you know, your family, your memories. Sometimes you adapt to living in this city.",
-        "clonedNewAudio": "/audio/qwen/spk-84133-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-84133-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5482,9 +5482,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-84133-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-84133-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "The first reason is the people you know, your family, your memories. Sometimes you adapt to living in this city.",
-        "clonedNewAudio": "/audio/resemble/spk-84133-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-84133-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5499,9 +5499,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-182817-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-182817-qwen-original.mp3",
         "clonedOriginalText": "When it's easy to understand, I better to watch them without subtitles, but when it's hard to understand, I prefer to watch it with subtitles.",
-        "clonedNewAudio": "/audio/qwen/spk-182817-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-182817-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5531,9 +5531,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-182817-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-182817-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "When it's easy to understand, I better to watch them without subtitles, but when it's hard to understand, I prefer to watch it with subtitles.",
-        "clonedNewAudio": "/audio/resemble/spk-182817-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-182817-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5548,9 +5548,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-185091-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185091-qwen-original.mp3",
         "clonedOriginalText": "When I have free time, usually I like to go have run or walk or sometimes have a ride in my car.",
-        "clonedNewAudio": "/audio/qwen/spk-185091-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185091-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5580,9 +5580,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185091-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185091-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "When I have free time, usually I like to go have run or walk or sometimes have a ride in my car.",
-        "clonedNewAudio": "/audio/resemble/spk-185091-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185091-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5597,9 +5597,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-145729-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-145729-qwen-original.mp3",
         "clonedOriginalText": "Helping a lot. When you will be confident, you will know how to speaking with... don't be afraid or something, and you will know how to...",
-        "clonedNewAudio": "/audio/qwen/spk-145729-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-145729-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5629,9 +5629,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-145729-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-145729-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Helping a lot. When you will be confident, you will know how to speaking with... don't be afraid or something, and you will know how to...",
-        "clonedNewAudio": "/audio/resemble/spk-145729-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-145729-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5646,9 +5646,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-132925-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-132925-qwen-original.mp3",
         "clonedOriginalText": "I told you I want from you every single question, just the feedback, the all feedback, and the next question in one message.",
-        "clonedNewAudio": "/audio/qwen/spk-132925-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-132925-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5678,9 +5678,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-132925-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-132925-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I told you I want from you every single question, just the feedback, the all feedback, and the next question in one message.",
-        "clonedNewAudio": "/audio/resemble/spk-132925-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-132925-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5695,9 +5695,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-155889-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-155889-qwen-original.mp3",
         "clonedOriginalText": "In the weekend I prefer to sleep more, and I go out time with my friends, and sometimes I go to a restaurant with my family.",
-        "clonedNewAudio": "/audio/qwen/spk-155889-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-155889-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5727,9 +5727,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-155889-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-155889-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "In the weekend I prefer to sleep more, and I go out time with my friends, and sometimes I go to a restaurant with my family.",
-        "clonedNewAudio": "/audio/resemble/spk-155889-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-155889-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5744,9 +5744,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-171281-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-171281-qwen-original.mp3",
         "clonedOriginalText": "I recommended to watch the Plan Date show because it's many programs and you can watch every time and love him and love with people.",
-        "clonedNewAudio": "/audio/qwen/spk-171281-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-171281-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5776,9 +5776,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-171281-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-171281-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I recommended to watch the Plan Date show because it's many programs and you can watch every time and love him and love with people.",
-        "clonedNewAudio": "/audio/resemble/spk-171281-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-171281-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5793,9 +5793,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-187593-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187593-qwen-original.mp3",
         "clonedOriginalText": "It's a strong certificate that contain every skills that I needed and there's some exams to ensure that I am ready to carriers and so on.",
-        "clonedNewAudio": "/audio/qwen/spk-187593-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187593-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5825,9 +5825,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187593-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187593-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "It's a strong certificate that contain every skills that I needed and there's some exams to ensure that I am ready to carriers and so on.",
-        "clonedNewAudio": "/audio/resemble/spk-187593-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187593-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5842,9 +5842,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen 3 (x1.1 speed) (x4.5 amplification)",
-        "clonedOriginalAudio": "/audio/qwen/spk-23589-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-23589-qwen-original.mp3",
         "clonedOriginalText": "Oh, I think the weather affect and change our mood. If the weather is sunny and very hot and change to cloudy and rain, I feel happy.",
-        "clonedNewAudio": "/audio/qwen/spk-23589-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-23589-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5874,9 +5874,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-23589-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-23589-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Oh, I think the weather affect and change our mood. If the weather is sunny and very hot and change to cloudy and rain, I feel happy.",
-        "clonedNewAudio": "/audio/resemble/spk-23589-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-23589-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5891,17 +5891,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-153293-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-153293-qwen-original.mp3",
         "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
-        "clonedNewAudio": "/audio/qwen/spk-153293-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-153293-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-153293-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-153293-fish-original.mp3",
         "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
-        "clonedNewAudio": "/audio/fish/spk-153293-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-153293-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5923,9 +5923,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-153293-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-153293-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I think my cousin is very intelligent because she has achieved a high level at UC Mass and she participated in different championships and won first places. And she has won different places and received a high mark. And I think she is very intelligent in math because she can do many calculations with big numbers in a short time.",
-        "clonedNewAudio": "/audio/resemble/spk-153293-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-153293-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5940,17 +5940,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-185885-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185885-qwen-original.mp3",
         "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
-        "clonedNewAudio": "/audio/qwen/spk-185885-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185885-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-185885-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-185885-fish-original.mp3",
         "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
-        "clonedNewAudio": "/audio/fish/spk-185885-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-185885-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -5972,9 +5972,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185885-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185885-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I am more introvert, but sometimes I would like to be extrovert and see people. But when I am introvert and stay at home alone, I do my agenda in my days and work a lot. But sometimes I am not good and not interested to do something, so I would like in this situation to be extrovert.",
-        "clonedNewAudio": "/audio/resemble/spk-185885-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185885-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -5989,17 +5989,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-173685-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-173685-qwen-original.mp3",
         "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
-        "clonedNewAudio": "/audio/qwen/spk-173685-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-173685-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-173685-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-173685-fish-original.mp3",
         "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
-        "clonedNewAudio": "/audio/fish/spk-173685-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-173685-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6021,9 +6021,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-173685-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-173685-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I don't think I will try any sports in the future because I'm not a fan for sports, but maybe it will be basketball. I think it's very funny and you will jump a lot. But you must be taller than other people, and I'm not tall. I have middle high.",
-        "clonedNewAudio": "/audio/resemble/spk-173685-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-173685-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6038,17 +6038,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-112547-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-112547-qwen-original.mp3",
         "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
-        "clonedNewAudio": "/audio/qwen/spk-112547-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-112547-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-112547-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-112547-fish-original.mp3",
         "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
-        "clonedNewAudio": "/audio/fish/spk-112547-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-112547-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6070,9 +6070,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-112547-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-112547-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Actually, I really like reading, but I have problem these days, which is I stay many hours on my phone. I think it's lost my time. I think it's very difficult and I can't come back to my hobby, my favorite hobby.",
-        "clonedNewAudio": "/audio/resemble/spk-112547-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-112547-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6087,17 +6087,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-158899-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-158899-qwen-original.mp3",
         "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
-        "clonedNewAudio": "/audio/qwen/spk-158899-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-158899-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-158899-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-158899-fish-original.mp3",
         "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
-        "clonedNewAudio": "/audio/fish/spk-158899-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-158899-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6119,9 +6119,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-158899-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-158899-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "No, I don't use a video. Only one time I use a video because I have a presentation. So that time or that day I use a video. But when I have a course, I only use a chat or a video.",
-        "clonedNewAudio": "/audio/resemble/spk-158899-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-158899-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6136,17 +6136,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-34505-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-34505-qwen-original.mp3",
         "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
-        "clonedNewAudio": "/audio/qwen/spk-34505-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-34505-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-34505-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-34505-fish-original.mp3",
         "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
-        "clonedNewAudio": "/audio/fish/spk-34505-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-34505-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6168,9 +6168,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-34505-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-34505-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "The best time of day for studying is early in the morning. At that time, my mind feels fresh and I can concentrate better without distraction and interruption. It is usually quieter and I have more energy compared to later in the day. As a result, I can study more efficiently and remember information more easily.",
-        "clonedNewAudio": "/audio/resemble/spk-34505-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-34505-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6185,17 +6185,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-188127-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188127-qwen-original.mp3",
         "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
-        "clonedNewAudio": "/audio/qwen/spk-188127-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188127-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-188127-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-188127-fish-original.mp3",
         "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
-        "clonedNewAudio": "/audio/fish/spk-188127-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-188127-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6217,9 +6217,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188127-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188127-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I remember in the previous times I found a pack of socks. They have an offer and it says you buy one and get one free. So I bought like five of them and I got an extra additional five free. So it was a good, what I can say, it was a good offer for me.",
-        "clonedNewAudio": "/audio/resemble/spk-188127-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188127-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6234,17 +6234,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-182175-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-182175-qwen-original.mp3",
         "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
-        "clonedNewAudio": "/audio/qwen/spk-182175-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-182175-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-182175-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-182175-fish-original.mp3",
         "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
-        "clonedNewAudio": "/audio/fish/spk-182175-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-182175-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6266,9 +6266,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-182175-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-182175-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "YouTube is my home. I always using YouTube for learn or other things. YouTube, you know YouTube is a beneficial app because you will have a lot of learning videos, videos that have a meaning to you. So for me, my favorite website and app is YouTube.",
-        "clonedNewAudio": "/audio/resemble/spk-182175-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-182175-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6283,17 +6283,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-18511-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-18511-qwen-original.mp3",
         "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
-        "clonedNewAudio": "/audio/qwen/spk-18511-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-18511-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-18511-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-18511-fish-original.mp3",
         "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
-        "clonedNewAudio": "/audio/fish/spk-18511-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-18511-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6315,9 +6315,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-18511-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-18511-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Well, from my perspective, the good relationship between family members is very important. If the father has a good relationship with his son, daughters, and wife, the family will stay strong and happy, supporting each other, be happy for any achievement or any goal for the family. But if the father he is not good with them, so they will not stay strong and happy.",
-        "clonedNewAudio": "/audio/resemble/spk-18511-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-18511-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6332,17 +6332,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-66259-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-66259-qwen-original.mp3",
         "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
-        "clonedNewAudio": "/audio/qwen/spk-66259-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-66259-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-66259-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-66259-fish-original.mp3",
         "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
-        "clonedNewAudio": "/audio/fish/spk-66259-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-66259-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6364,9 +6364,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-66259-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-66259-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I like to study alone because when I study with my friends, actually I can't study with a group of people because one of person talking about, oh, today I wake up at seven o'clock, oh, my mom is cooking, oh, no, I don't like to study with a group, but when I have a question, I ask my friends or maybe my mess.",
-        "clonedNewAudio": "/audio/resemble/spk-66259-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-66259-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6381,17 +6381,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-185603-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-185603-qwen-original.mp3",
         "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
-        "clonedNewAudio": "/audio/qwen/spk-185603-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-185603-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-185603-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-185603-fish-original.mp3",
         "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
-        "clonedNewAudio": "/audio/fish/spk-185603-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-185603-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6413,9 +6413,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-185603-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-185603-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "It depends. Sometimes I prefer to be alone and sometimes with friends. Family is not preferable for me. But when I like to travel for relaxing and chilling and thinking, I need things to be quiet so I prefer to travel alone. But sometimes when I want to have a good time and enjoy, I travel with my friends.",
-        "clonedNewAudio": "/audio/resemble/spk-185603-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-185603-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6430,17 +6430,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-187901-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-187901-qwen-original.mp3",
         "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
-        "clonedNewAudio": "/audio/qwen/spk-187901-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-187901-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-187901-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-187901-fish-original.mp3",
         "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
-        "clonedNewAudio": "/audio/fish/spk-187901-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-187901-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6462,9 +6462,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-187901-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-187901-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yeah, for me, eating healthy food every day is very, very important to get a good body, a healthy body. So I have to eat healthy food every day and I advise my friends and my family to eat it every day.",
-        "clonedNewAudio": "/audio/resemble/spk-187901-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-187901-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6479,17 +6479,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-180719-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-180719-qwen-original.mp3",
         "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
-        "clonedNewAudio": "/audio/qwen/spk-180719-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-180719-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-180719-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-180719-fish-original.mp3",
         "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
-        "clonedNewAudio": "/audio/fish/spk-180719-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-180719-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6511,9 +6511,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-180719-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-180719-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Yes, I'm ready. When I was in university, my best friend, she is not in this country, she is another country, she living in a dorm, it's next to the campus, because she is more safety and more nearest to the university.",
-        "clonedNewAudio": "/audio/resemble/spk-180719-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-180719-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6528,17 +6528,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-3705-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-3705-qwen-original.mp3",
         "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
-        "clonedNewAudio": "/audio/qwen/spk-3705-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-3705-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-3705-fish-original.mp3",
         "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
-        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-3705-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6560,9 +6560,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-3705-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-3705-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Social media has made it easier to stay in touch with friends, even if they live far away. It allows people to share their lives through messages and photos. However, sometimes social media can make friendships less personal because people communicate less face-to-face. It can also create misunderstandings.",
-        "clonedNewAudio": "/audio/resemble/spk-3705-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-3705-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6577,9 +6577,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-153953-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-153953-fish-original.mp3",
         "clonedOriginalText": "Well, I don't think government will continue funding these projects because they cost an arm and a leg. So it's better to spend the money on projects that can help the city or the country. Anyway, besides, you are not sure about these projects is working because space is really mysterious and it is really risk to spend this money on projects that you are not sure.",
-        "clonedNewAudio": "/audio/fish/spk-153953-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-153953-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6601,9 +6601,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-153953-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-153953-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Well, I don't think government will continue funding these projects because they cost an arm and a leg. So it's better to spend the money on projects that can help the city or the country. Anyway, besides, you are not sure about these projects is working because space is really mysterious and it is really risk to spend this money on projects that you are not sure.",
-        "clonedNewAudio": "/audio/resemble/spk-153953-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-153953-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6618,17 +6618,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-151265-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-151265-qwen-original.mp3",
         "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
-        "clonedNewAudio": "/audio/qwen/spk-151265-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-151265-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-151265-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-151265-fish-original.mp3",
         "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
-        "clonedNewAudio": "/audio/fish/spk-151265-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-151265-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6650,9 +6650,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-151265-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-151265-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I'm working on three goals. The first one, learning English. I want to speak and write English fluently. The second goal is improve my soft skills such as leadership and teamwork. The third goal is promote in my work. I want to become a manager of sales.",
-        "clonedNewAudio": "/audio/resemble/spk-151265-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-151265-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6667,17 +6667,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-183715-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-183715-qwen-original.mp3",
         "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
-        "clonedNewAudio": "/audio/qwen/spk-183715-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-183715-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-183715-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-183715-fish-original.mp3",
         "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
-        "clonedNewAudio": "/audio/fish/spk-183715-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-183715-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6699,9 +6699,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-183715-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-183715-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Absolutely, my family. I travel with my family, just with my family. I traveled with my friends, with other people, but my family, it is nice. I'm happy for it, my family. I'm happy traveling with my family, my father, my mother, my brothers, my sisters.",
-        "clonedNewAudio": "/audio/resemble/spk-183715-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-183715-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6716,17 +6716,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-169145-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-169145-qwen-original.mp3",
         "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
-        "clonedNewAudio": "/audio/qwen/spk-169145-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-169145-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-169145-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-169145-fish-original.mp3",
         "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
-        "clonedNewAudio": "/audio/fish/spk-169145-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-169145-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6748,9 +6748,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-169145-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-169145-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I don't have enough time. Actually, in our generation, we say \"I don\u2019t have\" or \"I don't\" cause we say this more than \"I don't have enough time\". So I thought I can speak like my generation even though it's wrong, but in our generation as I said they say \"I don't\" cause.",
-        "clonedNewAudio": "/audio/resemble/spk-169145-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-169145-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6765,17 +6765,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-133787-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-133787-qwen-original.mp3",
         "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
-        "clonedNewAudio": "/audio/qwen/spk-133787-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-133787-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-133787-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-133787-fish-original.mp3",
         "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
-        "clonedNewAudio": "/audio/fish/spk-133787-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-133787-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6797,9 +6797,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-133787-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-133787-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "We are fasting the day before Eid, so we try to sleep at night and then wake up in the morning and go to pray Al-Eid Salah, then back to home and wear new clothes and clean the house and buy desserts and sweets.",
-        "clonedNewAudio": "/audio/resemble/spk-133787-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-133787-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6814,9 +6814,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-131135-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-131135-fish-original.mp3",
         "clonedOriginalText": "I usually listen to podcasts and videos in English. Also, every day I try to learn with Shakespeare. Sometimes I speak with my friends and my family in English. I think this improves my skills in English and you strengthen my skills and will I can speak English well.",
-        "clonedNewAudio": "/audio/fish/spk-131135-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-131135-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6838,9 +6838,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-131135-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-131135-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I usually listen to podcasts and videos in English. Also, every day I try to learn with Shakespeare. Sometimes I speak with my friends and my family in English. I think this improves my skills in English and you strengthen my skills and will I can speak English well.",
-        "clonedNewAudio": "/audio/resemble/spk-131135-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-131135-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6855,17 +6855,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-186439-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-186439-qwen-original.mp3",
         "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
-        "clonedNewAudio": "/audio/qwen/spk-186439-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-186439-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-186439-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-186439-fish-original.mp3",
         "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
-        "clonedNewAudio": "/audio/fish/spk-186439-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-186439-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6887,9 +6887,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-186439-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-186439-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Honestly, I don't have anything to manage my time during the reading tests. But now, I see time to reading no more than 15 minutes. Then I take a look about question to solve them. But unfortunately, I make mistake and some of this question.",
-        "clonedNewAudio": "/audio/resemble/spk-186439-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-186439-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6904,17 +6904,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-132723-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-132723-qwen-original.mp3",
         "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
-        "clonedNewAudio": "/audio/qwen/spk-132723-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-132723-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-132723-fish-original.mp3",
         "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
-        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-132723-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6936,9 +6936,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-132723-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-132723-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "That's an important question. I think that would vary from person to person, would also vary from a relationship to another relationship. For instance, if you have a very priceless friend that is always there for you in your hardships or during your ease moments, then I would say it's essential to keep in touch with your old friends.",
-        "clonedNewAudio": "/audio/resemble/spk-132723-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-132723-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -6953,17 +6953,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-9241-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-9241-qwen-original.mp3",
         "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
-        "clonedNewAudio": "/audio/qwen/spk-9241-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-9241-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-9241-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-9241-fish-original.mp3",
         "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
-        "clonedNewAudio": "/audio/fish/spk-9241-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-9241-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -6985,9 +6985,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-9241-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-9241-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "For me, I think the fun part is when you try to speak a word and that word is misspelling. That is the most awkward for the one who learning, but it can be fun for someone who can listen or read.",
-        "clonedNewAudio": "/audio/resemble/spk-9241-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-9241-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -7002,17 +7002,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-7377-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-7377-qwen-original.mp3",
         "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
-        "clonedNewAudio": "/audio/qwen/spk-7377-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-7377-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-7377-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-7377-fish-original.mp3",
         "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
-        "clonedNewAudio": "/audio/fish/spk-7377-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-7377-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -7034,9 +7034,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-7377-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-7377-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Family support is important because when you feel like you are stuck in some circle, and you cannot get out from it, you have to talk to someone from your family member. So when they talk to you, you feel warm and safe so that will get you out from that circle.",
-        "clonedNewAudio": "/audio/resemble/spk-7377-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-7377-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -7051,17 +7051,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-164353-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-164353-qwen-original.mp3",
         "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
-        "clonedNewAudio": "/audio/qwen/spk-164353-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-164353-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-164353-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-164353-fish-original.mp3",
         "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
-        "clonedNewAudio": "/audio/fish/spk-164353-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-164353-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -7083,9 +7083,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-164353-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-164353-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "People have the choice, so if in the summer it's so hot you can go to the sea or you can be angry. In the winter with the very cold outside you can go to skating or you can be angry. So I think people choose your mood and behavior",
-        "clonedNewAudio": "/audio/resemble/spk-164353-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-164353-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -7100,17 +7100,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-181317-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-181317-qwen-original.mp3",
         "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
-        "clonedNewAudio": "/audio/qwen/spk-181317-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-181317-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-181317-fish-original.mp3",
         "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
-        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-181317-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -7132,9 +7132,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-181317-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-181317-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "One time I was hiking with a friend, and through the journey we were like throwing some medium rock. And suddenly I was up and he was climbing, so by accidentally I threw a stone which was really very close to hit him, but thanks God he was able to avoid in a part of seconds. Then we were like happy having you know this",
-        "clonedNewAudio": "/audio/resemble/spk-181317-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-181317-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -7149,17 +7149,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-180387-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-180387-qwen-original.mp3",
         "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
-        "clonedNewAudio": "/audio/qwen/spk-180387-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-180387-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-180387-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-180387-fish-original.mp3",
         "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
-        "clonedNewAudio": "/audio/fish/spk-180387-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-180387-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -7181,9 +7181,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-180387-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-180387-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Maybe in some English exams there are some questions that are related to the news, and not specifically to the word news but generally like the weather or anything else. But it could help in different things. For instance, from the speaking side you could make any conversation about the news and the inheritance about it.",
-        "clonedNewAudio": "/audio/resemble/spk-180387-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-180387-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -7198,17 +7198,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-182875-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-182875-qwen-original.mp3",
         "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
-        "clonedNewAudio": "/audio/qwen/spk-182875-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-182875-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-182875-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-182875-fish-original.mp3",
         "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
-        "clonedNewAudio": "/audio/fish/spk-182875-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-182875-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -7230,9 +7230,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-182875-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-182875-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Sure, it's important. I don't need to put all my money in the restaurant, so I need to go to the restaurant, I need to check about the price and the budget that I need to put in the restaurant. It don't need to be too much expensive and luxury to be nice. It's gonna be about something in the middle and it's gonna be nice.",
-        "clonedNewAudio": "/audio/resemble/spk-182875-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-182875-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -7247,17 +7247,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-188827-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-188827-qwen-original.mp3",
         "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
-        "clonedNewAudio": "/audio/qwen/spk-188827-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-188827-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-188827-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-188827-fish-original.mp3",
         "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
-        "clonedNewAudio": "/audio/fish/spk-188827-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-188827-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -7279,9 +7279,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-188827-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-188827-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "I usually wake up at 8 am. After wake up, go to shower. After that, go to school and study English for my school. After my school, I come back my home making my lunch, eat and study English and go to gym. After that, I go to sleep.",
-        "clonedNewAudio": "/audio/resemble/spk-188827-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-188827-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
@@ -7296,17 +7296,17 @@ export const speakers: Speaker[] = [
       {
         "modelId": "qwen",
         "modelName": "Qwen3 Engine",
-        "clonedOriginalAudio": "/audio/qwen/spk-169275-qwen-original.wav",
+        "clonedOriginalAudio": "/audio/qwen/spk-169275-qwen-original.mp3",
         "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
-        "clonedNewAudio": "/audio/qwen/spk-169275-qwen-new.wav",
+        "clonedNewAudio": "/audio/qwen/spk-169275-qwen-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
         "modelId": "fish",
         "modelName": "Fish Audio",
-        "clonedOriginalAudio": "/audio/fish/spk-169275-fish-original.wav",
+        "clonedOriginalAudio": "/audio/fish/spk-169275-fish-original.mp3",
         "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
-        "clonedNewAudio": "/audio/fish/spk-169275-fish-new.wav",
+        "clonedNewAudio": "/audio/fish/spk-169275-fish-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       },
       {
@@ -7328,9 +7328,9 @@ export const speakers: Speaker[] = [
       {
         "modelId": "resemble-chatterbox",
         "modelName": "Resemble Chatterbox",
-        "clonedOriginalAudio": "/audio/resemble/spk-169275-resemble-chatterbox-original.wav",
+        "clonedOriginalAudio": "/audio/resemble/spk-169275-resemble-chatterbox-original.mp3",
         "clonedOriginalText": "Change in the past ten years. Prince Mohammed bin Salman take the president of Saudi Arabia and he start the 2030 vision. One of the project in this vision it's the line, and the other project it's the Mohammed bin Salman park, it's the biggest park in the world. Okay? And he bring a lot of company to Saudi Arabia.",
-        "clonedNewAudio": "/audio/resemble/spk-169275-resemble-chatterbox-new.wav",
+        "clonedNewAudio": "/audio/resemble/spk-169275-resemble-chatterbox-new.mp3",
         "clonedNewText": "The quick brown fox jumps over the lazy dog. But what about the man who watched over them? He barely noticed."
       }
     ]
