@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/clone/eleven-flash/route": "app/api/clone/eleven-flash/route.js",
+  "/api/clone/eleven-normal/route": "app/api/clone/eleven-normal/route.js",
+  "/api/clone/fish/route": "app/api/clone/fish/route.js",
+  "/api/clone/qwen/route": "app/api/clone/qwen/route.js",
+  "/api/clone/resemble/route": "app/api/clone/resemble/route.js",
+  "/api/transcribe/route": "app/api/transcribe/route.js",
+  "/api/votes/route": "app/api/votes/route.js",
+  "/clone/page": "app/clone/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/list/page": "app/list/page.js",
+  "/page": "app/page.js"
+}

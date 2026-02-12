@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "pages404": true,
+  "appType": "app",
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_global-error",
+      "regex": "^/_global\\-error(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_global\\-error(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/api/clone/eleven-flash",
+      "regex": "^/api/clone/eleven\\-flash(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/clone/eleven\\-flash(?:/)?$"
+    },
+    {
+      "page": "/api/clone/eleven-normal",
+      "regex": "^/api/clone/eleven\\-normal(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/clone/eleven\\-normal(?:/)?$"
+    },
+    {
+      "page": "/api/clone/fish",
+      "regex": "^/api/clone/fish(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/clone/fish(?:/)?$"
+    },
+    {
+      "page": "/api/clone/qwen",
+      "regex": "^/api/clone/qwen(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/clone/qwen(?:/)?$"
+    },
+    {
+      "page": "/api/clone/resemble",
+      "regex": "^/api/clone/resemble(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/clone/resemble(?:/)?$"
+    },
+    {
+      "page": "/api/transcribe",
+      "regex": "^/api/transcribe(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/transcribe(?:/)?$"
+    },
+    {
+      "page": "/api/votes",
+      "regex": "^/api/votes(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/api/votes(?:/)?$"
+    },
+    {
+      "page": "/clone",
+      "regex": "^/clone(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/clone(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
+      "page": "/list",
+      "regex": "^/list(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/list(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

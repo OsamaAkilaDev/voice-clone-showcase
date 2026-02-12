@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/clone/eleven-flash": {
+      "maxDuration": 60
+    },
+    "/api/clone/eleven-normal": {
+      "maxDuration": 90
+    },
+    "/api/clone/fish": {
+      "maxDuration": 60
+    },
+    "/api/clone/qwen": {
+      "maxDuration": 120
+    },
+    "/api/clone/resemble": {
+      "maxDuration": 120
+    },
+    "/api/transcribe": {
+      "maxDuration": 60
+    }
+  }
+}
