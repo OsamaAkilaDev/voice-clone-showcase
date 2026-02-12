@@ -1,6 +1,11 @@
 name = "tts-archive"
-compatibility_date = "2024-04-01"
-pages_build_output_dir = ".vercel/output/static"
+main = ".open-next/worker.js"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
 
 [[kv_namespaces]]
 binding = "VOTES"

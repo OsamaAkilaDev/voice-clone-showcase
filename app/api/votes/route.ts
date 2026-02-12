@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getVotes, incrementVote } from '../../lib/db';
 
 export const dynamic = 'force-dynamic';
-export const runtime = 'edge';
+// Removed edge runtime for OpenNext compatibility
 
 export async function GET() {
   try {

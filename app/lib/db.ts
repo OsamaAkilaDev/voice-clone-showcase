@@ -1,4 +1,4 @@
-import { getRequestContext } from '@cloudflare/next-on-pages';
+import { getCloudflareContext } from '@opennextjs/cloudflare';
 
 export type VoteCounts = {
   qwen: number;
@@ -18,7 +18,7 @@ const DEFAULT_VOTES: VoteCounts = {
 
 export async function getVotes(): Promise<VoteCounts> {
   try {
-    const env = getRequestContext().env;
+    const { env } = getCloudflareContext();
     const votes = await env.VOTES.get('votes', 'json');
     return (votes as VoteCounts) || DEFAULT_VOTES;
   } catch (error) {
@@ -29,7 +29,7 @@ export async function getVotes(): Promise<VoteCounts> {
 
 export async function incrementVote(modelId: string): Promise<VoteCounts> {
   try {
-    const env = getRequestContext().env;
+    const { env } = getCloudflareContext();
     const votes = await getVotes();
     
     if (modelId in votes) {
