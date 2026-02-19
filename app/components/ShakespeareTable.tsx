@@ -70,7 +70,7 @@ const ShakespeareTable: React.FC = () => {
               <col className="w-[40px]" />
               {/* Chatterbox */}
               <col className="w-[140px]" />
-               <col className="w-[40px]" />
+              <col className="w-[40px]" />
               <col className="w-[40px]" />
               <col className="w-[40px]" />
               {/* Chatterbox Turbo */}

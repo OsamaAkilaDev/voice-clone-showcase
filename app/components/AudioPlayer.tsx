@@ -5,6 +5,8 @@ interface AudioPlayerProps {
 }
 
 const AudioPlayer: React.FC<AudioPlayerProps> = ({ src }) => {
+  if (!src) return null;
+
   return (
     <div className="w-full mt-2">
       <audio
