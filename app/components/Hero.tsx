@@ -34,6 +34,14 @@ const Hero: React.FC = () => {
             Clone Your Own Voice
           </Link>
         </div>
+        <div className="flex justify-center items-center mt-4">
+          <Link 
+             href="/shakespeare"
+             className="px-8 py-3 bg-emerald-950/5 dark:bg-emerald-400 backdrop-blur-md text-emerald-950 dark:text-black rounded-xl font-black text-lg hover:bg-emerald-950/10 dark:hover:bg-emerald-500 transition-all shadow-md flex justify-center items-center border border-emerald-950/10 dark:border-transparent"
+          >
+            Shakespeare Voice Comparison
+          </Link>
+        </div>
       </div>
     </section>
   );
