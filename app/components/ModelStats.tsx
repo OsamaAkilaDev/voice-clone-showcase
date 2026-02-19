@@ -17,27 +17,40 @@ const StatCard = ({ title, qwenValue, resembleValue, unit, higherIsBetter = fals
   unit: string;
   higherIsBetter?: boolean;
 }) => {
-  const isQwenBetter = higherIsBetter ? qwenValue > resembleValue : qwenValue < resembleValue;
-  const isResembleBetter = higherIsBetter ? resembleValue > qwenValue : resembleValue < qwenValue;
+  const precision = title.includes('Latency') ? 1 : 0;
+  const qwenFormatted = qwenValue.toFixed(precision);
+  const resembleFormatted = resembleValue.toFixed(precision);
+  
+  const isTie = qwenFormatted === resembleFormatted;
+  const isQwenBetter = !isTie && (higherIsBetter ? qwenValue > resembleValue : qwenValue < resembleValue);
+  const isResembleBetter = !isTie && (higherIsBetter ? resembleValue > qwenValue : resembleValue < qwenValue);
 
   return (
     <div className="bg-white/50 dark:bg-black/20 backdrop-blur-sm p-4 rounded-xl border border-white/20 dark:border-white/5 shadow-lg flex flex-col gap-3">
       <h3 className="text-xs font-semibold uppercase tracking-wider text-foreground/50">{title}</h3>
       <div className="grid grid-cols-2 gap-4">
-        <div className={`p-3 rounded-lg border flex flex-col ${isQwenBetter ? 'bg-emerald-500/10 border-emerald-500/30' : 'bg-white/5 dark:bg-white/5 border-transparent'}`}>
-          <span className="text-[10px] uppercase font-bold text-foreground/40 mb-1">Qwen {isQwenBetter && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Best</span>}</span>
+        <div className={`p-3 rounded-lg border flex flex-col ${isQwenBetter || isTie ? 'bg-emerald-500/10 border-emerald-500/30' : 'bg-white/5 dark:bg-white/5 border-transparent'}`}>
+          <span className="text-[10px] uppercase font-bold text-foreground/40 mb-1">
+            Qwen 
+            {isQwenBetter && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Best</span>}
+            {isTie && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Tie</span>}
+          </span>
           <div className="flex items-baseline gap-1">
-            <span className={`text-lg font-bold ${isQwenBetter ? 'text-emerald-600 dark:text-emerald-400' : 'text-foreground'}`}>
-              {qwenValue.toFixed(title.includes('Latency') ? 1 : 0)}
+            <span className={`text-lg font-bold ${isQwenBetter || isTie ? 'text-emerald-600 dark:text-emerald-400' : 'text-foreground'}`}>
+              {qwenFormatted}
             </span>
             <span className="text-xs opacity-50">{unit}</span>
           </div>
         </div>
-        <div className={`p-3 rounded-lg border flex flex-col ${isResembleBetter ? 'bg-emerald-500/10 border-emerald-500/30' : 'bg-white/5 dark:bg-white/5 border-transparent'}`}>
-          <span className="text-[10px] uppercase font-bold text-foreground/40 mb-1">Resemble {isResembleBetter && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Best</span>}</span>
+        <div className={`p-3 rounded-lg border flex flex-col ${isResembleBetter || isTie ? 'bg-emerald-500/10 border-emerald-500/30' : 'bg-white/5 dark:bg-white/5 border-transparent'}`}>
+          <span className="text-[10px] uppercase font-bold text-foreground/40 mb-1">
+            Resemble 
+            {isResembleBetter && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Best</span>}
+            {isTie && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Tie</span>}
+          </span>
           <div className="flex items-baseline gap-1">
-            <span className={`text-lg font-bold ${isResembleBetter ? 'text-emerald-600 dark:text-emerald-400' : 'text-foreground'}`}>
-              {resembleValue.toFixed(title.includes('Latency') ? 1 : 0)}
+            <span className={`text-lg font-bold ${isResembleBetter || isTie ? 'text-emerald-600 dark:text-emerald-400' : 'text-foreground'}`}>
+              {resembleFormatted}
             </span>
             <span className="text-xs opacity-50">{unit}</span>
           </div>
