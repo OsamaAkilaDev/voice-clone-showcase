@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { shakespeareEntries } from '../data/shakespeare';
 import AudioPlayer from './AudioPlayer';
 
-const ITEMS_PER_PAGE = 5;
+const ITEMS_PER_PAGE = 1000;
 
 const ShakespeareTable: React.FC = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -23,16 +23,16 @@ const ShakespeareTable: React.FC = () => {
   };
 
   return (
-    <div className="w-full space-y-4">
-      <div className="flex flex-col md:flex-row justify-between items-center gap-4 px-6 bg-emerald-50 dark:bg-white/5 p-3 rounded-[1.5rem] shadow-xl">
+    <div className="w-full h-full flex flex-col overflow-hidden space-y-4">
+      {/* <div className="flex flex-col md:flex-row justify-between items-center gap-4 px-6 bg-emerald-50 dark:bg-white/5 p-3 rounded-[1.5rem] shadow-xl flex-shrink-0">
         <div className="flex items-center gap-3">
           <span className="text-xs text-foreground/60 font-bold">
             Showing {effectiveStartIndex + 1}-{Math.min(effectiveStartIndex + ITEMS_PER_PAGE, shakespeareEntries.length)} of {shakespeareEntries.length}
           </span>
-          {/* <span className="text-xs font-bold text-foreground uppercase tracking-wider">Voice:</span>
+          <span className="text-xs font-bold text-foreground uppercase tracking-wider">Voice:</span>
           <div className="px-4 py-1.5 bg-gold-primary/20 border border-gold-primary/30 rounded-full text-xs font-bold text-foreground">
             🎭 Shakespeare (Custom Voice)
-          </div> */}
+          </div>
         </div>
 
         <div className="flex items-center gap-3">
@@ -56,117 +56,94 @@ const ShakespeareTable: React.FC = () => {
             Page {safeCurrentPage}/{totalPages || 1}
           </span>
         </div>
-      </div>
+      </div> */}
       
-      <div className="w-full shadow-xl sm:rounded-[1rem] bg-card-bg border border-foreground/5 overflow-hidden">
-        <div className="overflow-x-auto overflow-y-auto max-h-[66vh] w-full">
+      <div className="w-full flex-1 min-h-0 shadow-xl sm:rounded-[1rem] bg-card-bg border border-foreground/5 flex flex-col overflow-hidden">
+        <div className="w-full flex-1 overflow-auto">
           <table className="w-full text-sm text-left text-foreground min-w-full table-fixed border-collapse">
             <colgroup>
-              <col className="w-[300px]" />
-              {/* Qwen: Recording, TTFB, Latency, File Size */}
+              <col className="w-[200px]" />
+              {/* Qwen */}
               <col className="w-[140px]" />
-              <col className="w-[90px]" />
-              <col className="w-[90px]" />
-              <col className="w-[90px]" />
-              {/* Resemble: Recording, TTFB, Latency, File Size */}
+              <col className="w-[40px]" />
+              <col className="w-[40px]" />
+              <col className="w-[40px]" />
+              {/* Chatterbox */}
               <col className="w-[140px]" />
-              <col className="w-[90px]" />
-              <col className="w-[90px]" />
-              <col className="w-[90px]" />
+               <col className="w-[40px]" />
+              <col className="w-[40px]" />
+              <col className="w-[40px]" />
+              {/* Chatterbox Turbo */}
+              <col className="w-[140px]" />
+              <col className="w-[40px]" />
+              <col className="w-[40px]" />
+              <col className="w-[40px]" />
             </colgroup>
             <thead className="text-xs text-white uppercase bg-emerald-950 sticky top-0 z-20 shadow-sm">
               <tr>
                 <th scope="col" rowSpan={2} className="px-4 py-3 bg-emerald-950 border-r border-emerald-800 align-middle">
                   <span className="truncate">Text</span>
                 </th>
-                <th scope="col" colSpan={4} className="px-4 py-2.5 bg-indigo-900 text-center border-r border-emerald-800">
+                <th scope="col" colSpan={4} className="px-4 py-2 bg-indigo-900 text-center border-r border-emerald-800">
                   <span className="text-indigo-200">Qwen</span>
                 </th>
-                <th scope="col" colSpan={4} className="px-4 py-2.5 bg-teal-900 text-center">
-                  <span className="text-teal-200">Resemble.ai</span>
+                <th scope="col" colSpan={4} className="px-4 py-2 bg-teal-900 text-center border-r border-emerald-800">
+                  <span className="text-teal-200">Chatterbox</span>
+                </th>
+                <th scope="col" colSpan={4} className="px-4 py-2 bg-amber-900 text-center">
+                  <span className="text-amber-200">Turbo</span>
                 </th>
               </tr>
               <tr>
-                {/* Qwen sub-columns */}
-                <th scope="col" className="px-3 py-2 bg-indigo-900 text-center text-[10px] font-bold tracking-widest">
-                  Recording
-                </th>
-                <th scope="col" className="px-3 py-2 bg-indigo-950 text-center text-[10px] font-bold tracking-widest">
-                  TTFB
-                </th>
-                <th scope="col" className="px-3 py-2 bg-indigo-900 text-center text-[10px] font-bold tracking-widest">
-                  Latency
-                </th>
-                <th scope="col" className="px-3 py-2 bg-indigo-950 text-center text-[10px] font-bold tracking-widest border-r border-emerald-800">
-                  File Size
-                </th>
-                {/* Resemble sub-columns */}
-                <th scope="col" className="px-3 py-2 bg-teal-900 text-center text-[10px] font-bold tracking-widest">
-                  Recording
-                </th>
-                <th scope="col" className="px-3 py-2 bg-teal-950 text-center text-[10px] font-bold tracking-widest">
-                  TTFB
-                </th>
-                <th scope="col" className="px-3 py-2 bg-teal-900 text-center text-[10px] font-bold tracking-widest">
-                  Latency
-                </th>
-                <th scope="col" className="px-3 py-2 bg-teal-950 text-center text-[10px] font-bold tracking-widest">
-                  File Size
-                </th>
+                {/* Qwen */}
+                <th scope="col" className="px-2 py-2 bg-indigo-900 text-center text-[10px] font-bold tracking-tight">Audio</th>
+                <th scope="col" className="px-2 py-2 bg-indigo-950 text-center text-[10px] font-bold tracking-tight">TTFB</th>
+                <th scope="col" className="px-2 py-2 bg-indigo-900 text-center text-[10px] font-bold tracking-tight">Lat</th>
+                <th scope="col" className="px-2 py-2 bg-indigo-950 text-center text-[10px] font-bold tracking-tight border-r border-emerald-800">Size</th>
+                {/* Chatterbox */}
+                <th scope="col" className="px-2 py-2 bg-teal-900 text-center text-[10px] font-bold tracking-tight">Audio</th>
+                <th scope="col" className="px-2 py-2 bg-teal-950 text-center text-[10px] font-bold tracking-tight">TTFB</th>
+                <th scope="col" className="px-2 py-2 bg-teal-900 text-center text-[10px] font-bold tracking-tight">Lat</th>
+                <th scope="col" className="px-2 py-2 bg-teal-950 text-center text-[10px] font-bold tracking-tight border-r border-emerald-800">Size</th>
+                {/* Chatterbox Turbo */}
+                <th scope="col" className="px-2 py-2 bg-amber-900 text-center text-[10px] font-bold tracking-tight">Audio</th>
+                <th scope="col" className="px-2 py-2 bg-amber-950 text-center text-[10px] font-bold tracking-tight">TTFB</th>
+                <th scope="col" className="px-2 py-2 bg-amber-900 text-center text-[10px] font-bold tracking-tight">Lat</th>
+                <th scope="col" className="px-2 py-2 bg-amber-950 text-center text-[10px] font-bold tracking-tight">Size</th>
               </tr>
             </thead>
             <tbody>
               {currentEntries.map((entry) => (
-                <tr
-                  key={entry.id}
-                  className="bg-card-bg border-none hover:bg-emerald-500/5 transition-colors"
-                >
+                <tr key={entry.id} className="bg-card-bg border-none hover:bg-emerald-500/5 transition-colors">
                   <td className="px-4 py-4 align-top border-r border-foreground/5">
                     <div className="space-y-1">
-                      <p className="text-xs italic text-foreground/80 whitespace-pre-wrap break-words">&quot;{entry.text}&quot;</p>
-                      <div className="text-[10px] text-foreground/40 font-mono uppercase tracking-tighter">ID: {entry.id}</div>
+                      <p className="text-xs italic text-foreground/80 whitespace-pre-wrap break-words line-clamp-3" title={entry.text}>&quot;{entry.text}&quot;</p>
+                      <div className="text-[10px] text-foreground/40 font-mono uppercase tracking-tighter text-right">ID: {entry.id}</div>
                     </div>
                   </td>
-                  {/* Qwen: Recording */}
-                  <td className="px-3 py-4 align-middle bg-indigo-50/30 dark:bg-indigo-950/20">
-                    {entry.qwen.audio ? (
-                      <AudioPlayer src={entry.qwen.audio} />
-                    ) : (
-                      <span className="text-[10px] text-foreground/30 italic block text-center">No audio</span>
-                    )}
+                  {/* Qwen */}
+                  <td className="px-2 py-3 align-middle bg-indigo-50/20 dark:bg-indigo-950/20">
+                    <AudioPlayer src={entry.qwen.audio} />
                   </td>
-                  {/* Qwen: TTFB */}
-                  <td className="px-3 py-4 align-middle text-center bg-indigo-100/20 dark:bg-indigo-900/15">
-                    <span className="text-xs font-mono font-bold text-foreground">{entry.qwen.ttfb}</span>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-indigo-100/10 dark:bg-indigo-900/15">{entry.qwen.ttfb}</td>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-indigo-50/20 dark:bg-indigo-950/20">{entry.qwen.latency}</td>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-indigo-100/10 dark:bg-indigo-900/15 border-r border-foreground/5">{entry.qwen.fileSize}</td>
+                  
+                  {/* Chatterbox */}
+                  <td className="px-2 py-3 align-middle bg-teal-50/20 dark:bg-teal-950/20">
+                    <AudioPlayer src={entry.chatterbox.audio} />
                   </td>
-                  {/* Qwen: Latency */}
-                  <td className="px-3 py-4 align-middle text-center bg-indigo-50/30 dark:bg-indigo-950/20">
-                    <span className="text-xs font-mono font-bold text-foreground">{entry.qwen.latency}</span>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-teal-100/10 dark:bg-teal-900/15">{entry.chatterbox.ttfb}</td>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-teal-50/20 dark:bg-teal-950/20">{entry.chatterbox.latency}</td>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-teal-100/10 dark:bg-teal-900/15 border-r border-foreground/5">{entry.chatterbox.fileSize}</td>
+                  
+                  {/* Chatterbox Turbo */}
+                  <td className="px-2 py-3 align-middle bg-amber-50/20 dark:bg-amber-950/20">
+                    <AudioPlayer src={entry.chatterboxTurbo.audio} />
                   </td>
-                  {/* Qwen: File Size */}
-                  <td className="px-3 py-4 align-middle text-center bg-indigo-100/20 dark:bg-indigo-900/15 border-r border-foreground/5">
-                    <span className="text-xs font-mono font-bold text-foreground">{entry.qwen.fileSize}</span>
-                  </td>
-                  {/* Resemble: Recording */}
-                  <td className="px-3 py-4 align-middle bg-teal-50/30 dark:bg-teal-950/20">
-                    {entry.resemble.audio ? (
-                      <AudioPlayer src={entry.resemble.audio} />
-                    ) : (
-                      <span className="text-[10px] text-foreground/30 italic block text-center">No audio</span>
-                    )}
-                  </td>
-                  {/* Resemble: TTFB */}
-                  <td className="px-3 py-4 align-middle text-center bg-teal-100/20 dark:bg-teal-900/15">
-                    <span className="text-xs font-mono font-bold text-foreground">{entry.resemble.ttfb}</span>
-                  </td>
-                  {/* Resemble: Latency */}
-                  <td className="px-3 py-4 align-middle text-center bg-teal-50/30 dark:bg-teal-950/20">
-                    <span className="text-xs font-mono font-bold text-foreground">{entry.resemble.latency}</span>
-                  </td>
-                  {/* Resemble: File Size */}
-                  <td className="px-3 py-4 align-middle text-center bg-teal-100/20 dark:bg-teal-900/15">
-                    <span className="text-xs font-mono font-bold text-foreground">{entry.resemble.fileSize}</span>
-                  </td>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-amber-100/10 dark:bg-amber-900/15">{entry.chatterboxTurbo.ttfb}</td>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-amber-50/20 dark:bg-amber-950/20">{entry.chatterboxTurbo.latency}</td>
+                  <td className="px-2 py-3 align-middle text-center text-[11px] font-mono bg-amber-100/10 dark:bg-amber-900/15">{entry.chatterboxTurbo.fileSize}</td>
                 </tr>
               ))}
             </tbody>

@@ -43,7 +43,8 @@ export interface ModelAverages {
 
 export function calculateAverages(entries: ShakespeareEntry[]) {
   const qwenTotals = { ttfb: 0, latency: 0, size: 0, count: 0 };
-  const resembleTotals = { ttfb: 0, latency: 0, size: 0, count: 0 };
+  const chatterboxTotals = { ttfb: 0, latency: 0, size: 0, count: 0 };
+  const turboTotals = { ttfb: 0, latency: 0, size: 0, count: 0 };
 
   entries.forEach(entry => {
     if (entry.qwen) {
@@ -52,11 +53,17 @@ export function calculateAverages(entries: ShakespeareEntry[]) {
       qwenTotals.size += parseSize(entry.qwen.fileSize);
       qwenTotals.count++;
     }
-    if (entry.resemble) {
-      resembleTotals.ttfb += parseTime(entry.resemble.ttfb);
-      resembleTotals.latency += parseTime(entry.resemble.latency);
-      resembleTotals.size += parseSize(entry.resemble.fileSize);
-      resembleTotals.count++;
+    if (entry.chatterbox) {
+      chatterboxTotals.ttfb += parseTime(entry.chatterbox.ttfb);
+      chatterboxTotals.latency += parseTime(entry.chatterbox.latency);
+      chatterboxTotals.size += parseSize(entry.chatterbox.fileSize);
+      chatterboxTotals.count++;
+    }
+    if (entry.chatterboxTurbo) {
+      turboTotals.ttfb += parseTime(entry.chatterboxTurbo.ttfb);
+      turboTotals.latency += parseTime(entry.chatterboxTurbo.latency);
+      turboTotals.size += parseSize(entry.chatterboxTurbo.fileSize);
+      turboTotals.count++;
     }
   });
 
@@ -68,6 +75,7 @@ export function calculateAverages(entries: ShakespeareEntry[]) {
 
   return {
     qwen: getAverages(qwenTotals),
-    resemble: getAverages(resembleTotals)
+    chatterbox: getAverages(chatterboxTotals),
+    chatterboxTurbo: getAverages(turboTotals)
   };
 }

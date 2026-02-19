@@ -6,96 +6,104 @@ import { ModelAverages } from '../lib/statistics';
 interface ModelStatsProps {
   averages: {
     qwen: ModelAverages;
-    resemble: ModelAverages;
+    chatterbox: ModelAverages;
+    chatterboxTurbo: ModelAverages;
   };
 }
 
-const StatCard = ({ title, qwenValue, resembleValue, unit, higherIsBetter = false }: { 
+const StatCard = ({ title, models, unit, higherIsBetter = false }: { 
   title: string; 
-  qwenValue: number; 
-  resembleValue: number; 
+  models: { name: string; value: number }[];
   unit: string;
   higherIsBetter?: boolean;
 }) => {
   const precision = title.includes('Latency') ? 1 : 0;
-  const qwenFormatted = qwenValue.toFixed(precision);
-  const resembleFormatted = resembleValue.toFixed(precision);
   
-  const isTie = qwenFormatted === resembleFormatted;
-  const isQwenBetter = !isTie && (higherIsBetter ? qwenValue > resembleValue : qwenValue < resembleValue);
-  const isResembleBetter = !isTie && (higherIsBetter ? resembleValue > qwenValue : resembleValue < qwenValue);
+  // Format values for display and comparison
+  const formattedModels = models.map(m => ({
+    ...m,
+    display: m.value.toFixed(precision)
+  }));
+
+  // Find the "best" value among the raw numbers
+  const values = models.map(m => m.value);
+  const bestValue = higherIsBetter ? Math.max(...values) : Math.min(...values);
+  const bestDisplay = bestValue.toFixed(precision);
+
+  // A model is "Best" if its display value matches the best display value
+  // and it's unique. If multiple match, it's a "Tie".
+  const matchingBest = formattedModels.filter(m => m.display === bestDisplay);
+  const isGlobalTie = matchingBest.length > 1;
 
   return (
     <div className="bg-white/50 dark:bg-black/20 backdrop-blur-sm p-4 rounded-xl border border-white/20 dark:border-white/5 shadow-lg flex flex-col gap-3">
       <h3 className="text-xs font-semibold uppercase tracking-wider text-foreground/50">{title}</h3>
-      <div className="grid grid-cols-2 gap-4">
-        <div className={`p-3 rounded-lg border flex flex-col ${isQwenBetter || isTie ? 'bg-emerald-500/10 border-emerald-500/30' : 'bg-white/5 dark:bg-white/5 border-transparent'}`}>
-          <span className="text-[10px] uppercase font-bold text-foreground/40 mb-1">
-            Qwen 
-            {isQwenBetter && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Best</span>}
-            {isTie && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Tie</span>}
-          </span>
-          <div className="flex items-baseline gap-1">
-            <span className={`text-lg font-bold ${isQwenBetter || isTie ? 'text-emerald-600 dark:text-emerald-400' : 'text-foreground'}`}>
-              {qwenFormatted}
-            </span>
-            <span className="text-xs opacity-50">{unit}</span>
-          </div>
-        </div>
-        <div className={`p-3 rounded-lg border flex flex-col ${isResembleBetter || isTie ? 'bg-emerald-500/10 border-emerald-500/30' : 'bg-white/5 dark:bg-white/5 border-transparent'}`}>
-          <span className="text-[10px] uppercase font-bold text-foreground/40 mb-1">
-            Resemble 
-            {isResembleBetter && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Best</span>}
-            {isTie && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 mt-1 ml-2 uppercase">Tie</span>}
-          </span>
-          <div className="flex items-baseline gap-1">
-            <span className={`text-lg font-bold ${isResembleBetter || isTie ? 'text-emerald-600 dark:text-emerald-400' : 'text-foreground'}`}>
-              {resembleFormatted}
-            </span>
-            <span className="text-xs opacity-50">{unit}</span>
-          </div>
-        </div>
+      <div className={`grid gap-3 ${models.length === 3 ? 'grid-cols-1 sm:grid-cols-3' : 'grid-cols-2'}`}>
+        {formattedModels.map((model) => {
+          const isWinner = model.display === bestDisplay;
+          const showBest = isWinner && !isGlobalTie;
+          const showTie = isWinner && isGlobalTie;
+          
+          return (
+            <div 
+              key={model.name}
+              className={`p-2.5 rounded-lg border flex flex-col ${isWinner ? 'bg-emerald-500/10 border-emerald-500/30' : 'bg-white/5 dark:bg-white/5 border-transparent'}`}
+            >
+              <span className="text-[10px] uppercase font-bold text-foreground/40 mb-1 flex items-center justify-between">
+                {model.name}
+                {showBest && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 uppercase">Best</span>}
+                {showTie && <span className="text-[9px] font-bold text-emerald-600 dark:text-emerald-400 uppercase">Tie</span>}
+              </span>
+              <div className="flex items-baseline gap-1">
+                <span className={`text-base font-bold ${isWinner ? 'text-emerald-600 dark:text-emerald-400' : 'text-foreground'}`}>
+                  {model.display}
+                </span>
+                <span className="text-[10px] opacity-50 font-medium">{unit}</span>
+              </div>
+            </div>
+          );
+        })}
       </div>
     </div>
   );
 };
 
 export default function ModelStats({ averages }: ModelStatsProps) {
-  // Convert ms to s for latency if it's large, but let's keep it consistent with the data
-  // The data has "3.6s" or "704ms". calculateAverages converts everything to ms.
-  // We'll show latency in seconds and TTFB in ms.
-  
   return (
-    <div className="w-full mb-2">
-      <div className="flex items-center gap-2 mb-2">
+    <div className="w-full mb-4">
+      <div className="flex items-center gap-2 mb-3">
         <div className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse" />
         <h2 className="text-sm font-bold uppercase tracking-widest text-emerald-600 dark:text-emerald-400">Model Performance Summary</h2>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
         <StatCard 
           title="Average TTFB" 
-          qwenValue={averages.qwen.avgTTFB} 
-          resembleValue={averages.resemble.avgTTFB} 
+          models={[
+            { name: 'Qwen', value: averages.qwen.avgTTFB },
+            { name: 'Chatterbox', value: averages.chatterbox.avgTTFB },
+            { name: 'Turbo', value: averages.chatterboxTurbo.avgTTFB }
+          ]}
           unit="ms" 
         />
         <StatCard 
           title="Average Latency" 
-          qwenValue={averages.qwen.avgLatency / 1000} 
-          resembleValue={averages.resemble.avgLatency / 1000} 
+          models={[
+            { name: 'Qwen', value: averages.qwen.avgLatency / 1000 },
+            { name: 'Chatterbox', value: averages.chatterbox.avgLatency / 1000 },
+            { name: 'Turbo', value: averages.chatterboxTurbo.avgLatency / 1000 }
+          ]}
           unit="s" 
         />
         <StatCard 
           title="Average File Size" 
-          qwenValue={averages.qwen.avgFileSize} 
-          resembleValue={averages.resemble.avgFileSize} 
+          models={[
+            { name: 'Qwen', value: averages.qwen.avgFileSize },
+            { name: 'Chatterbox', value: averages.chatterbox.avgFileSize },
+            { name: 'Turbo', value: averages.chatterboxTurbo.avgFileSize }
+          ]}
           unit="KB" 
         />
       </div>
-      {/* <div className="mt-4 p-3 bg-gold-primary/5 rounded-lg border border-gold-primary/10">
-        <p className="text-[11px] text-foreground/60 italic">
-          * Averages calculated based on the full Shakespeare corpus (30 samples). Higher performance (lower time/size) is highlighted in emerald.
-        </p>
-      </div> */}
     </div>
   );
 }
